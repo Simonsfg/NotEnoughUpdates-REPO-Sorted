@@ -1,5 +1,5 @@
 <!-- markdownlint-disable no-inline-html -->
-<h1 align="center"> NotEnoughUpdates-REPO </h1>
+<h1 align="center"> NotEnoughUpdates-REPO-Sorted </h1>
 
 <p align="center">
   <!-- lint -->
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-This repository is used in order to store the various JSON files used for the Minecraft mod [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates).
+This is a fork of NotEnoughUpdates-REPO with automated category injection.
 
 <h2 align="center"> How to contribute </h2>
 
