@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   ],
-  "parent": "ULTIMATE_NO_PAIN_NO_GAIN;1"
+  "parent": "ULTIMATE_NO_PAIN_NO_GAIN;1",
+  "category": "enchants",
+  "priority": 1
 }

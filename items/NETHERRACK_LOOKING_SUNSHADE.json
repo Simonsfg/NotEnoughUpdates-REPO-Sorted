@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Netherrack-Looking_Sunshade",
     "https://wiki.hypixel.net/Netherrack-Looking_Sunshade"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

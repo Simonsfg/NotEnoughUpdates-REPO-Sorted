@@ -41,5 +41,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/InfiniVacuum™_Hooverius",
     "https://wiki.hypixel.net/InfiniVacuum™_Hooverius"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

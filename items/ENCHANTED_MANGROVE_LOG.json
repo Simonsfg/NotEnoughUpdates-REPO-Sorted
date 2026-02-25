@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_MANGROVE_LOG"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

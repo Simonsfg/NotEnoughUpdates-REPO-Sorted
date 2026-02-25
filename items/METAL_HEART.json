@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Living_Metal_Heart",
     "https://wiki.hypixel.net/Living_Metal_Heart"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

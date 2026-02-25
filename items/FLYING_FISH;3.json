@@ -40,5 +40,7 @@
       "output": "FLYING_FISH;3",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

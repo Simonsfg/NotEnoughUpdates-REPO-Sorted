@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Beach_Umbrella",
     "https://wiki.hypixel.net/Beach_Umbrella"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

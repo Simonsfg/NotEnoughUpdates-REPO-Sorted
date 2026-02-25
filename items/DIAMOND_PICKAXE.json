@@ -31,5 +31,7 @@
   },
   "info": [
     "https://wiki.hypixel.net/Diamond_Pickaxe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

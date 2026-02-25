@@ -39,5 +39,7 @@
     "C1": "CORRUPTED_NETHER_STAR:1",
     "C2": "CORRUPTED_NETHER_STAR:1",
     "C3": "CORRUPTED_NETHER_STAR:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -16,5 +16,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dead_Plant"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

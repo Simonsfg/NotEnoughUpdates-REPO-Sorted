@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rulenor",
     "https://wiki.hypixel.net/Rulenor"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

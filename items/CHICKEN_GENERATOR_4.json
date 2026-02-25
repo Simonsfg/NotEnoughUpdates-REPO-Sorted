@@ -35,5 +35,7 @@
     "C2": "RAW_CHICKEN:64",
     "C3": "RAW_CHICKEN:64"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

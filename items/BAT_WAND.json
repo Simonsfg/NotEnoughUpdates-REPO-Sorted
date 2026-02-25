@@ -37,5 +37,7 @@
     "C1": "",
     "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:3",
     "C3": ""
-  }
+  },
+  "category": "tools",
+  "priority": 7
 }

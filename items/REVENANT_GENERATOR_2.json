@@ -35,5 +35,7 @@
     "C2": "ZOMBIE_GENERATOR_1:1",
     "C3": "REVENANT_FLESH:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

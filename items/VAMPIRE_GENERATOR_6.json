@@ -34,5 +34,7 @@
     "C1": "HEMOGLASS:2",
     "C2": "HEMOGLASS:2",
     "C3": "HEMOGLASS:2"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

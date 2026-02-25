@@ -35,5 +35,7 @@
     "C2": "ENCHANTED_ENDER_PEARL:12",
     "C3": "ENCHANTED_ENDER_PEARL:12"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

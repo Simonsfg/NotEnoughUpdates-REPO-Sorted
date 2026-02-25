@@ -35,5 +35,7 @@
     "C2": "ENDER_PEARL:16",
     "C3": "ENDER_PEARL:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

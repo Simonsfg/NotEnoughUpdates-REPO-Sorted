@@ -21,5 +21,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rookie_Axe",
     "https://wiki.hypixel.net/Rookie_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

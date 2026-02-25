@@ -43,5 +43,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Shifted",
     "https://wiki.hypixel.net/Shifted"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

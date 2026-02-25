@@ -38,5 +38,7 @@
         "TARANTULA_SILK:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

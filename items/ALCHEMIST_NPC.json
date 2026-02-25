@@ -104,5 +104,7 @@
       ],
       "result": "GOLDEN_CARROT"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
     "C2": "BLAZE_ROD:20",
     "C3": "BLAZE_ROD:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

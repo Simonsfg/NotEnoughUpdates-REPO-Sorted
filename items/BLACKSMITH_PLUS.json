@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Blacksmith+",
     "https://wiki.hypixel.net/Blacksmith+"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

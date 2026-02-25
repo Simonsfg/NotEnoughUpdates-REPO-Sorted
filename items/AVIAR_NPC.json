@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Aviar",
     "https://wiki.hypixel.net/Aviar"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

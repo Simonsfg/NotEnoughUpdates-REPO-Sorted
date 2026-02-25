@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rocking_Chair",
     "https://wiki.hypixel.net/Rocking_Chair"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

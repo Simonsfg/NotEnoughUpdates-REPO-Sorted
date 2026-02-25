@@ -16,5 +16,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Cactus",
     "https://wiki.hypixel.net/Cactus"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

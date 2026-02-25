@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tree-like_Wool",
     "https://wiki.hypixel.net/Tree-like_Wool"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

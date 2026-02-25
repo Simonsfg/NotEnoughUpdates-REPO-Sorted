@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Emissary_Ceanna",
     "https://wiki.hypixel.net/Emissary_Ceanna"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

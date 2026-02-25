@@ -39,5 +39,7 @@
     "C1": "MOLTEN_POWDER:16",
     "C2": "MOLTEN_POWDER:16",
     "C3": "MOLTEN_POWDER:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

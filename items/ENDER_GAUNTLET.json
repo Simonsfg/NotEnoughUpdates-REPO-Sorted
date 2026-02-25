@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ender_Gauntlet",
     "https://wiki.hypixel.net/Ender_Gauntlet"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

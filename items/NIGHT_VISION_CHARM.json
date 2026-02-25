@@ -29,5 +29,7 @@
     "C1": "ENCHANTED_RED_MUSHROOM:1",
     "C2": "ENCHANTED_BROWN_MUSHROOM:1",
     "C3": "ENCHANTED_RED_MUSHROOM:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bucket_of_Dye",
     "https://wiki.hypixel.net/Bucket_Of_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

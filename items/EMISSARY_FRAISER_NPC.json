@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Emissary_Fraiser",
     "https://wiki.hypixel.net/Emissary_Fraiser"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

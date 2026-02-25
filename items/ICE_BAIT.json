@@ -39,5 +39,7 @@
       "cost": "EMERALD:20",
       "result": "ICE_BAIT"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

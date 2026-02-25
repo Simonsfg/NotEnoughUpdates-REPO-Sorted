@@ -53,5 +53,7 @@
         "ENCHANTED_IRON_BLOCK:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

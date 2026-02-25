@@ -30,5 +30,7 @@
     "C1": "ICE_HUNK:32",
     "C2": "BLUE_ICE_HUNK:32",
     "C3": "ICE_HUNK:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

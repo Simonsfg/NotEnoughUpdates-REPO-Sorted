@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Revenant_Flesh",
     "https://wiki.hypixel.net/Revenant_Flesh"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

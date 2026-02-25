@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bunny_Bench"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

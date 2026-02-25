@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tuning_Fork",
     "https://wiki.hypixel.net/Tuning_Fork"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

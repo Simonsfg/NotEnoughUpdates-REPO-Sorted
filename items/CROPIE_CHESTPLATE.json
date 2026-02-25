@@ -42,5 +42,7 @@
     "C1": "ENCHANTED_BAKED_POTATO:15",
     "C2": "ENCHANTED_BAKED_POTATO:15",
     "C3": "ENCHANTED_BAKED_POTATO:15"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Master_Tao",
     "https://wiki.hypixel.net/Master_Tao"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

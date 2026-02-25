@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wizard_Face",
     "https://wiki.hypixel.net/Wizard_Face"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

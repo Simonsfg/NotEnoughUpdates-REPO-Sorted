@@ -1,0 +1,40 @@
+PROJECT_GOALS:
+- Maintain a fork of NotEnoughUpdates-REPO that tracks upstream closely
+- Automatically inject custom item categories and priorities for better REI ordering
+- Improve usability for Hypixel SkyBlock item browsing (e.g. group Minions together)
+- Treat all item JSON files as generated artifacts
+- Never require manual editing of item JSON files
+- Ensure all transformations are deterministic and idempotent
+- Keep all custom logic isolated in Python scripts under /scripts
+- Support frequent upstream updates without merge conflicts
+- Enable full automation via GitHub Actions
+- Preserve full compatibility with NEU and REI
+
+ARCHITECTURE_RULES:
+- Do not manually edit files in /items or /constants
+- Only edit files in /scripts
+- All custom behavior must live in /scripts
+- Scripts must overwrite category/priority values, never increment or mutate existing ones
+- Scripts must be safe to run multiple times with identical output
+- No persistent state or caches outside version control
+- Prefer simple, readable, rule-based logic over heuristics
+
+TECHNOLOGY:
+- Python 3.13 or greater
+- Git (origin + upstream workflow)
+- GitHub Actions for automation
+- Static JSON processing only
+
+OUT_OF_SCOPE:
+- In-game editors
+- Client-side REI plugins
+- UI modifications to REI
+- Non-deterministic sorting behavior
+- Manual curation of individual items
+
+ASSISTANT_GUIDANCE:
+- Optimize for clarity, maintainability, and repeatability
+- Avoid clever hacks or brittle logic
+- Prefer explicit rules and category schemas
+- Assume the repo updates frequently
+- Assume scripts will be run automatically without human supervision

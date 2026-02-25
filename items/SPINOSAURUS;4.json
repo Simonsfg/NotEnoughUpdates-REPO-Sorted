@@ -47,5 +47,7 @@
       "overrideOutputId": "SPINOSAURUS;4",
       "duration": 604800
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

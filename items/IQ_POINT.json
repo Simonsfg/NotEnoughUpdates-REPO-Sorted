@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/IQ_Point",
     "https://wiki.hypixel.net/IQ_Point"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

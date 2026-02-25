@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dragon_Claw",
     "https://wiki.hypixel.net/Dragon_Claw"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

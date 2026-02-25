@@ -26,5 +26,7 @@
     "C2": "ENCHANTED_COAL:4",
     "C3": "",
     "count": 4
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

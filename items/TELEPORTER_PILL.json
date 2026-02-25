@@ -33,5 +33,7 @@
     "C2": "ENCHANTED_SUGAR:64",
     "C3": "MOLTEN_POWDER:1"
   },
-  "slayer_req": "BLAZE_4"
+  "slayer_req": "BLAZE_4",
+  "category": "misc",
+  "priority": 11
 }

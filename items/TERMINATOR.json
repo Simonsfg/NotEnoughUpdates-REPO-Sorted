@@ -48,5 +48,7 @@
     "C2": "NULL_BLADE:1",
     "C3": "TARANTULA_SILK:64"
   },
-  "slayer_req": "EMAN_7"
+  "slayer_req": "EMAN_7",
+  "category": "misc",
+  "priority": 11
 }

@@ -24,5 +24,7 @@
     "C2": "RED_SANDSTONE:1",
     "C3": "RED_SANDSTONE:1",
     "count": 4
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

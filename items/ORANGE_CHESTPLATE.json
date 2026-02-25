@@ -29,5 +29,7 @@
     "C1": "HALF_EATEN_CARROT:64",
     "C2": "HALF_EATEN_CARROT:64",
     "C3": "HALF_EATEN_CARROT:64"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

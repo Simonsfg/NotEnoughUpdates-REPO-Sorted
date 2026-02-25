@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hyper_Cleaver",
     "https://wiki.hypixel.net/Hyper_Cleaver"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

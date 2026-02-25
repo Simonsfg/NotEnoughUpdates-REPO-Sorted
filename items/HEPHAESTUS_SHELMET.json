@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "HEPHAESTUS_SHELMET"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

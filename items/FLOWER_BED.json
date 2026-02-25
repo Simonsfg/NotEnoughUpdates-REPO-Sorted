@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flower_Bed",
     "https://wiki.hypixel.net/Flower_Bed"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

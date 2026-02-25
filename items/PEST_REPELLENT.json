@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pest_Repellent",
     "https://wiki.hypixel.net/Pest_Repellent"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dungeon_Chest_Key",
     "https://wiki.hypixel.net/Dungeon_Chest_Key"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

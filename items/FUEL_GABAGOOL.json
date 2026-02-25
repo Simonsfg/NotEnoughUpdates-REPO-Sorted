@@ -47,5 +47,7 @@
       "C3": "SULPHURIC_COAL:1",
       "count": 8
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

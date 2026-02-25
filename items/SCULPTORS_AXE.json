@@ -29,5 +29,7 @@
     "C1": "STICK:1",
     "C2": "",
     "C3": ""
-  }
+  },
+  "category": "tools",
+  "priority": 7
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mango_Dye",
     "https://wiki.hypixel.net/Mango_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

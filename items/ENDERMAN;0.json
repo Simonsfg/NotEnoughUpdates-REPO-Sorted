@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet",
     "https://wiki.hypixel.net/Enderman_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

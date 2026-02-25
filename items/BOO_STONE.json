@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Boo_Stone",
     "https://wiki.hypixel.net/Boo_Stone"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

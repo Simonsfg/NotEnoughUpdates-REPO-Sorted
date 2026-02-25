@@ -28,5 +28,7 @@
     "C1": "COAL:1",
     "C2": "COAL:1",
     "C3": "COAL:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

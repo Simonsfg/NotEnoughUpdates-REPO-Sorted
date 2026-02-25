@@ -36,5 +36,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Premium_Flesh",
     "https://wiki.hypixel.net/Premium_Flesh"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Avorius",
     "https://wiki.hypixel.net/Avorius"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

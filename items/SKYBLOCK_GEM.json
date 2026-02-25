@@ -15,5 +15,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/SkyBlock_Gems"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

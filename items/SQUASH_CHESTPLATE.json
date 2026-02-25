@@ -43,5 +43,7 @@
     "C1": "ENCHANTED_COOKIE:10",
     "C2": "ENCHANTED_COOKIE:10",
     "C3": "ENCHANTED_COOKIE:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

@@ -26,5 +26,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Speedster_Rod",
     "https://wiki.hypixel.net/Speedster_Rod"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

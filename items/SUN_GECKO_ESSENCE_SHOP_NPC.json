@@ -52,5 +52,7 @@
       ],
       "result": "SKYBLOCK_ENIGMA_SOUL:1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

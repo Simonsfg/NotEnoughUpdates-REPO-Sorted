@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Precious_Pearl",
     "https://wiki.hypixel.net/Precious_Pearl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

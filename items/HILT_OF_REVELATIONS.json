@@ -18,5 +18,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Hilt_of_Revelations"
-  ]
+  ],
+  "category": "vanilla",
+  "priority": 10
 }

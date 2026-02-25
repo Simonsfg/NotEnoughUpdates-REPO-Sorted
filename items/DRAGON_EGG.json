@@ -13,5 +13,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Dragon_Egg"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

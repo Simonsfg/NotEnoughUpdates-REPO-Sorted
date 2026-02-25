@@ -34,5 +34,7 @@
     "C1": "ENCHANTED_HARD_STONE:20",
     "C2": "",
     "C3": "ENCHANTED_HARD_STONE:20"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

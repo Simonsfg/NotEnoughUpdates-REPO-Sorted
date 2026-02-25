@@ -14,5 +14,7 @@
   "crafttext": "",
   "clickcommand": "POTION_AGILITY",
   "modver": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "pets",
+  "priority": 2
 }

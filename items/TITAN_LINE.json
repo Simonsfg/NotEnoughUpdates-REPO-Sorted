@@ -31,5 +31,7 @@
     "C1": "TITANOBOA_SHED:1",
     "C2": "",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

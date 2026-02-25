@@ -17,5 +17,7 @@
     "https://wiki.hypixel.net/Sponge",
     "https://hypixel-skyblock.fandom.com/wiki/Sponge"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

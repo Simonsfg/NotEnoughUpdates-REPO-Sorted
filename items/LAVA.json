@@ -10,5 +10,7 @@
   "crafttext": "",
   "clickcommand": "",
   "modver": "2.0.0-REL",
-  "infoType": ""
+  "infoType": "",
+  "category": "misc",
+  "priority": 11
 }

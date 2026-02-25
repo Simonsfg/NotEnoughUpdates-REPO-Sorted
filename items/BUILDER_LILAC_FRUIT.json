@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lilac_Fruit",
     "https://wiki.hypixel.net/Lilac_Fruit"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

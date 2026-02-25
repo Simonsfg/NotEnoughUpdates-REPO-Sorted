@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cyndarin",
     "https://wiki.hypixel.net/Cyndarin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

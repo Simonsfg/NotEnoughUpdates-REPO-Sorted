@@ -28,5 +28,7 @@
     "C2": "",
     "C3": ""
   },
-  "vanilla": true
+  "vanilla": true,
+  "category": "armor",
+  "priority": 6
 }

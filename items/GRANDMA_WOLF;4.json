@@ -44,5 +44,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet",
     "https://wiki.hypixel.net/Grandma_Wolf_Pet"
   ],
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "pets",
+  "priority": 2
 }

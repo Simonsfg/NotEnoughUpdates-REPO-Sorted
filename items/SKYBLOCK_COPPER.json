@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Copper",
     "https://wiki.hypixel.net/Copper"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

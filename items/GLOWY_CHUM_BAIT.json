@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Glowy_Chum_Bait",
     "https://wiki.hypixel.net/Glowy_Chum_Bait"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

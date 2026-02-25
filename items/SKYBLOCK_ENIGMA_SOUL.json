@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Enigma_Soul",
     "https://wiki.hypixel.net/Enigma_Souls"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

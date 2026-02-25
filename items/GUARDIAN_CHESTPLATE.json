@@ -34,5 +34,7 @@
     "C1": "PRISMARINE_CRYSTALS:64",
     "C2": "PRISMARINE_CRYSTALS:64",
     "C3": "PRISMARINE_CRYSTALS:64"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

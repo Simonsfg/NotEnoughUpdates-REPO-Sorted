@@ -35,5 +35,7 @@
     "C1": "ENCHANTED_MITHRIL:64",
     "C2": "ENCHANTED_MITHRIL:64",
     "C3": "ENCHANTED_MITHRIL:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

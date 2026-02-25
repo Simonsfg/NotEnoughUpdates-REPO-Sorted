@@ -31,5 +31,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_WILD_ROSE"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

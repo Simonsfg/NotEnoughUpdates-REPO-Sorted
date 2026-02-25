@@ -45,5 +45,7 @@
       "C3": "",
       "count": 1
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

@@ -50,5 +50,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet",
     "https://wiki.hypixel.net/Kuudra_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

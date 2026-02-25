@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Perfect_Armor#Tier_XIII",
     "https://wiki.hypixel.net/Perfect_Boots_-_Tier_XIII"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

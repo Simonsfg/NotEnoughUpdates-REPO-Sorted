@@ -46,5 +46,7 @@
       "count": 1,
       "overrideOutputId": "SMALL_FORAGING_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

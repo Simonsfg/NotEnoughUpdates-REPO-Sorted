@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gary",
     "https://wiki.hypixel.net/Gary"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wolf_Tooth",
     "https://wiki.hypixel.net/Wolf_Tooth"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

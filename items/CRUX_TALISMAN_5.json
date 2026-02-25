@@ -37,5 +37,7 @@
     "C1": "FROSTY_CRUX:3",
     "C2": "FROSTY_CRUX:3",
     "C3": "FROSTY_CRUX:3"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

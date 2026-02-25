@@ -55,5 +55,7 @@
       "count": 1,
       "overrideOutputId": "VENOMS_TOUCH"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

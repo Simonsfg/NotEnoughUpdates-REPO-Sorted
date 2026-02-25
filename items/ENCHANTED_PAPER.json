@@ -27,5 +27,7 @@
     "C1": "SUGAR_CANE:64",
     "C2": "",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

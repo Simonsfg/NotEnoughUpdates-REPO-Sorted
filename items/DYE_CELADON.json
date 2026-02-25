@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Celadon_Dye",
     "https://wiki.hypixel.net/Celadon_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

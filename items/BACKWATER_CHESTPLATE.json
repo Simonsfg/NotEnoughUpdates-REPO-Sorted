@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Backwater_Chestplate",
     "https://wiki.hypixel.net/Backwater_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

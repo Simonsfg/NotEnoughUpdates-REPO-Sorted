@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lava_Shell",
     "https://wiki.hypixel.net/Lava_Shell"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -32,5 +32,7 @@
     "C1": "ENCHANTED_ENDSTONE:16",
     "C2": "ENCHANTED_ENDSTONE:16",
     "C3": "ENCHANTED_ENDSTONE:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

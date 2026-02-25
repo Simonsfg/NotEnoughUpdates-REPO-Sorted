@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/6th_Anniversary_Balloon_Hat",
     "https://wiki.hypixel.net/6th_Anniversary_Balloon_Hat"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

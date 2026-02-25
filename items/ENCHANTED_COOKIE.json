@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_COOKIE"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

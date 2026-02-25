@@ -37,5 +37,7 @@
     "C2": "ENCHANTED_IRON:20",
     "C3": ""
   },
-  "slayer_req": "WOLF_5"
+  "slayer_req": "WOLF_5",
+  "category": "misc",
+  "priority": 11
 }

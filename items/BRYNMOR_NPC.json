@@ -40,5 +40,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Brynmor",
     "https://wiki.hypixel.net/Brynmor"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

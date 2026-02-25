@@ -30,5 +30,7 @@
     "C2": "ENCHANTED_DIAMOND_BLOCK:1",
     "C3": ""
   },
-  "parent": "PERFECT_HELMET_1"
+  "parent": "PERFECT_HELMET_1",
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "BASE_GRIFFIN_UPGRADE_STONE"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

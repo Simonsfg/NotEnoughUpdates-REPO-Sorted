@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dark_Oak_Table",
     "https://wiki.hypixel.net/Dark_Oak_Table"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -40,5 +40,7 @@
       "overrideOutputId": "TITANIUM_CLOAK",
       "duration": 16200
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -30,5 +30,7 @@
     "C1": "ENCHANTED_IRON:64",
     "C2": "ENCHANTED_IRON:64",
     "C3": "ENCHANTED_IRON:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

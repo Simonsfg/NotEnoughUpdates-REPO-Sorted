@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gimley",
     "https://wiki.hypixel.net/Gimley"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

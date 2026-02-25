@@ -35,5 +35,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Marina_the_Fisherwoman",
     "https://wiki.hypixel.net/Marina"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

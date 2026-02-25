@@ -29,5 +29,7 @@
     "C1": "WITHER_CATALYST:3",
     "C2": "WITHER_CATALYST:3",
     "C3": "WITHER_CATALYST:3"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

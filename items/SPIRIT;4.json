@@ -50,5 +50,7 @@
         "ENCHANTED_GHAST_TEAR:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

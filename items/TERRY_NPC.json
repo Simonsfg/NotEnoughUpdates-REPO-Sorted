@@ -50,5 +50,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Terry",
     "https://wiki.hypixel.net/Terry"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

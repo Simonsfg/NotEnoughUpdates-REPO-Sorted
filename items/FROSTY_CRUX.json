@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Frosty_Crux",
     "https://wiki.hypixel.net/Frosty_Crux"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

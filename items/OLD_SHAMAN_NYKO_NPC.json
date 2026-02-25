@@ -34,5 +34,7 @@
       ],
       "result": "TRUE_PROTECTION;1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

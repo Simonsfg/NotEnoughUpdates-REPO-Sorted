@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Portable_Washer",
     "https://wiki.hypixel.net/Portable_Washer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

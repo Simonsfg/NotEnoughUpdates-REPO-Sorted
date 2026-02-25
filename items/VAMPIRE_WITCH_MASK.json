@@ -40,5 +40,7 @@
     "C1": "ECTOPLASM:1",
     "C2": "VAMPIRE_MASK:1",
     "C3": "ECTOPLASM:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

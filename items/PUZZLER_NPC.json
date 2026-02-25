@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Puzzler",
     "https://wiki.hypixel.net/Puzzler"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

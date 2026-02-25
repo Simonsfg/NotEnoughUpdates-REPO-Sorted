@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Weak_Wolf_Catalyst",
     "https://wiki.hypixel.net/Weak_Wolf_Catalyst"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

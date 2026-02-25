@@ -47,5 +47,7 @@
       "count": 1,
       "overrideOutputId": "MEDIUM_FISHING_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

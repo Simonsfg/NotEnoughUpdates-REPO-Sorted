@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Compact_Ooze",
     "https://wiki.hypixel.net/Compact_Ooze"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -83,5 +83,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Moby",
     "https://wiki.hypixel.net/Moby"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

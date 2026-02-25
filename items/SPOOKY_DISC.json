@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spooky_Disc",
     "https://wiki.hypixel.net/Spooky_Disc"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

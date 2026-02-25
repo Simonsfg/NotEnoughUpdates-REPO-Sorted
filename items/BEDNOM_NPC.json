@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bednom",
     "https://wiki.hypixel.net/Bednom"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -25,5 +25,7 @@
     "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK:8",
     "C2": "ABSOLUTE_ENDER_PEARL:16",
     "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

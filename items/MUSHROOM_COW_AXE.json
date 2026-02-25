@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mushroom_Cow_Axe",
     "https://wiki.hypixel.net/Mushroom_Cow_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

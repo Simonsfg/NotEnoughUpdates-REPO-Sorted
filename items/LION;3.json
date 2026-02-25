@@ -42,5 +42,7 @@
       "output": "LION;3",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

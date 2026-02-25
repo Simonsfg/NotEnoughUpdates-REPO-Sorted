@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingo_Artifact",
     "https://wiki.hypixel.net/Bingo_Artifact"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

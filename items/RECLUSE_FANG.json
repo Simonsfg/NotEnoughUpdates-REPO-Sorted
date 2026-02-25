@@ -45,5 +45,7 @@
       "count": 1,
       "overrideOutputId": "RECLUSE_FANG"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "MEDIUM_FISH_BOWL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

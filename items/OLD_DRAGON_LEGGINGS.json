@@ -36,5 +36,7 @@
     "C1": "OLD_FRAGMENT:10",
     "C2": "",
     "C3": "OLD_FRAGMENT:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

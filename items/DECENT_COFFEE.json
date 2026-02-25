@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Decent_Coffee",
     "https://wiki.hypixel.net/Decent_Coffee"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

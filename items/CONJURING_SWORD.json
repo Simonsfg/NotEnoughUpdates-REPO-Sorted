@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Conjuring",
     "https://wiki.hypixel.net/Conjuring"
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

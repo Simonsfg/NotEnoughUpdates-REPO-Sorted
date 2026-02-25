@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tiger_Pet",
     "https://wiki.hypixel.net/Tiger_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

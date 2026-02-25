@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Book_of_Stats",
     "https://wiki.hypixel.net/Book_Of_Stats"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rookie_Hoe",
     "https://wiki.hypixel.net/Rookie_Hoe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

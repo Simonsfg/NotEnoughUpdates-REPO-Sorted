@@ -234,5 +234,7 @@
       "max": 41,
       "result": "EMERALD"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

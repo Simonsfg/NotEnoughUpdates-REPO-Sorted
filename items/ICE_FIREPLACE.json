@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ice_Fireplace",
     "https://wiki.hypixel.net/Ice_Fireplace"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

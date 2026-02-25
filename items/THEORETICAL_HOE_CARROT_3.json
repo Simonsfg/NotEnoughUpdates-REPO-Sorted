@@ -36,5 +36,7 @@
       "count": 1,
       "overrideOutputId": "THEORETICAL_HOE_CARROT_3"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

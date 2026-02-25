@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ananke_Feather",
     "https://wiki.hypixel.net/Ananke_Feather"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

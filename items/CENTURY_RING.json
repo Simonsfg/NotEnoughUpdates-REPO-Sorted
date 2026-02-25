@@ -30,5 +30,7 @@
     "C1": "TOKEN_OF_THE_CENTURY:1",
     "C2": "TOKEN_OF_THE_CENTURY:1",
     "C3": "TOKEN_OF_THE_CENTURY:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

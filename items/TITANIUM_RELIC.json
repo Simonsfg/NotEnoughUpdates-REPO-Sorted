@@ -30,5 +30,7 @@
       "overrideOutputId": "TITANIUM_RELIC",
       "duration": 259200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Invaluable_Ring_of_Love",
     "https://wiki.hypixel.net/Invaluable_Ring_Of_Love"
   ],
-  "parent": "WEDDING_RING_0"
+  "parent": "WEDDING_RING_0",
+  "category": "misc",
+  "priority": 11
 }

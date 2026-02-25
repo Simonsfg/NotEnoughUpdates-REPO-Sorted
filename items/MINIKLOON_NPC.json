@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Minikloon",
     "https://wiki.hypixel.net/Minikloon"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

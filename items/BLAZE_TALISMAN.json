@@ -31,5 +31,7 @@
     "C1": "MILLENIA_OLD_BLAZE_ASHES:1",
     "C2": "MILLENIA_OLD_BLAZE_ASHES:1",
     "C3": "MILLENIA_OLD_BLAZE_ASHES:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

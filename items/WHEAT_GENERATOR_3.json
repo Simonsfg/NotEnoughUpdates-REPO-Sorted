@@ -36,5 +36,7 @@
     "C2": "WHEAT:40",
     "C3": "WHEAT:40"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dungeon_Disc",
     "https://wiki.hypixel.net/Dungeon_Disc"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

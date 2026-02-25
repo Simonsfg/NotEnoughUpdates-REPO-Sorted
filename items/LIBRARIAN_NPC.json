@@ -90,5 +90,7 @@
       ],
       "result": "EFFICIENCY;1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

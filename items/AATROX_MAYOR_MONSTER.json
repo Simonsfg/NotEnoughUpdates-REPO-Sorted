@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Aatrox",
     "https://wiki.hypixel.net/Aatrox"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

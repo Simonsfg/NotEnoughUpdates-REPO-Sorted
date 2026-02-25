@@ -36,5 +36,7 @@
       ],
       "result": "ROSE_DRAGON;4"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

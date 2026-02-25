@@ -27,5 +27,7 @@
       ],
       "result": "MOODY_GRAPPLESHOT"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

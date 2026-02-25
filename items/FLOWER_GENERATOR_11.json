@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_POPPY:1",
     "C3": "ENCHANTED_POPPY:1"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Detective_Scanner",
     "https://wiki.hypixel.net/Detective_Scanner"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

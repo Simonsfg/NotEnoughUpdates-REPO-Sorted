@@ -39,5 +39,7 @@
     "C1": "BRIMSTONE_HANDLE:1",
     "C2": "",
     "C3": "LAVA_WATER_ORB:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

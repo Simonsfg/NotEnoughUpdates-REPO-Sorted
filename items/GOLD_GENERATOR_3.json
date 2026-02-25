@@ -36,5 +36,7 @@
     "C2": "GOLD_INGOT:40",
     "C3": "GOLD_INGOT:40"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

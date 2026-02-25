@@ -35,5 +35,7 @@
       "overrideOutputId": "STARFALL_SEASONING",
       "duration": 64800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

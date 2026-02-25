@@ -47,5 +47,7 @@
       "duration": 604800,
       "overrideOutputId": "PENGUIN;4"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

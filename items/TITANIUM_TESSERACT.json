@@ -42,5 +42,7 @@
       "overrideOutputId": "TITANIUM_TESSERACT",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

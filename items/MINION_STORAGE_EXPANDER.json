@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Minion_Storage_X-pender",
     "https://wiki.hypixel.net/Minion_Storage_X-pender"
-  ]
+  ],
+  "category": "minions",
+  "priority": 0
 }

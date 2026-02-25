@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Watcher_Disc",
     "https://wiki.hypixel.net/Watcher_Disc"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

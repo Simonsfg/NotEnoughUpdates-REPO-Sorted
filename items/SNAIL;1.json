@@ -38,5 +38,7 @@
         "ENCHANTED_RED_SAND:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

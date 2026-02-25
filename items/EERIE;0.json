@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Eerie_Pet",
     "https://wiki.hypixel.net/Eerie_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

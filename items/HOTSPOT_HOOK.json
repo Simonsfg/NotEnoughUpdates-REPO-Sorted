@@ -33,5 +33,7 @@
     "C1": "",
     "C2": "BROKEN_RADAR:8",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

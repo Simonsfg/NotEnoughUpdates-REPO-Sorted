@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Brewing+",
     "https://wiki.hypixel.net/Brewing+"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

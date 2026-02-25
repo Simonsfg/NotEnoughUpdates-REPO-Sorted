@@ -27,5 +27,7 @@
     "C1": "",
     "C2": "RABBIT_FOOT:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Aspect_of_the_Jerry,_Signature_Edition",
     "https://wiki.hypixel.net/Aspect_Of_The_Jerry,_Signature_Edition"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

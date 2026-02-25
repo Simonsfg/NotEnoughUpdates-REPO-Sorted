@@ -22,5 +22,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Ubik%27s_Cube"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

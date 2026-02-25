@@ -40,5 +40,7 @@
     "C2": "GOLDEN_TOOTH:24",
     "C3": "ENCHANTED_OBSIDIAN:64"
   },
-  "slayer_req": "WOLF_7"
+  "slayer_req": "WOLF_7",
+  "category": "misc",
+  "priority": 11
 }

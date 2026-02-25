@@ -27,5 +27,7 @@
     "C1": "",
     "C2": "ENCHANTED_SPIDER_EYE:64",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

@@ -43,5 +43,7 @@
       "output": "MONKEY;4",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

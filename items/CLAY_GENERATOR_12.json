@@ -33,5 +33,7 @@
     "C1": "",
     "C2": "GENERATOR_UPGRADE_STONE_CLAY_12:1",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Carnival_Cowboy",
     "https://wiki.hypixel.net/Carnival_Cowboy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

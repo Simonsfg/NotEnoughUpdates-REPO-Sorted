@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Overgrown_Grass",
     "https://wiki.hypixel.net/Overgrown_Grass"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

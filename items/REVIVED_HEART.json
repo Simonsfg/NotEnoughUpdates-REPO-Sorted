@@ -39,5 +39,7 @@
     "C2": "ZOMBIE_HEART:1",
     "C3": "ZOMBIE_HEART:1"
   },
-  "slayer_req": "ZOMBIE_6"
+  "slayer_req": "ZOMBIE_6",
+  "category": "misc",
+  "priority": 11
 }

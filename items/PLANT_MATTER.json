@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Plant_Matter",
     "https://wiki.hypixel.net/Plant_Matter"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

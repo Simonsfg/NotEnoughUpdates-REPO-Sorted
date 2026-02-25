@@ -28,5 +28,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Iron_Boots"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

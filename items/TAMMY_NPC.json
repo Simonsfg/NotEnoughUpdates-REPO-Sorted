@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tammy",
     "https://wiki.hypixel.net/Tammy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

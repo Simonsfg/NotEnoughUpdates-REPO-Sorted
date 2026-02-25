@@ -46,5 +46,7 @@
       "count": 1,
       "overrideOutputId": "PIG;0"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

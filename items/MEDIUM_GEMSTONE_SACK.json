@@ -33,5 +33,7 @@
     "C1": "FLAWED_RUBY_GEM:10",
     "C2": "FLAWED_RUBY_GEM:10",
     "C3": "FLAWED_RUBY_GEM:10"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

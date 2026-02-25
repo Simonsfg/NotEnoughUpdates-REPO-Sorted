@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kaus",
     "https://wiki.hypixel.net/Kaus"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

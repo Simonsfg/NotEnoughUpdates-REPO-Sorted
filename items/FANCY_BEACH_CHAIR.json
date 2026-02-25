@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Fancy_Beach_Chair"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "DIAMOND_SCARF_HEAD"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

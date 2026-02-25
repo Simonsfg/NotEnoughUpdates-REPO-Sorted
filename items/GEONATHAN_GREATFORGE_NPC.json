@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Geonathan_Greatforge",
     "https://wiki.hypixel.net/Geonathan_Greatforge"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -47,5 +47,7 @@
         "ENCHANTED_RAW_BEEF:1024"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

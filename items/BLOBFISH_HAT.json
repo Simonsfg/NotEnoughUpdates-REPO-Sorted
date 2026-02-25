@@ -29,5 +29,7 @@
     "C1": "CLAY_BALL:1",
     "C2": "CLAY_BALL:1",
     "C3": "CLAY_BALL:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

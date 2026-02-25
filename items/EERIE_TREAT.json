@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Eerie_Treat",
     "https://wiki.hypixel.net/Eerie_Treat"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Suspicious_Vial",
     "https://wiki.hypixel.net/Suspicious_Vial"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

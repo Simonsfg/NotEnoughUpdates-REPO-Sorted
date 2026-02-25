@@ -33,5 +33,7 @@
     "C1": "YOUNGITE:16",
     "C2": "TIMITE:16",
     "C3": "YOUNGITE:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

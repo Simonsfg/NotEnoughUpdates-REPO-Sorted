@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Urchin",
     "https://wiki.hypixel.net/Magma_Urchin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

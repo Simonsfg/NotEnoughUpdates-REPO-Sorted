@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bubblegum",
     "https://wiki.hypixel.net/Bubblegum"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

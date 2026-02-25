@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/French_Bread",
     "https://wiki.hypixel.net/French_Bread"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
     "C1": "",
     "C2": "CONCENTRATED_STONE:1",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

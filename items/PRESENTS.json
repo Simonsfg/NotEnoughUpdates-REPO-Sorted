@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Present_Stack",
     "https://wiki.hypixel.net/Present_Stack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

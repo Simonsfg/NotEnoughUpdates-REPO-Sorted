@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Light_Gray_Lamp",
     "https://wiki.hypixel.net/Light_Gray_Lamp"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -34,5 +34,7 @@
     "C1": "ENCHANTED_REDSTONE_BLOCK:4",
     "C2": "PERSONAL_COMPACTOR_5000:1",
     "C3": "ENCHANTED_REDSTONE_BLOCK:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

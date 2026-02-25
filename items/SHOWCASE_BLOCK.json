@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Showcase_Block",
     "https://wiki.hypixel.net/Showcase_Block"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

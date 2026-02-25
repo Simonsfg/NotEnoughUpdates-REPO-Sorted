@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rotten_Chestplate",
     "https://wiki.hypixel.net/Rotten_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

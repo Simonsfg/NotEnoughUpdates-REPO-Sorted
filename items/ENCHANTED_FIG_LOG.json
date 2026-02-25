@@ -32,5 +32,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_FIG_LOG"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

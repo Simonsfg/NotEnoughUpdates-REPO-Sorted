@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Zombie_Brain_Mixin",
     "https://wiki.hypixel.net/Zombie_Brain_Mixin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Free_Spider",
     "https://wiki.hypixel.net/Free_Spider"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

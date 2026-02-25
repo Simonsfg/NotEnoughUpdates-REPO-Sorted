@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Small_Pool",
     "https://wiki.hypixel.net/Small_Pool"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

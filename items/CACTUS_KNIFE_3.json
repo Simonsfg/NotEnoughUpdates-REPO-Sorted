@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "CACTUS_KNIFE_3"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

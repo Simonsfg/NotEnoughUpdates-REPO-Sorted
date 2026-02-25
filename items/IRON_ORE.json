@@ -14,5 +14,7 @@
   "info": [
     "https://wiki.hypixel.net/Iron_Ore"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

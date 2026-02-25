@@ -44,5 +44,7 @@
       "overrideOutputId": "PETRIFIED_STARFALL",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

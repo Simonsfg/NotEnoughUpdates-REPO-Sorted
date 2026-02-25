@@ -49,5 +49,7 @@
     "C1": "POLISHED_PUMPKIN:2",
     "C2": "POLISHED_PUMPKIN:2",
     "C3": "POLISHED_PUMPKIN:2"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

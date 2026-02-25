@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Moby-Duck:_Collector%27s_Edition",
     "https://wiki.hypixel.net/Moby-Duck:_Collector%27s_Edition"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

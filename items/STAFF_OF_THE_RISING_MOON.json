@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Staff_of_the_Rising_Moon",
     "https://wiki.hypixel.net/Staff_Of_The_Rising_Moon"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

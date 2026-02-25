@@ -30,5 +30,7 @@
     "C1": "CROPIE:32",
     "C2": "CROPIE:32",
     "C3": "CROPIE:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -38,5 +38,7 @@
       "duration": 30,
       "overrideOutputId": "GLACITE_CHISEL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

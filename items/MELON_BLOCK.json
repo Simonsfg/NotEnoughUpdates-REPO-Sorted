@@ -26,5 +26,7 @@
     "C1": "MELON:1",
     "C2": "MELON:1",
     "C3": "MELON:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

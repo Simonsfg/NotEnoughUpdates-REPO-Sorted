@@ -33,5 +33,7 @@
     "C1": "ENCHANTED_GOLDEN_CARROT:3",
     "C2": "ENCHANTED_GOLDEN_CARROT:3",
     "C3": "ENCHANTED_GOLDEN_CARROT:3"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

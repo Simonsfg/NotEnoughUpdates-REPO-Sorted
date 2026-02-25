@@ -15,5 +15,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Scythe_Blade",
     "https://wiki.hypixel.net/Scythe_Blade"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

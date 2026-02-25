@@ -35,5 +35,7 @@
     "C2": "SPIDER_GENERATOR_1:1",
     "C3": "TARANTULA_WEB:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

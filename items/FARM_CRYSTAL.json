@@ -31,5 +31,7 @@
     "C1": "ENCHANTED_PUMPKIN:12",
     "C2": "ENCHANTED_PUMPKIN:12",
     "C3": "ENCHANTED_PUMPKIN:12"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Bone_Meal",
     "https://wiki.hypixel.net/Enchanted_Bone_Meal"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

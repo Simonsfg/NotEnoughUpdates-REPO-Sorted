@@ -25,5 +25,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Frosty_the_Snow_Blaster",
     "https://wiki.hypixel.net/Frosty_The_Snow_Blaster"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

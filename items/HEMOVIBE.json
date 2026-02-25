@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hemovibe",
     "https://wiki.hypixel.net/Hemovibe"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -36,5 +36,7 @@
     "C2": "EMERALD:40",
     "C3": "EMERALD:40"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

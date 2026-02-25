@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fruit_Bowl",
     "https://wiki.hypixel.net/Fruit_Bowl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -28,5 +28,7 @@
       "count": 9,
       "overrideOutputId": "GOLD_NUGGET"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

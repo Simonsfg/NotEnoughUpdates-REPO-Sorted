@@ -37,5 +37,7 @@
       "cost": "ENCHANTED_EMERALD:312",
       "result": "PARROT;3"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

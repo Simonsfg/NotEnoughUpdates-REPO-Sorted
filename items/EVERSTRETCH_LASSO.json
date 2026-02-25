@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "EVERSTRETCH_LASSO"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

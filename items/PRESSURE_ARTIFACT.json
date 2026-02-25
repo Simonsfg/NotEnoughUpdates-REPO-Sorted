@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "PRESSURE_ARTIFACT"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

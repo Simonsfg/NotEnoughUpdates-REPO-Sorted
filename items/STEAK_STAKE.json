@@ -32,5 +32,7 @@
     "C1": "COVEN_SEAL:3",
     "C2": "WILTED_BERBERIS_BUNCH:1",
     "C3": "COVEN_SEAL:3"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

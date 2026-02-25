@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flowering_Bouquet",
     "https://wiki.hypixel.net/Flowering_Bouquet"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

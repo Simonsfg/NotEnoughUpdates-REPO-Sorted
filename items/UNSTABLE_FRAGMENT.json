@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Unstable_Dragon_Fragment",
     "https://wiki.hypixel.net/Unstable_Dragon_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

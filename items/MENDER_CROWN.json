@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mender_Crown",
     "https://wiki.hypixel.net/Mender_Crown"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

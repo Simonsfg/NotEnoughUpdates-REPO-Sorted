@@ -29,5 +29,7 @@
     "C1": "ENCHANTED_BONE:2",
     "C2": "ENCHANTED_BONE:2",
     "C3": "ENCHANTED_BONE:2"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

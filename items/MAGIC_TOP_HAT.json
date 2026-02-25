@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magic_Top_Hat",
     "https://wiki.hypixel.net/Magic_Top_Hat"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

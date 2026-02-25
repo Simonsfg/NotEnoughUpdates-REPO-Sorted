@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "RUNEBLADE_ARTIFACT"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -25,5 +25,7 @@
     "C1": "",
     "C2": "MIRRORED_WOOD:1",
     "C3": ""
-  }
+  },
+  "category": "vanilla",
+  "priority": 10
 }

@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "GREATER_BACKPACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

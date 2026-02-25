@@ -30,5 +30,7 @@
     "C1": "TIGER_SHARK_TOOTH:6",
     "C2": "",
     "C3": "TIGER_SHARK_TOOTH:6"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

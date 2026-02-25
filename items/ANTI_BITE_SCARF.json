@@ -36,5 +36,7 @@
     "C1": "COVEN_SEAL:8",
     "C2": "DETRANSFIGURED_MASK:1",
     "C3": "COVEN_SEAL:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

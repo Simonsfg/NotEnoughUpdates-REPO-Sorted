@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lil%27_Pad",
     "https://wiki.hypixel.net/Lil%27_Pad"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

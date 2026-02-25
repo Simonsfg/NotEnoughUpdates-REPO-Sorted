@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Refined_Dark_Cacao_Truffle",
     "https://wiki.hypixel.net/Refined_Dark_Cacao_Truffle"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

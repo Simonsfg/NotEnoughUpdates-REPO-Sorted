@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Star_Decorations",
     "https://wiki.hypixel.net/Star_Decorations"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

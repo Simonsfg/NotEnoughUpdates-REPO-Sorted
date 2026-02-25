@@ -42,5 +42,7 @@
       "output": "ARMADILLO;1",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

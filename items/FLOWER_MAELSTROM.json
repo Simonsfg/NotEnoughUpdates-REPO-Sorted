@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flower_Maelstrom",
     "https://wiki.hypixel.net/Flower_Maelstrom"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Quality_Map",
     "https://wiki.hypixel.net/Quality_Map"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Warden_Art",
     "https://wiki.hypixel.net/Warden_Art"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

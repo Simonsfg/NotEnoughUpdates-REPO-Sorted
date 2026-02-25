@@ -36,5 +36,7 @@
     "C1": "VOLT_CRUX:2",
     "C2": "VOLT_CRUX:2",
     "C3": "VOLT_CRUX:2"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -28,5 +28,7 @@
     "C1": "POISONOUS_POTATO:1",
     "C2": "POISONOUS_POTATO:1",
     "C3": "POISONOUS_POTATO:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

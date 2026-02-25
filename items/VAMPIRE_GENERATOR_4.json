@@ -34,5 +34,7 @@
     "C1": "HEMOVIBE:64",
     "C2": "HEMOVIBE:64",
     "C3": "HEMOVIBE:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

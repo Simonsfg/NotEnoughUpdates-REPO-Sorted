@@ -36,5 +36,7 @@
     "C1": "MAGMA_CHUNK:20",
     "C2": "ENCHANTED_RED_SAND_CUBE:1",
     "C3": "MAGMA_CHUNK:20"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

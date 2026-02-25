@@ -35,5 +35,7 @@
     "C1": "",
     "C2": "PAPER:8",
     "C3": "BONE:40"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

@@ -182,5 +182,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Odger",
     "https://wiki.hypixel.net/Odger"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

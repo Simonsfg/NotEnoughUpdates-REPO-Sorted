@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Blazen_Sphere",
     "https://wiki.hypixel.net/Blazen_Sphere"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

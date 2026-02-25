@@ -33,5 +33,7 @@
     "C1": "ENCHANTED_RED_SAND_CUBE:1",
     "C2": "",
     "C3": "ENCHANTED_RED_SAND_CUBE:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

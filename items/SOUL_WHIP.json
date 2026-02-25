@@ -37,5 +37,7 @@
     "C1": "ECTOPLASM:4",
     "C2": "",
     "C3": "SOUL_FRAGMENT:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

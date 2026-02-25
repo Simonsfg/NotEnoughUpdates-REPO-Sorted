@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Fisherman%27s_Cooler"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

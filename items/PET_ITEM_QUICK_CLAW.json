@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Quick_Claw",
     "https://wiki.hypixel.net/Quick_Claw"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Personal_Harp",
     "https://wiki.hypixel.net/Personal_Harp"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

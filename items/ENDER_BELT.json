@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ender_Belt",
     "https://wiki.hypixel.net/Ender_Belt"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

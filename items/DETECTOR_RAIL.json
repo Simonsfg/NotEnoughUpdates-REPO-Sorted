@@ -24,5 +24,7 @@
     "C2": "REDSTONE:1",
     "C3": "IRON_INGOT:1",
     "count": 6
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -104,5 +104,7 @@
       ],
       "result": "NANSORB_ARROW:64"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

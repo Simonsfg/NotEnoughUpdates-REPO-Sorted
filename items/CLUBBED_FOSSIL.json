@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Clubbed_Fossil",
     "https://wiki.hypixel.net/Clubbed_Fossil"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

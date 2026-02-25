@@ -29,5 +29,7 @@
     "C1": "BACTE_FRAGMENT:1",
     "C2": "BACTE_FRAGMENT:1",
     "C3": "BACTE_FRAGMENT:1"
-  }
+  },
+  "category": "rift",
+  "priority": 3
 }

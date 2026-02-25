@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Footprint_Fossil",
     "https://wiki.hypixel.net/Footprint_Fossil"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

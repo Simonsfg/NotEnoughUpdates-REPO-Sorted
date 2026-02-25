@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Artifact",
     "https://wiki.hypixel.net/Great_Spook_Artifact"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

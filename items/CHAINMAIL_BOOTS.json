@@ -17,5 +17,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Chainmail_Boots"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

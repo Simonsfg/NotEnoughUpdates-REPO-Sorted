@@ -18,9 +18,11 @@
   ],
   "recipes": [
     {
-    "type": "trade",
-    "cost": "EMERALD:70",
-    "result": "POLISHED_PEBBLE"
+      "type": "trade",
+      "cost": "EMERALD:70",
+      "result": "POLISHED_PEBBLE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

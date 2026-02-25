@@ -35,5 +35,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dragon_Scale",
     "https://wiki.hypixel.net/Dragon_Scale"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

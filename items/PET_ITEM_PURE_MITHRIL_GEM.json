@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pure_Mithril_Gem",
     "https://wiki.hypixel.net/Pure_Mithril_Gem"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

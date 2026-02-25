@@ -37,5 +37,7 @@
     "C1": "",
     "C2": "ZOMBIE_SWORD:1",
     "C3": ""
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

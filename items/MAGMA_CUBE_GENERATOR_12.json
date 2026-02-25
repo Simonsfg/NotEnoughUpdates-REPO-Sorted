@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Minion",
     "https://wiki.hypixel.net/Magma_Cube_Minion_XII"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

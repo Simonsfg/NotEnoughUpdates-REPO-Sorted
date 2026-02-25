@@ -41,5 +41,7 @@
       ],
       "result": "SLAYER_ENERGY_DRINK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Young_Dragon_Fragment",
     "https://wiki.hypixel.net/Young_Dragon_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

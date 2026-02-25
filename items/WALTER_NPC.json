@@ -27,5 +27,7 @@
       ],
       "result": "SUPERBOOM_TNT"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

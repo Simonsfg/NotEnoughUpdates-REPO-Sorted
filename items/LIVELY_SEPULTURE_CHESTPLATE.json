@@ -31,5 +31,7 @@
     "C1": "WILTED_BERBERIS_BUNCH:6",
     "C2": "BLOODBADGE:12",
     "C3": "WILTED_BERBERIS_BUNCH:6"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

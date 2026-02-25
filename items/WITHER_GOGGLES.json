@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wither_Goggles",
     "https://wiki.hypixel.net/Wither_Goggles"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

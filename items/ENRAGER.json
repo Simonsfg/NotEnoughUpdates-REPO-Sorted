@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Enrager",
     "https://wiki.hypixel.net/Enrager"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

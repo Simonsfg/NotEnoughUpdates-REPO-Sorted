@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Starter_Lava_Rod",
     "https://wiki.hypixel.net/Starter_Lava_Rod"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

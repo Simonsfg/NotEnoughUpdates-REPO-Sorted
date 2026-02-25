@@ -24,5 +24,7 @@
     "C2": "WOOD-4:1",
     "C3": "WOOD-4:1",
     "count": 4
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

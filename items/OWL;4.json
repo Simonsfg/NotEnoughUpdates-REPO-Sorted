@@ -41,5 +41,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Owl_Pet",
     "https://wiki.hypixel.net/Owl_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

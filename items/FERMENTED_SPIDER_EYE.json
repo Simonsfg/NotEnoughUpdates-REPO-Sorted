@@ -26,5 +26,7 @@
   "info": [
     "https://wiki.hypixel.net/Fermented_Spider_Eye"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

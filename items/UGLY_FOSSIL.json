@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ugly_Fossil",
     "https://wiki.hypixel.net/Ugly_Fossil"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

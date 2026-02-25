@@ -27,5 +27,7 @@
     "C1": "",
     "C2": "PRISMARINE_SHARD:16",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

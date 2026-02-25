@@ -24,5 +24,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Legendary_Ring_of_Love",
     "https://wiki.hypixel.net/Legendary_Ring_Of_Love"
   ],
-  "parent": "WEDDING_RING_0"
+  "parent": "WEDDING_RING_0",
+  "category": "misc",
+  "priority": 11
 }

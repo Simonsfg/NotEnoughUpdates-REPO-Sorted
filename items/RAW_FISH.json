@@ -17,5 +17,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Raw_Cod",
     "https://wiki.hypixel.net/Raw_Cod"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

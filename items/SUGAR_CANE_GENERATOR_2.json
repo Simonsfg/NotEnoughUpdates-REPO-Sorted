@@ -37,5 +37,7 @@
     "C2": "SUGAR_CANE:32",
     "C3": "SUGAR_CANE:32"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

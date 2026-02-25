@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Paladin_Skin",
     "https://wiki.hypixel.net/Paladin_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingo_Card_(Item)",
     "https://wiki.hypixel.net/Bingo_Card"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

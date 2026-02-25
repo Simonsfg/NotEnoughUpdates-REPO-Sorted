@@ -41,5 +41,7 @@
         "ENCHANTED_JUNGLE_LOG:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

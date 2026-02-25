@@ -36,5 +36,7 @@
     "C2": "GRAVEL:20",
     "C3": "GRAVEL:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

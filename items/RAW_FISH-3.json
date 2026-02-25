@@ -17,5 +17,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Pufferfish",
     "https://wiki.hypixel.net/Pufferfish"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

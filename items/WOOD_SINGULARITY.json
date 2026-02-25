@@ -26,5 +26,7 @@
       "cost": "ENCHANTED_EMERALD:6",
       "result": "WOOD_SINGULARITY"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

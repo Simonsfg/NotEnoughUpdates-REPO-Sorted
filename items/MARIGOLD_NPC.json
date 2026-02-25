@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Marigold",
     "https://wiki.hypixel.net/Marigold"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

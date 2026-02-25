@@ -37,5 +37,7 @@
     "C1": "ABSOLUTE_ENDER_PEARL:16",
     "C2": "ABSOLUTE_ENDER_PEARL:16",
     "C3": "ABSOLUTE_ENDER_PEARL:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

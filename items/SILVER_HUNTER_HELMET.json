@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Silver_Hunter_Helmet",
     "https://wiki.hypixel.net/Silver_Hunter_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

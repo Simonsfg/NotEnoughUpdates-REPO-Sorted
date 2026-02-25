@@ -33,5 +33,7 @@
     "C1": "",
     "C2": "ENCHANTED_PAPER:16",
     "C3": "FINE_AMBER_GEM:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

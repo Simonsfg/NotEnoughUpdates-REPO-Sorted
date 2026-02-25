@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wheat_Minion",
     "https://wiki.hypixel.net/Wheat_Minion_XII"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

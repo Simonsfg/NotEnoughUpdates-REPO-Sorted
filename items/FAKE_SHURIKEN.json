@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Extremely_Real_Shuriken",
     "https://wiki.hypixel.net/Extremely_Real_Shuriken"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

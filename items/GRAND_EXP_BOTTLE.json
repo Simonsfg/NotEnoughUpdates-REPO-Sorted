@@ -27,5 +27,7 @@
     "C1": "ENCHANTED_LAPIS_LAZULI:1",
     "C2": "ENCHANTED_LAPIS_LAZULI:1",
     "C3": "ENCHANTED_LAPIS_LAZULI:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

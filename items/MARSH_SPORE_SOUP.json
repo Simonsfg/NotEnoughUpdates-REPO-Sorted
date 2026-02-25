@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Marsh_Spore_Soup",
     "https://wiki.hypixel.net/Marsh_Spore_Soup"
-  ]
+  ],
+  "category": "consumables",
+  "priority": 9
 }

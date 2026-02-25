@@ -25,5 +25,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Mithril_Minion",
     "https://wiki.hypixel.net/Mithril_Minion_XII"
   ],
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

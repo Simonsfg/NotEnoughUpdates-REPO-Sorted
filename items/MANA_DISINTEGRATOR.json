@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mana_Disintegrator",
     "https://wiki.hypixel.net/Mana_Disintegrator"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

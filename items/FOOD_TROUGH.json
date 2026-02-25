@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Food_Trough",
     "https://wiki.hypixel.net/Food_Trough"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

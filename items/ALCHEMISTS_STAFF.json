@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/The_Alchemist%27s_Staff",
     "https://wiki.hypixel.net/The_Alchemist%27s_Staff"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

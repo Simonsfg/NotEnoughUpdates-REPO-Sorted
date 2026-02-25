@@ -12,7 +12,6 @@
   "clickcommand": "viewrecipe",
   "crafttext": "",
   "modver": "Firmament 42.0.0+mc1.21.7",
-  "clickcommand": "viewrecipe",
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Light_Gray_Dye"
@@ -88,5 +87,7 @@
       "count": 3,
       "overrideOutputId": "INK_SACK-7"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

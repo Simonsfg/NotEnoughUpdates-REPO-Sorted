@@ -28,5 +28,7 @@
     "C1": "",
     "C2": "VAMPIRIC_MELON:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

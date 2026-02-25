@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Royal_Resident",
     "https://wiki.hypixel.net/Royal_Resident"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

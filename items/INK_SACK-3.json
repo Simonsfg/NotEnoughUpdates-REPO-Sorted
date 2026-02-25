@@ -18,5 +18,7 @@
     "https://wiki.hypixel.net/Cocoa_Beans"
   ],
   "parent": "INK_SACK",
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

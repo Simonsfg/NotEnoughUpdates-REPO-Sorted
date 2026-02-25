@@ -30,5 +30,7 @@
     "C2": "CATALYST:1",
     "C3": "CATALYST:1",
     "count": 8
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

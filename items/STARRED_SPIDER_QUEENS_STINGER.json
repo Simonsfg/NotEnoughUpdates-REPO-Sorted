@@ -41,5 +41,7 @@
       "count": 1,
       "overrideOutputId": "STARRED_SPIDER_QUEENS_STINGER"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

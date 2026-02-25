@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Arba",
     "https://wiki.hypixel.net/Arba"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

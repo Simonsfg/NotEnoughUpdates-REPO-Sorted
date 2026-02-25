@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Supreme_Chocolate_Bar",
     "https://wiki.hypixel.net/Supreme_Chocolate_Bar"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

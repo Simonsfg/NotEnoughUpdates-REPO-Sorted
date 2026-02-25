@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Colossal_Experience_Bottle_Upgrade",
     "https://wiki.hypixel.net/Colossal_Experience_Bottle_Upgrade"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

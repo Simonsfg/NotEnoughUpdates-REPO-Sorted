@@ -18,5 +18,7 @@
   "island": "foraging_2",
   "x": -657,
   "y": 115,
-  "z": -40
+  "z": -40,
+  "category": "misc",
+  "priority": 11
 }

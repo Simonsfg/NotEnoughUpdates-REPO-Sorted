@@ -29,5 +29,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Abiphone_Flip:_Nucleus",
     "https://wiki.hypixel.net/Abiphone_Flip:_Nucleus"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

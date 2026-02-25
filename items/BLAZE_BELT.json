@@ -34,5 +34,7 @@
     "C1": "ENCHANTED_BLAZE_POWDER:3",
     "C2": "BLAZE_ASHES:25",
     "C3": "ENCHANTED_BLAZE_POWDER:3"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

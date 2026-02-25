@@ -36,5 +36,7 @@
     "C1": "SHADOW_CRUX:2",
     "C2": "SHADOW_CRUX:2",
     "C3": "SHADOW_CRUX:2"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

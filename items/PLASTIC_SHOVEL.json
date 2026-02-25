@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Plastic_Shovel",
     "https://wiki.hypixel.net/Plastic_Shovel"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

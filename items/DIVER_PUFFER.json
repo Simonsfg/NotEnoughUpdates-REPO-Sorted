@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Puffer_Fish_Skin",
     "https://wiki.hypixel.net/Puffer_Fish_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

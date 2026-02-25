@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_SULPHUR_CUBE:4",
     "C3": "MOLTEN_POWDER:48"
   },
-  "slayer_req": "BLAZE_5"
+  "slayer_req": "BLAZE_5",
+  "category": "accessories",
+  "priority": 4
 }

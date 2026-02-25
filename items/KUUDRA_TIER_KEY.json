@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Key",
     "https://wiki.hypixel.net/Kuudra_Key"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

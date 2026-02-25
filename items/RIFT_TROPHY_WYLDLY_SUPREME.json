@@ -29,5 +29,7 @@
     "C1": "BOTTLED_ODONATA:1",
     "C2": "LIL_PAD:16",
     "C3": "BOTTLED_ODONATA:1"
-  }
+  },
+  "category": "rift",
+  "priority": 3
 }

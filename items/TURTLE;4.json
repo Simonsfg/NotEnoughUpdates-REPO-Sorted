@@ -53,5 +53,7 @@
         "ENCHANTED_RAW_FISH:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

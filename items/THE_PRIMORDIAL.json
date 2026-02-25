@@ -46,5 +46,7 @@
       "count": 1,
       "overrideOutputId": "THE_PRIMORDIAL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

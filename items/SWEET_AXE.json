@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sweet_Axe",
     "https://wiki.hypixel.net/Sweet_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

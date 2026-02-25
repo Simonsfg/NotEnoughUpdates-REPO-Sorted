@@ -32,5 +32,7 @@
     "C2": "ENCHANTED_IRON:1",
     "C3": "ENCHANTED_COBBLESTONE:1"
   },
-  "slayer_req": "WOLF_3"
+  "slayer_req": "WOLF_3",
+  "category": "misc",
+  "priority": 11
 }

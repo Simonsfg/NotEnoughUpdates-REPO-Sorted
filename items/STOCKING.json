@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Stocking",
     "https://wiki.hypixel.net/Stocking"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

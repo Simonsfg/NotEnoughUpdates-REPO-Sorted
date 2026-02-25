@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Red_Tent",
     "https://wiki.hypixel.net/Red_Tent"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -34,5 +34,7 @@
     "C1": "INK_SACK-4:64",
     "C2": "INK_SACK-4:64",
     "C3": "INK_SACK-4:64"
-  }
+  },
+  "category": "tools",
+  "priority": 7
 }

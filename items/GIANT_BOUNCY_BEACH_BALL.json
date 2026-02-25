@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Giant_Bouncy_Beach_Ball",
     "https://wiki.hypixel.net/Giant_Bouncy_Beach_Ball"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

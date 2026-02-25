@@ -38,5 +38,7 @@
     "C2": "REVENANT_SWORD:1",
     "C3": ""
   },
-  "slayer_req": "ZOMBIE_6"
+  "slayer_req": "ZOMBIE_6",
+  "category": "weapons",
+  "priority": 5
 }

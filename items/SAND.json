@@ -16,5 +16,7 @@
   "info": [
     "https://wiki.hypixel.net/Sand"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

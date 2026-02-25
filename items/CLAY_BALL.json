@@ -17,5 +17,7 @@
     "https://wiki.hypixel.net/Clay_Ball",
     "https://hypixel-skyblock.fandom.com/wiki/Clay_Ball"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

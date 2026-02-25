@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tentacle_Dye",
     "https://wiki.hypixel.net/Tentacle_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
       "cost": "ENCHANTED_EMERALD:50",
       "result": "ENDER_SLAYER;6"
     }
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

@@ -37,5 +37,7 @@
       "count": 1,
       "overrideOutputId": "ANGUISH_ARTIFACT"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

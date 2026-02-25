@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Letter_of_Recommendation",
     "https://wiki.hypixel.net/Letter_Of_Recommendation"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

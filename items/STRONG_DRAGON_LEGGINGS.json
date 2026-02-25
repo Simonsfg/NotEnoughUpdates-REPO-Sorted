@@ -41,5 +41,7 @@
     "C1": "STRONG_FRAGMENT:10",
     "C2": "",
     "C3": "STRONG_FRAGMENT:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

@@ -43,5 +43,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Griffin_Pet",
     "https://wiki.hypixel.net/Griffin_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

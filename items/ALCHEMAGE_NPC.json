@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Alchemage",
     "https://wiki.hypixel.net/Alchemage"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -38,5 +38,7 @@
         "ENDER_STONE:512"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

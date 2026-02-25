@@ -31,5 +31,7 @@
     "C1": "FUEL_GABAGOOL:3",
     "C2": "FUEL_GABAGOOL:3",
     "C3": "FUEL_GABAGOOL:3"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

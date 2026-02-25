@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Miner_Helmet",
     "https://wiki.hypixel.net/Miner_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

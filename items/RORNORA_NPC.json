@@ -12,5 +12,7 @@
   "x": 136,
   "y": 197,
   "z": 167,
-  "island": "mining_3"
+  "island": "mining_3",
+  "category": "misc",
+  "priority": 11
 }

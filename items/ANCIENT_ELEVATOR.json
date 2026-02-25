@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ancient_Elevator",
     "https://wiki.hypixel.net/Ancient_Elevator"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

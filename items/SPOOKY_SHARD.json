@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spooky_Shard",
     "https://wiki.hypixel.net/Spooky_Shard"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

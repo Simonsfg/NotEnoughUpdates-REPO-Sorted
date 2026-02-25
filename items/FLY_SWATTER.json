@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fly_Swatter",
     "https://wiki.hypixel.net/Fly_Swatter"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

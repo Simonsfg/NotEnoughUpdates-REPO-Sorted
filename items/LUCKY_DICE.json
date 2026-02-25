@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lucky_Dice",
     "https://wiki.hypixel.net/Lucky_Dice"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

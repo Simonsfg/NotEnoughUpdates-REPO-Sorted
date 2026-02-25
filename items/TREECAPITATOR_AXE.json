@@ -43,5 +43,7 @@
       "count": 1,
       "overrideOutputId": "TREECAPITATOR_AXE"
     }
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

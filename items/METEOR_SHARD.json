@@ -41,5 +41,7 @@
     "C1": "SILVER_FANG:10",
     "C2": "STARFALL:5",
     "C3": "SILVER_FANG:10"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

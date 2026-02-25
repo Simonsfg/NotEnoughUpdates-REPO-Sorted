@@ -38,5 +38,7 @@
     "C1": "SORROW:3",
     "C2": "SORROW:3",
     "C3": "SORROW:3"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

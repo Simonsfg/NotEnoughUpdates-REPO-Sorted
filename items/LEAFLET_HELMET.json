@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "LEAFLET_HELMET"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

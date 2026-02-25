@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Miner_Boots",
     "https://wiki.hypixel.net/Miner_Boots"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

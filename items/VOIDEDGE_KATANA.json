@@ -46,5 +46,7 @@
     "C2": "VOIDWALKER_KATANA:1",
     "C3": ""
   },
-  "slayer_req": "EMAN_3"
+  "slayer_req": "EMAN_3",
+  "category": "misc",
+  "priority": 11
 }

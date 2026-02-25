@@ -41,5 +41,7 @@
       ],
       "result": "INFINI_TORCH:1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

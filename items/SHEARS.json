@@ -25,5 +25,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Shears"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

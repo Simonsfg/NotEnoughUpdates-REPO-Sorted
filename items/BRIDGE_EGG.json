@@ -28,5 +28,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Bridge_Egg",
     "https://wiki.hypixel.net/Bridge_Egg"
   ],
-  "crafttext": "Requires: Raw Chicken II"
+  "crafttext": "Requires: Raw Chicken II",
+  "category": "misc",
+  "priority": 11
 }

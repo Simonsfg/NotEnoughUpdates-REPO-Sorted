@@ -40,5 +40,7 @@
     "C1": "GOLDEN_TOOTH:1",
     "C2": "GOLDEN_TOOTH:1",
     "C3": "GOLDEN_TOOTH:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

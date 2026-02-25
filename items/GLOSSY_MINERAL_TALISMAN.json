@@ -28,5 +28,7 @@
     "C1": "GLOSSY_GEMSTONE:2",
     "C2": "GLOSSY_GEMSTONE:2",
     "C3": "GLOSSY_GEMSTONE:2"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

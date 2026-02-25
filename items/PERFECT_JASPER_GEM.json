@@ -34,5 +34,7 @@
       "overrideOutputId": "PERFECT_JASPER_GEM",
       "duration": 72000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

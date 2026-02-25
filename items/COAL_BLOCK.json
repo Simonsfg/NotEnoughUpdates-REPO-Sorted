@@ -35,5 +35,7 @@
       "overrideOutputId": "COAL_BLOCK",
       "supercraftable": true
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

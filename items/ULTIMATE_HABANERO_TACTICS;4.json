@@ -44,5 +44,7 @@
     "C1": "STUFFED_CHILI_PEPPER:1",
     "C2": "ENCHANTED_HUGE_MUSHROOM_1:64",
     "C3": "STUFFED_CHILI_PEPPER:1"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

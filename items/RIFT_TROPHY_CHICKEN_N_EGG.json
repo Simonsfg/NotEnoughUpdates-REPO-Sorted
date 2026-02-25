@@ -29,5 +29,7 @@
     "C1": "WILTED_BERBERIS_BUNCH:1",
     "C2": "METAPHORIC_EGG:2",
     "C3": "WILTED_BERBERIS_BUNCH:1"
-  }
+  },
+  "category": "rift",
+  "priority": 3
 }

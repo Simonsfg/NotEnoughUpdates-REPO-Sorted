@@ -50,5 +50,7 @@
         "RADIOACTIVE_VIAL:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

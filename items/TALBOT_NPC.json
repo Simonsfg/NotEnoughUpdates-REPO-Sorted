@@ -58,5 +58,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Talbot",
     "https://wiki.hypixel.net/Talbot"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

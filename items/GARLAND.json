@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Garland",
     "https://wiki.hypixel.net/Garland"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

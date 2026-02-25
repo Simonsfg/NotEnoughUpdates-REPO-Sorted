@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Archery_Cube",
     "https://wiki.hypixel.net/Archery_Cube"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

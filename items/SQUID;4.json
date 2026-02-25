@@ -45,5 +45,7 @@
         "ENCHANTED_INK_SACK:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

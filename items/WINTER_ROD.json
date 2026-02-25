@@ -26,5 +26,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Winter_Rod",
     "https://wiki.hypixel.net/Winter_Rod"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

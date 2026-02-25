@@ -32,5 +32,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Training_Dummy",
     "https://wiki.hypixel.net/Training_Dummy"
   ],
-  "crafttext": "Requires: Pumpkin V"
+  "crafttext": "Requires: Pumpkin V",
+  "category": "misc",
+  "priority": 11
 }

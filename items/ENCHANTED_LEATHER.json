@@ -32,5 +32,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_LEATHER"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

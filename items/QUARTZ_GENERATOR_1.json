@@ -36,5 +36,7 @@
     "C2": "QUARTZ:10",
     "C3": "QUARTZ:10"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

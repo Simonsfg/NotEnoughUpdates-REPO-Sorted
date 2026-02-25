@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kat_Flower",
     "https://wiki.hypixel.net/Kat_Flower"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

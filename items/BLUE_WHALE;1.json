@@ -34,5 +34,7 @@
       "output": "BLUE_WHALE;1",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

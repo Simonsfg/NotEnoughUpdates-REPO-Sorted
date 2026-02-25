@@ -45,5 +45,7 @@
         "FEATHER:256"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

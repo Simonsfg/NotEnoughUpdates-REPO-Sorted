@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Head_of_Betrayal",
     "https://wiki.hypixel.net/Head_Of_Betrayal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -55,5 +55,7 @@
         "RAT_JETPACK:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

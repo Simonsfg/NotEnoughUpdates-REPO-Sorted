@@ -35,5 +35,7 @@
     "C2": "ENCHANTED_RABBIT_HIDE:64",
     "C3": "ENCHANTED_RABBIT_HIDE:64"
   },
-  "slayer_req": "BLAZE_4"
+  "slayer_req": "BLAZE_4",
+  "category": "accessories",
+  "priority": 4
 }

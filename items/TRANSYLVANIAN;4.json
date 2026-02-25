@@ -36,5 +36,7 @@
     "C1": "",
     "C2": "PAPER:8",
     "C3": "HEMOGLASS:8"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

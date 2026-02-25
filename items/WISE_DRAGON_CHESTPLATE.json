@@ -35,5 +35,7 @@
     "C1": "WISE_FRAGMENT:10",
     "C2": "WISE_FRAGMENT:10",
     "C3": "WISE_FRAGMENT:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

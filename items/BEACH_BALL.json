@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Beach_Ball",
     "https://wiki.hypixel.net/Beach_Ball"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

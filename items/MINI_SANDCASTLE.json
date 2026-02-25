@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mini_Sandcastle",
     "https://wiki.hypixel.net/Mini_Sandcastle"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

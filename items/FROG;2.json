@@ -41,5 +41,7 @@
         "MEDIUM_FROG_TREAT:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

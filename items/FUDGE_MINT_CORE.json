@@ -25,5 +25,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Fudge_Mint_Core"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -28,5 +28,7 @@
     "C1": "SOUL_SAND:5",
     "C2": "SOUL_SAND:5",
     "C3": "SOUL_SAND:5"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

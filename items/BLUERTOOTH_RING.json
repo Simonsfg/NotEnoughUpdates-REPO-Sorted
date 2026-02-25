@@ -40,5 +40,7 @@
     "C1": "BLUE_RING:32",
     "C2": "GOBLIN_EGG_BLUE:1",
     "C3": "BLUE_RING:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

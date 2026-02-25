@@ -47,5 +47,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Subzero_Wisp_Pet",
     "https://wiki.hypixel.net/Subzero_Wisp_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

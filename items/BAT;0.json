@@ -57,5 +57,7 @@
       "count": 1,
       "overrideOutputId": "BAT;0"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

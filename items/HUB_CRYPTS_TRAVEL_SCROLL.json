@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "HUB_CRYPTS_TRAVEL_SCROLL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

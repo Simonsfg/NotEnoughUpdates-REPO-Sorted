@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Moil_Log",
     "https://wiki.hypixel.net/Moil_Log"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

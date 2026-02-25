@@ -29,5 +29,7 @@
     "C1": "AGARIMOO_TONGUE:12",
     "C2": "AGARIMOO_TONGUE:12",
     "C3": "AGARIMOO_TONGUE:12"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

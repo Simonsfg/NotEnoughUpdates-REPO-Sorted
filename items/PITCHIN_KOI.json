@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pitchin%27_Koi",
     "https://wiki.hypixel.net/Pitchin%27_Koi"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

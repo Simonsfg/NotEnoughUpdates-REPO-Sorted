@@ -30,5 +30,7 @@
       "cost": "ENCHANTED_EMERALD:3",
       "result": "FALLEN_STAR_HAT"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

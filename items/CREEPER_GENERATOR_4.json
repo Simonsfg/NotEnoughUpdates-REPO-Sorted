@@ -35,5 +35,7 @@
     "C2": "SULPHUR:64",
     "C3": "SULPHUR:64"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

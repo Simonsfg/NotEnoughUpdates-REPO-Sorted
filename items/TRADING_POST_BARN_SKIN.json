@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Trading_Post_Barn_Skin",
     "https://wiki.hypixel.net/Trading_Post_Barn_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

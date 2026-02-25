@@ -545,5 +545,7 @@
       ],
       "result": "WOOL-15"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

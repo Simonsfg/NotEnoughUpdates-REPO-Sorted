@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Snow_Shovel",
     "https://wiki.hypixel.net/Snow_Shovel"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

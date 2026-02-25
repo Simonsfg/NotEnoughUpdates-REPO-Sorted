@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Thief_Skin",
     "https://wiki.hypixel.net/Thief_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

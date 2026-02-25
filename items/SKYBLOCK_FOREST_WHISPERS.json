@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Forest_Whispers",
     "https://wiki.hypixel.net/Forest_Whispers"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

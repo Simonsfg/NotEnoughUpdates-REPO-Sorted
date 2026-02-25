@@ -29,5 +29,7 @@
     "C2": "RAW_SOULFLOW:32",
     "C3": ""
   },
-  "slayer_req": "EMAN_2"
+  "slayer_req": "EMAN_2",
+  "category": "misc",
+  "priority": 11
 }

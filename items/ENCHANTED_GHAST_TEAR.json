@@ -28,5 +28,7 @@
     "C1": "",
     "C2": "GHAST_TEAR:1",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

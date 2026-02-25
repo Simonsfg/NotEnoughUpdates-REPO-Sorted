@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Diana",
     "https://wiki.hypixel.net/Diana"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

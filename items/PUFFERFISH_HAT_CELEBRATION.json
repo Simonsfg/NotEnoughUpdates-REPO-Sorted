@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pufferfish_Hat",
     "https://wiki.hypixel.net/Pufferfish_Hat"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

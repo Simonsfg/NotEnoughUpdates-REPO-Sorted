@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Treasure_Hook",
     "https://wiki.hypixel.net/Treasure_Hook"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

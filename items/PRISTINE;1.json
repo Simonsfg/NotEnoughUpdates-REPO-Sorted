@@ -39,5 +39,7 @@
     "C1": "",
     "C2": "PAPER:8",
     "C3": "FINE_TOPAZ_GEM:40"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

@@ -27,5 +27,7 @@
     "C1": "",
     "C2": "MAGMA_FISH:16",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

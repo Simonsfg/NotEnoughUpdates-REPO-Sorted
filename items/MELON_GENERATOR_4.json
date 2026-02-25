@@ -36,5 +36,7 @@
     "C2": "MELON_BLOCK:32",
     "C3": "MELON_BLOCK:32"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

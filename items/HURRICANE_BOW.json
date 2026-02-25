@@ -37,5 +37,7 @@
     "C1": "",
     "C2": "ENCHANTED_BONE:32",
     "C3": "STRING:32"
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

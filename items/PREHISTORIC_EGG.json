@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Prehistoric_Egg",
     "https://wiki.hypixel.net/Prehistoric_Egg"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

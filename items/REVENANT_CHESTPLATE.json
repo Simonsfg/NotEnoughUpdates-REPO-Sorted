@@ -43,5 +43,7 @@
     "C2": "REVENANT_VISCERA:1",
     "C3": "REVENANT_VISCERA:1"
   },
-  "slayer_req": "ZOMBIE_5"
+  "slayer_req": "ZOMBIE_5",
+  "category": "armor",
+  "priority": 6
 }

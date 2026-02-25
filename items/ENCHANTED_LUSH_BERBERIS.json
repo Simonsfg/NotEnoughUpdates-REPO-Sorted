@@ -31,5 +31,7 @@
     "C1": "",
     "C2": "LUSH_BERBERIS:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

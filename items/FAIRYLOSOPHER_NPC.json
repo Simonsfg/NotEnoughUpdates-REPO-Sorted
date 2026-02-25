@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fairylosopher",
     "https://wiki.hypixel.net/Fairylosopher"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

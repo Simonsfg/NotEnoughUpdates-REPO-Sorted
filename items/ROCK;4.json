@@ -50,5 +50,7 @@
         "ENCHANTED_COBBLESTONE:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

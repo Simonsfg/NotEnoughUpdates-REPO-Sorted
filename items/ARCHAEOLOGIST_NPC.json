@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Archaeologist",
     "https://wiki.hypixel.net/Archaeologist"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

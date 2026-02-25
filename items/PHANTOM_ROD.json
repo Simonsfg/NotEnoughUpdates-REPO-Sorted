@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Phantom_Rod",
     "https://wiki.hypixel.net/Phantom_Rod"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

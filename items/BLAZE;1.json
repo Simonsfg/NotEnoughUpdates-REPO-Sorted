@@ -40,5 +40,7 @@
         "ENCHANTED_BLAZE_POWDER:128"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

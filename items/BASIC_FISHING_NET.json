@@ -40,5 +40,7 @@
       "count": 1,
       "overrideOutputId": "BASIC_FISHING_NET"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

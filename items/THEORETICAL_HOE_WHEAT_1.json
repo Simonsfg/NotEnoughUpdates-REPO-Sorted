@@ -32,5 +32,7 @@
     "C1": "WHEAT:64",
     "C2": "WHEAT:64",
     "C3": "WHEAT:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

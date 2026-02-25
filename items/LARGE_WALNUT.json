@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Large_Walnut",
     "https://wiki.hypixel.net/Large_Walnut"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

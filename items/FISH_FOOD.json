@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fish_Food",
     "https://wiki.hypixel.net/Fish_Food"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

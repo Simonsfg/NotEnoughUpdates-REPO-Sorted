@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hero_Skin",
     "https://wiki.hypixel.net/Hero_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

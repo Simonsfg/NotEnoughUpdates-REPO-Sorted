@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hellstorm_Wand",
     "https://wiki.hypixel.net/Hellstorm_Wand"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

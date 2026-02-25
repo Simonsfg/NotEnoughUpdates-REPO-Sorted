@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jasper_Crystal",
     "https://wiki.hypixel.net/Jasper_Crystal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

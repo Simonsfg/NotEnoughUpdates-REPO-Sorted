@@ -39,5 +39,7 @@
     "C1": "SHARK_WATER_ORB:1",
     "C2": "HOTSPOT_WATER_ORB:1",
     "C3": "LAVA_WATER_ORB:1"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

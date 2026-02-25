@@ -36,5 +36,7 @@
     "C2": "NETHER_STALK:64",
     "C3": "NETHER_STALK:64"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

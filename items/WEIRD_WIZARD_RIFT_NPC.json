@@ -14,5 +14,7 @@
   "z": 78,
   "island": "rift",
   "crafttext": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "rift",
+  "priority": 3
 }

@@ -24,5 +24,7 @@
       "cost": "ENCHANTED_EMERALD:6",
       "result": "NOPE_THE_FISH"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

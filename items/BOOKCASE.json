@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bookcase",
     "https://wiki.hypixel.net/Bookcase"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Red_Goblin_Egg",
     "https://wiki.hypixel.net/Red_Goblin_Egg"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

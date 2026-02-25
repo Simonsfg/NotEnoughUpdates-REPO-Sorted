@@ -24,5 +24,7 @@
     "C1": "MIRRORED_STRING:1",
     "C2": "",
     "C3": "MIRRORED_STICK:1"
-  }
+  },
+  "category": "tools",
+  "priority": 7
 }

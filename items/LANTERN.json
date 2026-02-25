@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lantern",
     "https://wiki.hypixel.net/Lantern"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

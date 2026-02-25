@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Recombobulator_3000",
     "https://wiki.hypixel.net/Recombobulator_3000"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

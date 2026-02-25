@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Igrupan",
     "https://wiki.hypixel.net/Igrupan"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

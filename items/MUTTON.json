@@ -18,5 +18,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Raw_Mutton",
     "https://wiki.hypixel.net/Raw_Mutton"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

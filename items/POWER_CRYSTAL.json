@@ -33,5 +33,7 @@
       "overrideOutputId": "POWER_CRYSTAL",
       "duration": 7200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

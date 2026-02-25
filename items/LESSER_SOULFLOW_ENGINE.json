@@ -34,5 +34,7 @@
     "C2": "NULL_OVOID:1",
     "C3": "NULL_OVOID:1"
   },
-  "slayer_req": "EMAN_2"
+  "slayer_req": "EMAN_2",
+  "category": "misc",
+  "priority": 11
 }

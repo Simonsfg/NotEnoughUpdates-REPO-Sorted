@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chest_Storage",
     "https://wiki.hypixel.net/Chest_Storage"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

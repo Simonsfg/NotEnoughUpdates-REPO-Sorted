@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Radioactive_Vial",
     "https://wiki.hypixel.net/Radioactive_Vial"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

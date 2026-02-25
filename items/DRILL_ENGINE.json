@@ -28,5 +28,7 @@
       "overrideOutputId": "DRILL_ENGINE",
       "duration": 108000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

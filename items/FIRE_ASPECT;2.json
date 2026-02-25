@@ -30,5 +30,7 @@
   "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
   "infoType": "",
   "info": [],
-  "parent": "FIRE_ASPECT;1"
+  "parent": "FIRE_ASPECT;1",
+  "category": "enchants",
+  "priority": 1
 }

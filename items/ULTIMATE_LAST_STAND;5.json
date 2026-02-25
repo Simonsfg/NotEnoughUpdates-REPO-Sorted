@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   ],
-  "parent": "ULTIMATE_LAST_STAND;1"
+  "parent": "ULTIMATE_LAST_STAND;1",
+  "category": "enchants",
+  "priority": 1
 }

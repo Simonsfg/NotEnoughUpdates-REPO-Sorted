@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Brown_Mushroom",
     "https://wiki.hypixel.net/Brown_Mushroom"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

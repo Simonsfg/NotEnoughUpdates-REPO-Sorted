@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet",
     "https://wiki.hypixel.net/Dolphin_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

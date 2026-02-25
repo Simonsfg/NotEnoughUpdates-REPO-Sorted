@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flying_Pig",
     "https://wiki.hypixel.net/Flying_Pig"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

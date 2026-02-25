@@ -29,5 +29,7 @@
     "C1": "LEATHER:64",
     "C2": "LEATHER:64",
     "C3": "LEATHER:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

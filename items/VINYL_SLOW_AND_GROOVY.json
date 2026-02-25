@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Slow_And_Groovy_Vinyl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

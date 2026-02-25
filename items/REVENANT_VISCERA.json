@@ -28,5 +28,7 @@
     "C2": "REVENANT_FLESH:32",
     "C3": ""
   },
-  "slayer_req": "ZOMBIE_2"
+  "slayer_req": "ZOMBIE_2",
+  "category": "misc",
+  "priority": 11
 }

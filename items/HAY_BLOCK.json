@@ -27,5 +27,7 @@
   "info": [
     "https://wiki.hypixel.net/Hay_Bale"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "blocks",
+  "priority": 8
 }

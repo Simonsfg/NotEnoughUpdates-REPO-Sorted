@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Glowing_Mushroom",
     "https://wiki.hypixel.net/Glowing_Mushroom"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

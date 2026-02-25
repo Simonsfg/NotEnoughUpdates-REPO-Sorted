@@ -36,5 +36,7 @@
     "C2": "MITHRIL_ORE:20",
     "C3": "MITHRIL_ORE:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

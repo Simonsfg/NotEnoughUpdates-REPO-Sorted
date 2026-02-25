@@ -17,5 +17,7 @@
   "info": [
     "https://wiki.hypixel.net/Ink_Sac"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

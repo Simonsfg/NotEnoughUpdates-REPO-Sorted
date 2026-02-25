@@ -111,5 +111,7 @@
       ],
       "result": "PET_ITEM_BUBBLEGUM"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

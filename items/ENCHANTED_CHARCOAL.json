@@ -29,5 +29,7 @@
     "C1": "",
     "C2": "COAL:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

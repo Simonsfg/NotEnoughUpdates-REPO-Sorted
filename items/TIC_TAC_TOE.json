@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tic_Tac_Toe",
     "https://wiki.hypixel.net/Tic_Tac_Toe"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

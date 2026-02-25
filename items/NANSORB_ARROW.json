@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Nansorb_Arrow",
     "https://wiki.hypixel.net/Nansorb_Arrow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

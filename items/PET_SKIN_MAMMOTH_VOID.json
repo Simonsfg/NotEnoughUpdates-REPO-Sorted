@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Void_Mammoth_Skin",
     "https://wiki.hypixel.net/Void_Mammoth_Skin"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

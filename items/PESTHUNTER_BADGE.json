@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pesthunter_Badge",
     "https://wiki.hypixel.net/Pesthunter_Badge"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

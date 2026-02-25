@@ -47,5 +47,7 @@
     "C1": "GRIFFIN_FEATHER:16",
     "C2": "AVARICIOUS_CHALICE:2",
     "C3": "GRIFFIN_FEATHER:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

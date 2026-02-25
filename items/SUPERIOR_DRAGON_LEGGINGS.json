@@ -42,5 +42,7 @@
     "C1": "SUPERIOR_FRAGMENT:10",
     "C2": "",
     "C3": "SUPERIOR_FRAGMENT:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

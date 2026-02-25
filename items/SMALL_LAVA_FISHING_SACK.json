@@ -45,5 +45,7 @@
       "count": 1,
       "overrideOutputId": "SMALL_LAVA_FISHING_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

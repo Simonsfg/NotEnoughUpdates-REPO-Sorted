@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dining_Chair",
     "https://wiki.hypixel.net/Dining_Chair"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

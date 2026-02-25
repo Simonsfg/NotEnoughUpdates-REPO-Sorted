@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Oxford_Shoes",
     "https://wiki.hypixel.net/Oxford_Shoes"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

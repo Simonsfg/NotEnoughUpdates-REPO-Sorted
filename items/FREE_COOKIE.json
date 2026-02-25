@@ -39,5 +39,7 @@
   "info": [
     "https://wiki.hypixel.net/Booster_Cookie_(free)"
   ],
-  "parent": "BOOSTER_COOKIE"
+  "parent": "BOOSTER_COOKIE",
+  "category": "misc",
+  "priority": 11
 }

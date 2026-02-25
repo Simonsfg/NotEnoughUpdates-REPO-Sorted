@@ -34,5 +34,7 @@
     "C2": "ENCHANTED_PORK:32",
     "C3": "ENCHANTED_PORK:32"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

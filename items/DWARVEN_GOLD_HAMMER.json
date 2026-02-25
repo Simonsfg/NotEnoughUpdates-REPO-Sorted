@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Scavenged_Golden_Hammer",
     "https://wiki.hypixel.net/Scavenged_Golden_Hammer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

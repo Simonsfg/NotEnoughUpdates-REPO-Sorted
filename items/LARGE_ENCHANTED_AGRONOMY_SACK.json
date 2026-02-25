@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "LARGE_ENCHANTED_AGRONOMY_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -39,5 +39,7 @@
     "C1": "EMBER_FRAGMENT:1",
     "C2": "",
     "C3": "EMBER_FRAGMENT:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

@@ -39,5 +39,7 @@
     "C1": "WINTER_FRAGMENT:1",
     "C2": "WINTER_FRAGMENT:1",
     "C3": "WINTER_FRAGMENT:1"
-  }
+  },
+  "category": "tools",
+  "priority": 7
 }

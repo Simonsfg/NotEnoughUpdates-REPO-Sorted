@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Parkour_Start/End",
     "https://wiki.hypixel.net/Parkour_Start/End"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

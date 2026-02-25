@@ -28,5 +28,7 @@
       "cost": "EMERALD:12",
       "result": "ENDERMAN_MASK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

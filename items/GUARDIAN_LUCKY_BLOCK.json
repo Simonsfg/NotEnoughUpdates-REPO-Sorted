@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Guardian_Lucky_Block",
     "https://wiki.hypixel.net/Guardian_Lucky_Block"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

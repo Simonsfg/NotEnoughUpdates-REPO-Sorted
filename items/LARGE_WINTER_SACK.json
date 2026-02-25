@@ -35,5 +35,7 @@
       "cost": "ENCHANTED_EMERALD:6",
       "result": "LARGE_WINTER_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

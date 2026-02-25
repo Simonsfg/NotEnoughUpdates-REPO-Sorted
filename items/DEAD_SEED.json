@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dead_Seed",
     "https://wiki.hypixel.net/Dead_Seed"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

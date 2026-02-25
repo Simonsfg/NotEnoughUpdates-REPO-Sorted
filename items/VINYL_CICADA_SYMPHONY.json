@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cicada_Symphony_Vinyl",
     "https://wiki.hypixel.net/Cicada_Symphony_Vinyl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -50,5 +50,7 @@
       "count": 64,
       "overrideOutputId": "EXPORTABLE_CARROTS"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

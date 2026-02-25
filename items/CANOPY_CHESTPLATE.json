@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Canopy_Shirt",
     "https://wiki.hypixel.net/Canopy_Shirt"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

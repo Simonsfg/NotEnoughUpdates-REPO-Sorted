@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Small_Holiday_Tree",
     "https://wiki.hypixel.net/Small_Holiday_Tree"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

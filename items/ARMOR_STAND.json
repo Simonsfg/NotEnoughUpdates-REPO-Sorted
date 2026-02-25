@@ -24,5 +24,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Armor_Stand"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

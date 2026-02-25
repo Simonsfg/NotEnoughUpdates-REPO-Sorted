@@ -34,5 +34,7 @@
     "C1": "BLOODBADGE:1",
     "C2": "BLOODBADGE:1",
     "C3": "BLOODBADGE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

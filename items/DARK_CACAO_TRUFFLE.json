@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dark_Cacao_Truffle",
     "https://wiki.hypixel.net/Dark_Cacao_Truffle"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

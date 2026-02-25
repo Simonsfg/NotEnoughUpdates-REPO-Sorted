@@ -43,5 +43,7 @@
       "overrideOutputId": "HOT_STUFF",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

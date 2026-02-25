@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tepid_Green_Tea",
     "https://wiki.hypixel.net/Tepid_Green_Tea"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -27,5 +27,7 @@
       "cost": "EMERALD:200",
       "result": "SHINY_ROD"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

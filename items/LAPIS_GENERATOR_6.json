@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_LAPIS_LAZULI:16",
     "C3": "ENCHANTED_LAPIS_LAZULI:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

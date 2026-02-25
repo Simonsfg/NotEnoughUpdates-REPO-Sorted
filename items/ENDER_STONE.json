@@ -16,5 +16,7 @@
   "info": [
     "https://wiki.hypixel.net/End_Stone"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "blocks",
+  "priority": 8
 }

@@ -23,5 +23,7 @@
     "C2": "STRING:1",
     "C3": "STRING:1"
   },
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

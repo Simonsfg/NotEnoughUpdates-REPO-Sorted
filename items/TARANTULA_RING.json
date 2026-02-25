@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "TARANTULA_RING"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

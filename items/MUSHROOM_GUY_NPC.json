@@ -18,5 +18,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Mushroom_Guy",
     "https://wiki.hypixel.net/Mushroom_Guy"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

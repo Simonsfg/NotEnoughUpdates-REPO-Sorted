@@ -17,5 +17,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Blaze_Rod",
     "https://wiki.hypixel.net/Blaze_Rod"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

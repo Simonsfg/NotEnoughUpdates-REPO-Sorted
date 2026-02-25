@@ -31,5 +31,7 @@
     "C2": "TARANTULA_SILK:8",
     "C3": "ENCHANTED_EMERALD:8"
   },
-  "slayer_req": "SPIDER_6"
+  "slayer_req": "SPIDER_6",
+  "category": "accessories",
+  "priority": 4
 }

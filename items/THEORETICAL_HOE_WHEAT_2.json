@@ -37,5 +37,7 @@
       "count": 1,
       "overrideOutputId": "THEORETICAL_HOE_WHEAT_2"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

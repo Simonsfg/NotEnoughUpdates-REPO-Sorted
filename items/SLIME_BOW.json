@@ -34,5 +34,7 @@
     "C1": "",
     "C2": "ENCHANTED_SLIME_BLOCK:5",
     "C3": "ENCHANTED_STRING:1"
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

@@ -31,5 +31,7 @@
       ],
       "result": "ANTI_MORPH_POTION:1"
     }
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

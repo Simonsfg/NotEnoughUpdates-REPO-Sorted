@@ -35,5 +35,7 @@
     "C1": "ENCHANTED_HARD_STONE:32",
     "C2": "ENCHANTED_HARD_STONE:32",
     "C3": "ENCHANTED_HARD_STONE:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

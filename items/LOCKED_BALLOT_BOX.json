@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Locked_Ballot_Box",
     "https://wiki.hypixel.net/Locked_Ballot_Box"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

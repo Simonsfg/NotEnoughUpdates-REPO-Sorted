@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Advent_Calendar_Display",
     "https://wiki.hypixel.net/Advent_Calendar_Display"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

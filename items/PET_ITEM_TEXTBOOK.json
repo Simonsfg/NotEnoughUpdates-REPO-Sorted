@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "PET_ITEM_TEXTBOOK"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

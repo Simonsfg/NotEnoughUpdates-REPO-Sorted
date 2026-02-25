@@ -35,5 +35,7 @@
     "C1": "EGG:16",
     "C2": "EGG:16",
     "C3": "EGG:16"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

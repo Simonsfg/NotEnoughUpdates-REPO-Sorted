@@ -25,5 +25,7 @@
   "clickcommand": "",
   "modver": "2.0.0-REL",
   "crafttext": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "enchants",
+  "priority": 1
 }

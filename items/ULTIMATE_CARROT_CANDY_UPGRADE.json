@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Carrot_Candy_Upgrade",
     "https://wiki.hypixel.net/Ultimate_Carrot_Candy_Upgrade"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

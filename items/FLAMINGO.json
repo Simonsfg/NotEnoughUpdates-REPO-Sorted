@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Flamingo_Float"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -27,5 +27,7 @@
     "C1": "NEARLY_WHOLE_CARROT:16",
     "C2": "",
     "C3": "MIRRORED_STICK:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wilted_Berberis",
     "https://wiki.hypixel.net/Wilted_Berberis"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

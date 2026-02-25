@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Titanoboa_Shed",
     "https://wiki.hypixel.net/Titanoboa_Shed"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

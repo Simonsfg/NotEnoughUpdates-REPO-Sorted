@@ -38,5 +38,7 @@
       "count": 1,
       "overrideOutputId": "POTATO_RING"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

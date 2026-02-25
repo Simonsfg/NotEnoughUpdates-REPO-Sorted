@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Life_Preserver",
     "https://wiki.hypixel.net/Life_Preserver"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

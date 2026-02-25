@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bal_Pet",
     "https://wiki.hypixel.net/Bal_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

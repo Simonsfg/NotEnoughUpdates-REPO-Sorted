@@ -42,5 +42,7 @@
       "duration": 129600,
       "overrideOutputId": "DIVAN_POWDER_COATING"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

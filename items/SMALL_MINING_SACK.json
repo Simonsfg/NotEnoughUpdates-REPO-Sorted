@@ -41,5 +41,7 @@
     "C1": "ENCHANTED_COAL:2",
     "C2": "ENCHANTED_COAL:2",
     "C3": "ENCHANTED_COAL:2"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

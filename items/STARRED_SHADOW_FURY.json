@@ -41,5 +41,7 @@
     "C2": "LIVID_FRAGMENT:1",
     "C3": "LIVID_FRAGMENT:1"
   },
-  "parent": "SHADOW_FURY"
+  "parent": "SHADOW_FURY",
+  "category": "misc",
+  "priority": 11
 }

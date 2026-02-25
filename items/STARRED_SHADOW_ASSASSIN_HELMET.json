@@ -47,5 +47,7 @@
     "C2": "LIVID_FRAGMENT:1",
     "C3": "LIVID_FRAGMENT:1"
   },
-  "parent": "SHADOW_ASSASSIN_HELMET"
+  "parent": "SHADOW_ASSASSIN_HELMET",
+  "category": "armor",
+  "priority": 6
 }

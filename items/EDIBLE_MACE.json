@@ -38,5 +38,7 @@
     "C2": "GOLDEN_TOOTH:18",
     "C3": ""
   },
-  "slayer_req": "WOLF_5"
+  "slayer_req": "WOLF_5",
+  "category": "misc",
+  "priority": 11
 }

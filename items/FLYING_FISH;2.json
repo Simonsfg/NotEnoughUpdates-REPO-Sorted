@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet",
     "https://wiki.hypixel.net/Flying_Fish_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

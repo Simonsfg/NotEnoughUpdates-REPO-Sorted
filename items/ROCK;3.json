@@ -45,5 +45,7 @@
       "output": "ROCK;3",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

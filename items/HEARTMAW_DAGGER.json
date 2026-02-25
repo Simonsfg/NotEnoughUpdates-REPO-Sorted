@@ -51,5 +51,7 @@
     "C2": "BURSTMAW_DAGGER:1",
     "C3": "INFERNO_VERTEX:8"
   },
-  "slayer_req": "BLAZE_6"
+  "slayer_req": "BLAZE_6",
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Derpy_Snowman",
     "https://wiki.hypixel.net/Derpy_Snowman"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

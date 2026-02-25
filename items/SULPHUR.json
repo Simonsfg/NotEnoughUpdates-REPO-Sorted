@@ -18,5 +18,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Gunpowder",
     "https://wiki.hypixel.net/Gunpowder"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

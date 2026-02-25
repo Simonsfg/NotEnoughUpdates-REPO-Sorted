@@ -78,5 +78,7 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

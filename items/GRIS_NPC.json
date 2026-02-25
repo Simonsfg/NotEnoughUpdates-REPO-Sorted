@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gris",
     "https://wiki.hypixel.net/Gris"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

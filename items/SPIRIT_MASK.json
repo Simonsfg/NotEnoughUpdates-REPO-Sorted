@@ -34,5 +34,7 @@
       "cost": "ENCHANTED_EMERALD:75",
       "result": "SPIRIT_MASK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -43,5 +43,7 @@
     "C2": "GIANT_FRAGMENT_LASER:1",
     "C3": "GIANT_FRAGMENT_LASER:1"
   },
-  "parent": "WITHER_BOOTS"
+  "parent": "WITHER_BOOTS",
+  "category": "armor",
+  "priority": 6
 }

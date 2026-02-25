@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bat_Ring",
     "https://wiki.hypixel.net/Bat_Ring"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

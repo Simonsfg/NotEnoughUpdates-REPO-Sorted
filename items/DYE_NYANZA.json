@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Nyanza_Dye",
     "https://wiki.hypixel.net/Nyanza_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

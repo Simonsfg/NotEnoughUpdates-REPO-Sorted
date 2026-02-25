@@ -50,5 +50,7 @@
         "ENCHANTED_SPIDER_EYE:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

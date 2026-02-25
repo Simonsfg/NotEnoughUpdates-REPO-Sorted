@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Seymour",
     "https://wiki.hypixel.net/Seymour"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

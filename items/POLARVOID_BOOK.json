@@ -37,5 +37,7 @@
     "C1": "",
     "C2": "FROSTY_CRUX:1",
     "C3": "METAL_HEART:20"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

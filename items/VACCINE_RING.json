@@ -28,5 +28,7 @@
     "C1": "ARACHNE_FANG:1",
     "C2": "ARACHNE_FANG:1",
     "C3": "ARACHNE_FANG:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

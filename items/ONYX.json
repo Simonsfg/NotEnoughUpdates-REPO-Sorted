@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Black_Diamond",
     "https://wiki.hypixel.net/Black_Diamond"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
     "C2": "BONE:20",
     "C3": "BONE:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

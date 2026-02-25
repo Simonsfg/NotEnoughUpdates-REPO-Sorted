@@ -34,5 +34,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/End_Biome_Stick",
     "https://wiki.hypixel.net/End_Biome_Stick"
   ],
-  "crafttext": "Requires: End Stone II"
+  "crafttext": "Requires: End Stone II",
+  "category": "vanilla",
+  "priority": 10
 }

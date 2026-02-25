@@ -23,5 +23,7 @@
   "crafttext": "",
   "clickcommand": "",
   "modver": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "enchants",
+  "priority": 1
 }

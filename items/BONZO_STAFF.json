@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bonzo%27s_Staff",
     "https://wiki.hypixel.net/Bonzo%27s_Staff"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -37,5 +37,7 @@
       "output": "SQUID;1",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

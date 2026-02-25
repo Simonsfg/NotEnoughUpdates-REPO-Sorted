@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Control_Switch",
     "https://wiki.hypixel.net/Control_Switch"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

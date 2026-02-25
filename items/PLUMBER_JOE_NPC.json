@@ -34,5 +34,7 @@
       ],
       "result": "SUPER_SCRUBBER"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

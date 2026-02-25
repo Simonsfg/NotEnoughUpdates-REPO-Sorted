@@ -26,5 +26,7 @@
       "cost": "ENCHANTED_EMERALD:10",
       "result": "HUNTER_KNIFE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

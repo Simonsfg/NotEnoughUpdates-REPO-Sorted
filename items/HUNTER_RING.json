@@ -30,5 +30,7 @@
     "C2": "HUNTER_TALISMAN:1",
     "C3": "GOLDEN_TOOTH:32"
   },
-  "slayer_req": "WOLF_7"
+  "slayer_req": "WOLF_7",
+  "category": "accessories",
+  "priority": 4
 }

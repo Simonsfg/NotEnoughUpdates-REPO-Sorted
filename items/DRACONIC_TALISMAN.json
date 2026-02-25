@@ -34,5 +34,7 @@
     "C1": "MITE_GEL:16",
     "C2": "MITE_GEL:16",
     "C3": "RITUAL_RESIDUE:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

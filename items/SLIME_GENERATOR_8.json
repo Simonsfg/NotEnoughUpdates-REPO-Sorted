@@ -34,5 +34,7 @@
     "C2": "ENCHANTED_SLIME_BALL:16",
     "C3": "ENCHANTED_SLIME_BALL:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

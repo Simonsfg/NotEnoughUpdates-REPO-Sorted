@@ -42,5 +42,7 @@
         "ENCHANTED_WOOL:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

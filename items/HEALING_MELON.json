@@ -29,5 +29,7 @@
     "C1": "VAMPIRIC_MELON:2",
     "C2": "VAMPIRIC_MELON:2",
     "C3": "VAMPIRIC_MELON:2"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

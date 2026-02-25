@@ -156,5 +156,7 @@
       ],
       "result": "RABBIT_GENERATOR_12"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

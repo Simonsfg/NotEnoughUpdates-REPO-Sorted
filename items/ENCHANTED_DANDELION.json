@@ -32,5 +32,7 @@
     "C1": "",
     "C2": "YELLOW_FLOWER:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

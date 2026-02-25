@@ -10,5 +10,7 @@
   "modver": "2.0.0-REL",
   "vanilla": true,
   "clickcommand": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "misc",
+  "priority": 11
 }

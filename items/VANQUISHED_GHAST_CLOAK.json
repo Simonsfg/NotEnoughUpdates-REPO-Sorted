@@ -39,5 +39,7 @@
     "C1": "SILVER_FANG:64",
     "C2": "",
     "C3": "SILVER_FANG:64"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

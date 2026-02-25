@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sargwyn",
     "https://wiki.hypixel.net/Sargwyn"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

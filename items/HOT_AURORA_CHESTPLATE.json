@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hot_Aurora_Chestplate",
     "https://wiki.hypixel.net/Hot_Aurora_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

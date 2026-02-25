@@ -36,5 +36,7 @@
     "C2": "INK_SACK-4:32",
     "C3": "INK_SACK-4:32"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

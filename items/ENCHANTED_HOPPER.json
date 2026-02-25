@@ -36,5 +36,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_HOPPER"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

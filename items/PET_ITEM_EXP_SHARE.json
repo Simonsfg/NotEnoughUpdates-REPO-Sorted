@@ -39,5 +39,7 @@
     "C1": "ENCHANTED_GOLD:12",
     "C2": "ENCHANTED_GOLD:12",
     "C3": "ENCHANTED_GOLD:12"
-  }
+  },
+  "category": "pets",
+  "priority": 2
 }

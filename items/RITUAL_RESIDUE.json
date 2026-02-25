@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ritual_Residue",
     "https://wiki.hypixel.net/Ritual_Residue"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

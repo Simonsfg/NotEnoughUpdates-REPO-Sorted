@@ -18,9 +18,9 @@
   ],
   "recipes": [
     {
-    "type": "trade",
-    "cost": "EMERALD:25",
-    "result": "ANVIL"
+      "type": "trade",
+      "cost": "EMERALD:25",
+      "result": "ANVIL"
     }
   ],
   "recipe": {
@@ -33,5 +33,7 @@
     "C1": "IRON_INGOT:1",
     "C2": "IRON_INGOT:1",
     "C3": "IRON_INGOT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gorilla_Monkey_Skin",
     "https://wiki.hypixel.net/Gorilla_Monkey_Skin"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Angler_Bracelet",
     "https://wiki.hypixel.net/Angler_Bracelet"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cat_Detector",
     "https://wiki.hypixel.net/Cat_Detector"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

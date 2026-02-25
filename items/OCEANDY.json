@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "OCEANDY"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

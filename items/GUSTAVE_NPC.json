@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gustave",
     "https://wiki.hypixel.net/Gustave"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

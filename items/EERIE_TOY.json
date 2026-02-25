@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Eerie_Toy",
     "https://wiki.hypixel.net/Eerie_Toy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -32,5 +32,7 @@
     "C1": "",
     "C2": "MITE_GEL:32",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

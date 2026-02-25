@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Coven_Seal",
     "https://wiki.hypixel.net/Coven_Seal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

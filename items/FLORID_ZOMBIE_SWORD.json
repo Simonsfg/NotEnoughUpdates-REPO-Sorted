@@ -40,5 +40,7 @@
     "C1": "",
     "C2": "ORNATE_ZOMBIE_SWORD:1",
     "C3": ""
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

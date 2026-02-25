@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bonzo_Fragment",
     "https://wiki.hypixel.net/Bonzo_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

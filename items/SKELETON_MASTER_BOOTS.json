@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Master_Boots",
     "https://wiki.hypixel.net/Skeleton_Master_Boots"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Lord_Fragment",
     "https://wiki.hypixel.net/Magma_Lord_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

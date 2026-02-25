@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_BLAZE_ROD:4",
     "C3": "MOLTEN_POWDER:3"
   },
-  "slayer_req": "BLAZE_4"
+  "slayer_req": "BLAZE_4",
+  "category": "misc",
+  "priority": 11
 }

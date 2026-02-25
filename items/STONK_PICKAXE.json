@@ -36,5 +36,7 @@
       "cost": "ENCHANTED_EMERALD:32",
       "result": "STONK_PICKAXE"
     }
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

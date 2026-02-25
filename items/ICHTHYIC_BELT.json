@@ -29,5 +29,7 @@
     "C1": "NURSE_SHARK_TOOTH:16",
     "C2": "ENCHANTED_SHARK_FIN:4",
     "C3": "NURSE_SHARK_TOOTH:16"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

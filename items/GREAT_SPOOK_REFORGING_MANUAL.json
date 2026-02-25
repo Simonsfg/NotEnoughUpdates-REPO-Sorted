@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Reforging_Manual",
     "https://wiki.hypixel.net/Great_Spook_Reforging_Manual"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

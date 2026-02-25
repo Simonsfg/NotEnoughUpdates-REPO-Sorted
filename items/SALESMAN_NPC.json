@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Salesman",
     "https://wiki.hypixel.net/Salesman"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

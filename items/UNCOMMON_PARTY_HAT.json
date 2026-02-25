@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Uncommon_Party_Hat",
     "https://wiki.hypixel.net/Uncommon_Party_Hat"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

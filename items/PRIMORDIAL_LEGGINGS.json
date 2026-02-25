@@ -56,5 +56,7 @@
       "count": 1,
       "overrideOutputId": "PRIMORDIAL_LEGGINGS"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

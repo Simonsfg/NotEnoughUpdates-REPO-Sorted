@@ -37,5 +37,7 @@
     "C1": "WILTED_BERBERIS:48",
     "C2": "WILTED_BERBERIS:48",
     "C3": "WILTED_BERBERIS:48"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

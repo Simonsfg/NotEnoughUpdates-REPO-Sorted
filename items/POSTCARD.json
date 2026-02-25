@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Postcard",
     "https://wiki.hypixel.net/Postcard"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

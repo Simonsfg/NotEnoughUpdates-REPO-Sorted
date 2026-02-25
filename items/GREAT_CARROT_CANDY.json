@@ -33,5 +33,7 @@
     "C1": "ENCHANTED_CARROT:40",
     "C2": "ENCHANTED_CARROT:40",
     "C3": "ENCHANTED_CARROT:40"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

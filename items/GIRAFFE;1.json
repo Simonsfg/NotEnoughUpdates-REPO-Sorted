@@ -39,5 +39,7 @@
         "ENCHANTED_ACACIA_LOG:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

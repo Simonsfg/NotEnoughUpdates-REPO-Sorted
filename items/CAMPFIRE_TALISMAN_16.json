@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Campfire_Scion_Badge",
     "https://wiki.hypixel.net/Campfire_Scion_Badge"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

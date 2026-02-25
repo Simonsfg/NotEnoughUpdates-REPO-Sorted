@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ectoplasm",
     "https://wiki.hypixel.net/Ectoplasm"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

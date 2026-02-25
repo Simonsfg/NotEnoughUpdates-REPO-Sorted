@@ -28,5 +28,7 @@
     "C1": "",
     "C2": "RAW_FISH-3:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

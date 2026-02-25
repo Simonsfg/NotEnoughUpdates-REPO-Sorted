@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "KUUDRAS_HEART"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

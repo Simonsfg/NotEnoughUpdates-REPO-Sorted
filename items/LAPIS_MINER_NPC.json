@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lapis_Miner",
     "https://wiki.hypixel.net/Lapis_Miner"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -39,5 +39,7 @@
     "C1": "ENCHANTED_WHEAT:32",
     "C2": "ENCHANTED_WHEAT:32",
     "C3": "ENCHANTED_WHEAT:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

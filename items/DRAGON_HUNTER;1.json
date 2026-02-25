@@ -35,5 +35,7 @@
       "cost": "ENCHANTED_EMERALD:50",
       "result": "DRAGON_HUNTER;1"
     }
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

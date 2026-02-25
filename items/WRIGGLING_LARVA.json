@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wriggling_Larva",
     "https://wiki.hypixel.net/Wriggling_Larva"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

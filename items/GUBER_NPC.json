@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Guber",
     "https://wiki.hypixel.net/Guber"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

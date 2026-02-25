@@ -40,5 +40,7 @@
       "overrideOutputId": "BEJEWELED_COLLAR",
       "duration": 7200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

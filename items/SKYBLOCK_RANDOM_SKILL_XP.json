@@ -15,5 +15,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Skills"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

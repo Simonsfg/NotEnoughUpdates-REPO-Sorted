@@ -35,5 +35,7 @@
     "C2": "ENCHANTED_ROTTEN_FLESH:4",
     "C3": "ENCHANTED_ROTTEN_FLESH:4"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

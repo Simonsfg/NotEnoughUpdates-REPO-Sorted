@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dwarven_Tankard",
     "https://wiki.hypixel.net/Dwarven_Tankard"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Snowglobe",
     "https://wiki.hypixel.net/Snowglobe"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

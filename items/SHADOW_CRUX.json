@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Shadow_Crux",
     "https://wiki.hypixel.net/Shadow_Crux"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingo_Display",
     "https://wiki.hypixel.net/Bingo_Display"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

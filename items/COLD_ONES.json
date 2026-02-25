@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cola_Cooler",
     "https://wiki.hypixel.net/Cola_Cooler"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

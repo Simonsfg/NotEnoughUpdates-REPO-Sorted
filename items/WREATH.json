@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wreath",
     "https://wiki.hypixel.net/Wreath"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

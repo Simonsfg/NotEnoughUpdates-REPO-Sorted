@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Basic_Gardening_Axe",
     "https://wiki.hypixel.net/Basic_Gardening_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

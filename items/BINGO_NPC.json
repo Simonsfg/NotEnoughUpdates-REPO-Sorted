@@ -114,5 +114,7 @@
       ],
       "result": "DITTO_SKIN"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

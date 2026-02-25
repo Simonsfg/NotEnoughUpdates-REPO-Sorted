@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Battle_Disc",
     "https://wiki.hypixel.net/Battle_Disc"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingo_Relic",
     "https://wiki.hypixel.net/Bingo_Relic"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

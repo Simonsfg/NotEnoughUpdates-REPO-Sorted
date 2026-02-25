@@ -31,5 +31,7 @@
     "C1": "IQ_POINT:1",
     "C2": "IQ_POINT:1",
     "C3": "IQ_POINT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

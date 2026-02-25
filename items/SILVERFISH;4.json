@@ -44,5 +44,7 @@
         "ENCHANTED_COBBLESTONE:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

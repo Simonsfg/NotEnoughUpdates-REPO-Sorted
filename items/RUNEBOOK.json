@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Runebook",
     "https://wiki.hypixel.net/Runebook"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

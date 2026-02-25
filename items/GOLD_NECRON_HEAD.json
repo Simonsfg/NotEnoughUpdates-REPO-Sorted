@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Golden_Necron_Head",
     "https://wiki.hypixel.net/Golden_Necron_Head"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

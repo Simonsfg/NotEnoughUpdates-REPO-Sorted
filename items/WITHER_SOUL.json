@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wither_Soul",
     "https://wiki.hypixel.net/Wither_Soul"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

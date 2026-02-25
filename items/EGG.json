@@ -14,5 +14,7 @@
   "info": [
     "https://wiki.hypixel.net/Egg"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

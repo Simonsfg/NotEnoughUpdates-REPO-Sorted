@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Furball",
     "https://wiki.hypixel.net/Furball"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

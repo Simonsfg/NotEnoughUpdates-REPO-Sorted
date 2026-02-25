@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Artifact_of_Control",
     "https://wiki.hypixel.net/Artifact_Of_Control"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

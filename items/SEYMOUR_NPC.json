@@ -83,5 +83,7 @@
       ],
       "result": "ELEGANT_TUXEDO_BOOTS"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

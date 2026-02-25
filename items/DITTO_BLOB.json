@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ditto_Blob",
     "https://wiki.hypixel.net/Ditto_Blob"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

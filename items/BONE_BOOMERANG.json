@@ -38,5 +38,7 @@
     "C1": "ENCHANTED_STRING:5",
     "C2": "ENCHANTED_BONE_BLOCK:5",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

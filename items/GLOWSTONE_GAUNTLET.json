@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "GLOWSTONE_GAUNTLET"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

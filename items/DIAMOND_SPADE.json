@@ -27,5 +27,7 @@
   },
   "info": [
     "https://wiki.hypixel.net/Diamond_Shovel"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

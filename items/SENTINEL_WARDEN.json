@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sentinel_Warden_Skin",
     "https://wiki.hypixel.net/Sentinel_Warden_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

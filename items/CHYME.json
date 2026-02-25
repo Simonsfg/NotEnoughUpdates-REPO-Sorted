@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chyme",
     "https://wiki.hypixel.net/Chyme"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

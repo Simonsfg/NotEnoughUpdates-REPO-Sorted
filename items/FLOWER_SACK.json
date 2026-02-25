@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flower_Sack",
     "https://wiki.hypixel.net/Flower_Sack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

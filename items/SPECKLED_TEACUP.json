@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Speckled_Teacup",
     "https://wiki.hypixel.net/Speckled_Teacup"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

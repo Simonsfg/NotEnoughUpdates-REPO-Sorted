@@ -51,5 +51,7 @@
     "C1": "TARANTULA_SILK:1",
     "C2": "ENCHANTED_IRON:64",
     "C3": "TARANTULA_SILK:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

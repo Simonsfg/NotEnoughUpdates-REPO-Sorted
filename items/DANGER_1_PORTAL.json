@@ -33,5 +33,7 @@
     "C1": "GRAVEL:16",
     "C2": "GRAVEL:16",
     "C3": "GRAVEL:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

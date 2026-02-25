@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Digested_Mushrooms",
     "https://wiki.hypixel.net/Digested_Mushrooms"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

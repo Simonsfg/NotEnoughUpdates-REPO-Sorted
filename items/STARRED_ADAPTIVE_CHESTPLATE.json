@@ -51,5 +51,7 @@
     "C2": "SCARF_FRAGMENT:1",
     "C3": "SCARF_FRAGMENT:1"
   },
-  "parent": "ADAPTIVE_CHESTPLATE"
+  "parent": "ADAPTIVE_CHESTPLATE",
+  "category": "armor",
+  "priority": 6
 }

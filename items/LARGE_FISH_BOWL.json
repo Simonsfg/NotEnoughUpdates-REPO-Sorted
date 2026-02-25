@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "LARGE_FISH_BOWL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

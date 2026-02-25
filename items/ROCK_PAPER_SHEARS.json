@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rock_Paper_Shears",
     "https://wiki.hypixel.net/Rock_Paper_Shears"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

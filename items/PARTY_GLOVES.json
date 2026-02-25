@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Party_Gloves",
     "https://wiki.hypixel.net/Party_Gloves"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Beady_Eyes",
     "https://wiki.hypixel.net/Beady_Eyes"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

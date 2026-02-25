@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Z",
     "https://wiki.hypixel.net/Z"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

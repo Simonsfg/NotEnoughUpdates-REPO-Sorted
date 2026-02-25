@@ -21,5 +21,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pelt_Belt",
     "https://wiki.hypixel.net/Pelt_Belt"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

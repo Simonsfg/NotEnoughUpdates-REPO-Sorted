@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ember_Fragment",
     "https://wiki.hypixel.net/Ember_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

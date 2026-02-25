@@ -31,5 +31,7 @@
     "C1": "SHARK_FIN:1",
     "C2": "SHARK_FIN:1",
     "C3": "SHARK_FIN:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

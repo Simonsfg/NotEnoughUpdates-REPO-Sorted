@@ -22,5 +22,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Dragon_Hydra_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

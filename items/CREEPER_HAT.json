@@ -35,5 +35,7 @@
     "C1": "SULPHUR:1",
     "C2": "SULPHUR:1",
     "C3": "SULPHUR:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

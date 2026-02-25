@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "FRIED_FROZEN_CHICKEN"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Treasure_Talisman",
     "https://wiki.hypixel.net/Treasure_Talisman"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

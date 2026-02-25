@@ -19,5 +19,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Alatar",
     "https://wiki.hypixel.net/Alatar"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "rift",
+  "priority": 3
 }

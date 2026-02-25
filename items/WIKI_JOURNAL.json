@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wiki_Journal",
     "https://wiki.hypixel.net/Wiki_Journal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

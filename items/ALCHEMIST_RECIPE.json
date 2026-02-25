@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Alchemist_Recipe",
     "https://wiki.hypixel.net/Alchemist_Recipe"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

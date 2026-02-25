@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magenta_Lamp",
     "https://wiki.hypixel.net/Magenta_Lamp"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

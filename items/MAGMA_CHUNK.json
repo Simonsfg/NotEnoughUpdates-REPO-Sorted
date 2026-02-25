@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Chunk",
     "https://wiki.hypixel.net/Magma_Chunk"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

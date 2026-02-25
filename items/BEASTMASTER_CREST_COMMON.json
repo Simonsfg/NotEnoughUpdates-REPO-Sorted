@@ -34,5 +34,7 @@
     "C1": "GRIFFIN_FEATHER:1",
     "C2": "ANCIENT_CLAW:10",
     "C3": "GRIFFIN_FEATHER:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

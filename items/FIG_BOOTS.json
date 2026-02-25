@@ -38,5 +38,7 @@
       "count": 1,
       "overrideOutputId": "FIG_BOOTS"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

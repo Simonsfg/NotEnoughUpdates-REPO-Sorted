@@ -15,5 +15,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dark_Pebble",
     "https://wiki.hypixel.net/Dark_Pebble"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

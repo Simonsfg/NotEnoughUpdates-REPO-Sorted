@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Illusion_Glass",
     "https://wiki.hypixel.net/Illusion_Glass"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

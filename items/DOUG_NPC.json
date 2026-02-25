@@ -70,5 +70,7 @@
       ],
       "result": "FROG_MASK:1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

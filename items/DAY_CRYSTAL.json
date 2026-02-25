@@ -29,5 +29,7 @@
     "C1": "",
     "C2": "ENCHANTED_QUARTZ:1",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

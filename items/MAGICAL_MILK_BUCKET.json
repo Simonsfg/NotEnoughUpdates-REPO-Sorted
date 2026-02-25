@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magical_Milk_Bucket",
     "https://wiki.hypixel.net/Magical_Milk_Bucket"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

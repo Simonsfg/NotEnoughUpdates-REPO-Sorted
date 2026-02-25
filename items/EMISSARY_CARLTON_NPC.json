@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Emissary_Carlton",
     "https://wiki.hypixel.net/Emissary_Carlton"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

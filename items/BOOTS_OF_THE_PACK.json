@@ -40,5 +40,7 @@
     "C2": "",
     "C3": "ENCHANTED_MUTTON:32"
   },
-  "slayer_req": "WOLF_6"
+  "slayer_req": "WOLF_6",
+  "category": "misc",
+  "priority": 11
 }

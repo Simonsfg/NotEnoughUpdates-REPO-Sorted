@@ -23,5 +23,7 @@
     "C1": "STONE:1",
     "C2": "STONE:1",
     "C3": "STONE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

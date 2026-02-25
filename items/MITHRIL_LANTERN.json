@@ -38,5 +38,7 @@
       "overrideOutputId": "MITHRIL_LANTERN",
       "duration": 1800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

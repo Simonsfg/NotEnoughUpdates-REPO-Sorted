@@ -29,5 +29,7 @@
     "C1": "LEECH_SUPREME_FRAGMENT:2",
     "C2": "COVEN_SEAL:16",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

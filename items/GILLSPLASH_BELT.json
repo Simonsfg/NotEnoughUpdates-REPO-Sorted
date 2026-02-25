@@ -30,5 +30,7 @@
     "C1": "LAVA_SHELL:3",
     "C2": "FINWAVE_BELT:1",
     "C3": "LAVA_SHELL:3"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

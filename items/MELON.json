@@ -17,5 +17,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Melon_Slice",
     "https://wiki.hypixel.net/Melon_Slice"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

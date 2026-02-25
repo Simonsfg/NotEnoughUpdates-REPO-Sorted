@@ -35,5 +35,7 @@
     "C2": "STRING:40",
     "C3": "STRING:40"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
     "C2": "ENCHANTED_RAW_FISH:16",
     "C3": "ENCHANTED_RAW_FISH:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

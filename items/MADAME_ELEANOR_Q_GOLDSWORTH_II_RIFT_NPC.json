@@ -12,5 +12,7 @@
   "x": -223,
   "y": 18,
   "z": -75,
-  "island": "rift"
+  "island": "rift",
+  "category": "rift",
+  "priority": 3
 }

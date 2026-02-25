@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Fancy_Tuxedo_Oxfords",
     "https://wiki.hypixel.net/Fancy_Tuxedo_Oxfords"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

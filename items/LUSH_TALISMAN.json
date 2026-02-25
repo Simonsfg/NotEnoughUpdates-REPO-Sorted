@@ -28,5 +28,7 @@
     "C1": "LUSH_BERBERIS:64",
     "C2": "LUSH_BERBERIS:64",
     "C3": "LUSH_BERBERIS:64"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

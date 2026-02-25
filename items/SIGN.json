@@ -24,5 +24,7 @@
     "C2": "STICK:1",
     "C3": "",
     "count": 3
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

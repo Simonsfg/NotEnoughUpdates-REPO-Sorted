@@ -35,5 +35,7 @@
       "overrideOutputId": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL",
       "duration": 36000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

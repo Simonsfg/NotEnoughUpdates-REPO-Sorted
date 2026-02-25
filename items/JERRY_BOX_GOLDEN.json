@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Golden_Jerry_Box",
     "https://wiki.hypixel.net/Golden_Jerry_Box"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

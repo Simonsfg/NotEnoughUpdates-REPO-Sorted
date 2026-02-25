@@ -40,5 +40,7 @@
     "C1": "REVENANT_VISCERA:1",
     "C2": "REVENANT_VISCERA:1",
     "C3": "REVENANT_VISCERA:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

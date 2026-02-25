@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lemon",
     "https://wiki.hypixel.net/Lemon"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

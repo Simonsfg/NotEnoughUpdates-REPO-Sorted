@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dark_Oak_Bench",
     "https://wiki.hypixel.net/Dark_Oak_Bench"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -45,5 +45,7 @@
     "C1": "ENCHANTED_SULPHUR:16",
     "C2": "KADA_LEAD:40",
     "C3": "ENCHANTED_SULPHUR:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

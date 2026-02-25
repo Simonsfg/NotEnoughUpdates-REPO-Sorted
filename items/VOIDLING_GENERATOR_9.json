@@ -34,5 +34,7 @@
     "C1": "NULL_OVOID:16",
     "C2": "ENDERMAN_GENERATOR_8:1",
     "C3": "NULL_OVOID:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -40,5 +40,7 @@
         "BROWN_MUSHROOM:256"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

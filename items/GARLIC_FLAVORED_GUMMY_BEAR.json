@@ -30,5 +30,7 @@
     "C1": "NEARLY_WHOLE_CARROT:4",
     "C2": "BACTE_FRAGMENT:8",
     "C3": "NEARLY_WHOLE_CARROT:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

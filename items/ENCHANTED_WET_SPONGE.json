@@ -27,5 +27,7 @@
     "C1": "",
     "C2": "ENCHANTED_SPONGE:8",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "NIGHTSWITCH"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

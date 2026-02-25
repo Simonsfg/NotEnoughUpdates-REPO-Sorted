@@ -40,5 +40,7 @@
     "C1": "ENCHANTED_SHARK_FIN:1",
     "C2": "GREAT_WHITE_SHARK_TOOTH:1",
     "C3": "ENCHANTED_SHARK_FIN:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

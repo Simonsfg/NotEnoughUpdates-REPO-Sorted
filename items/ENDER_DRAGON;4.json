@@ -48,5 +48,7 @@
         "SUMMONING_EYE:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

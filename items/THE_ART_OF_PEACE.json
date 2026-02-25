@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/The_Art_Of_Peace",
     "https://wiki.hypixel.net/The_Art_Of_Peace"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

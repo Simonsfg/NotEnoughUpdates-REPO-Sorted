@@ -35,5 +35,7 @@
     "C2": "RAW_FISH:64",
     "C3": "RAW_FISH:64"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

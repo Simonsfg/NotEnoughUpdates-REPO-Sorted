@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flaming_Heart",
     "https://wiki.hypixel.net/Flaming_Heart"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

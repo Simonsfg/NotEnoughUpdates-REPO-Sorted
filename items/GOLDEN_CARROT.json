@@ -25,5 +25,7 @@
     "C1": "GOLD_NUGGET:1",
     "C2": "GOLD_NUGGET:1",
     "C3": "GOLD_NUGGET:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

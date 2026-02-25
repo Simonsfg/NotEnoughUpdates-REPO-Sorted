@@ -25,5 +25,7 @@
     "C1": "OBSIDIAN:1",
     "C2": "OBSIDIAN:1",
     "C3": "OBSIDIAN:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

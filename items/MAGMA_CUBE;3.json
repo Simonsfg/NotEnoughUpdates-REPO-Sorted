@@ -41,5 +41,7 @@
       "output": "MAGMA_CUBE;3",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

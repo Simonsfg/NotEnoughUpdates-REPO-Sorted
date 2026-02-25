@@ -49,5 +49,7 @@
     "C1": "WALNUT:3",
     "C2": "WALNUT:3",
     "C3": "WALNUT:3"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

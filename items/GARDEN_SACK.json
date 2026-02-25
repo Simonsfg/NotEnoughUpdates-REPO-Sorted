@@ -41,5 +41,7 @@
       "count": 1,
       "overrideOutputId": "GARDEN_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

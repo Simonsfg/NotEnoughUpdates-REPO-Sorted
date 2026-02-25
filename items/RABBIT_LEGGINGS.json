@@ -33,5 +33,7 @@
     "C1": "ENCHANTED_RABBIT_HIDE:5",
     "C2": "",
     "C3": "ENCHANTED_RABBIT_HIDE:5"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

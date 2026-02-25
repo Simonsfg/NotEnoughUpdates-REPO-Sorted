@@ -39,5 +39,7 @@
     "C1": "CHILI_PEPPER:1",
     "C2": "ENCHANTED_SLIME_BALL:1",
     "C3": "CHILI_PEPPER:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

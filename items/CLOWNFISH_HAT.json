@@ -28,5 +28,7 @@
     "C1": "RAW_FISH-2:1",
     "C2": "RAW_FISH-2:1",
     "C3": "RAW_FISH-2:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

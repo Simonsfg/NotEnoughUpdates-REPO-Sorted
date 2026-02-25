@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "THORNY_VINES"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

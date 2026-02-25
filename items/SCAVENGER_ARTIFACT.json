@@ -29,5 +29,7 @@
     "C1": "BLOOD_SOAKED_COINS:1",
     "C2": "FRESHLY_MINTED_COINS:4",
     "C3": "BLOOD_SOAKED_COINS:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

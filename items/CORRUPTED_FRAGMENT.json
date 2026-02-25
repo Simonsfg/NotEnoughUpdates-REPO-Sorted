@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Corrupted_Fragment",
     "https://wiki.hypixel.net/Corrupted_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

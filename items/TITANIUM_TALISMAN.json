@@ -29,5 +29,7 @@
       "overrideOutputId": "TITANIUM_TALISMAN",
       "duration": 50400
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -15,5 +15,7 @@
   "info": [
     "https://wiki.hypixel.net/Rabbit's_Foot"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

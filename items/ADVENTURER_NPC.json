@@ -97,5 +97,7 @@
       ],
       "result": "SCAVENGER_TALISMAN"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

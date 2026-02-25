@@ -33,5 +33,7 @@
     "C1": "LOG-2:16",
     "C2": "LOG-2:16",
     "C3": "LOG-2:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

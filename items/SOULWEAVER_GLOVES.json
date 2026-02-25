@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Soulweaver_Gloves",
     "https://wiki.hypixel.net/Soulweaver_Gloves"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

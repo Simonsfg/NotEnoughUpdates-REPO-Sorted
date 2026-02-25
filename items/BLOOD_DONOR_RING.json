@@ -31,5 +31,7 @@
     "C1": "HEMOGLASS:12",
     "C2": "HEMOGLASS:12",
     "C3": "HEMOGLASS:12"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

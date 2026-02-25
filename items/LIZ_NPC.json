@@ -48,5 +48,7 @@
       ],
       "result": "FRESHLY_MINTED_COINS:1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

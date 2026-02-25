@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Undead_Sword",
     "https://wiki.hypixel.net/Undead_Sword"
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

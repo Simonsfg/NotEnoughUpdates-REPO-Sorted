@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cole_the_Miner",
     "https://wiki.hypixel.net/Cole"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

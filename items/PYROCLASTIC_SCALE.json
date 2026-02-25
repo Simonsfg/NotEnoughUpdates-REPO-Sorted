@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pyroclastic_Scale",
     "https://wiki.hypixel.net/Pyroclastic_Scale"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

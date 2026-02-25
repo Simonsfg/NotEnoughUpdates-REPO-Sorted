@@ -42,5 +42,7 @@
       "count": 1,
       "overrideOutputId": "HEPHAESTUS_SOUVENIR"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

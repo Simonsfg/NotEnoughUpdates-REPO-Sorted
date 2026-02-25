@@ -45,5 +45,7 @@
       "count": 1,
       "overrideOutputId": "SCORPION_BOW"
     }
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

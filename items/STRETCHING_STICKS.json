@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Stretching_Sticks",
     "https://wiki.hypixel.net/Stretching_Sticks"
-  ]
+  ],
+  "category": "vanilla",
+  "priority": 10
 }

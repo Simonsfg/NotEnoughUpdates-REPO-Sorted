@@ -24,5 +24,7 @@
     "C2": "",
     "C3": "IRON_INGOT:1",
     "count": 16
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

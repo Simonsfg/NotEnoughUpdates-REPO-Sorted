@@ -36,5 +36,7 @@
     "C1": "SCRIBE_CRUX:2",
     "C2": "SCRIBE_CRUX:2",
     "C3": "SCRIBE_CRUX:2"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

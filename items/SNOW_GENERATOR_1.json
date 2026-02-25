@@ -25,5 +25,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Snow_Minion",
     "https://wiki.hypixel.net/Snow_Minion_I"
   ],
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

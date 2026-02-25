@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Harvester_Helmet_Skin",
     "https://wiki.hypixel.net/Harvester_Helmet_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

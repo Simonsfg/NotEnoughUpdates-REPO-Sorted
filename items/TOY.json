@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Toy",
     "https://wiki.hypixel.net/Toy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lantern_of_the_Dead",
     "https://wiki.hypixel.net/Lantern_Of_The_Dead"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

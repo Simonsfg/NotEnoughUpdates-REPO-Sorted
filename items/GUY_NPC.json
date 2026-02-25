@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Guy",
     "https://wiki.hypixel.net/Guy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

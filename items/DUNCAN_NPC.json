@@ -23,5 +23,7 @@
       ],
       "result": "PET_ITEM_FARMING_SKILL_BOOST_EPIC"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

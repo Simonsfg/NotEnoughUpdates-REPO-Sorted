@@ -31,5 +31,7 @@
     "C2": "EXPORTABLE_CARROTS:64",
     "C3": "CHILI_PEPPER:1",
     "count": 3
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

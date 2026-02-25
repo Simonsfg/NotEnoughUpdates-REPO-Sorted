@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Hot_Chocolate_And_Cookies"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

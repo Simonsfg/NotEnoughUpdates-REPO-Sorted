@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ancient_Fruit",
     "https://wiki.hypixel.net/Ancient_Fruit"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

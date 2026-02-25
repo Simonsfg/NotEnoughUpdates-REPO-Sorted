@@ -29,5 +29,7 @@
       "cost": "EMERALD:75",
       "result": "JINGLE_BELLS"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

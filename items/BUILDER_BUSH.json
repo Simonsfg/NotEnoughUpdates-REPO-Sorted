@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Decorations",
     "https://wiki.hypixel.net/Bush"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

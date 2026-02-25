@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fine_Flour",
     "https://wiki.hypixel.net/Fine_Flour"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

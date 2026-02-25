@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Blaze_Rod_Distillate",
     "https://wiki.hypixel.net/Blaze_Rod_Distillate"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

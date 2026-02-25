@@ -39,5 +39,7 @@
     "C1": "THORN_FRAGMENT:1",
     "C2": "THORN_FRAGMENT:1",
     "C3": "THORN_FRAGMENT:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

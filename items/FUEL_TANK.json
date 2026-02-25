@@ -25,5 +25,7 @@
       "overrideOutputId": "FUEL_TANK",
       "duration": 36000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

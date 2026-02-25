@@ -25,5 +25,7 @@
       "cost": "ENCHANTED_EMERALD:8",
       "result": "FROZEN_CHICKEN"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

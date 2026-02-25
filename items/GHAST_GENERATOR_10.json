@@ -35,5 +35,7 @@
     "C2": "SILVER_FANG:32",
     "C3": "SILVER_FANG:32"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

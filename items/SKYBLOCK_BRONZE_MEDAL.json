@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bronze_Medal",
     "https://wiki.hypixel.net/Bronze_Medal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

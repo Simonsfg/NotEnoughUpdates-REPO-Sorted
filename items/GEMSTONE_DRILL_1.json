@@ -58,5 +58,7 @@
       "overrideOutputId": "GEMSTONE_DRILL_1",
       "duration": 14400
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

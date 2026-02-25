@@ -34,5 +34,7 @@
     "C2": "PORK:8",
     "C3": "PORK:8"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -40,5 +40,7 @@
     "C1": "GIANT_FRAGMENT_BIGFOOT:1",
     "C2": "GIANT_FRAGMENT_BIGFOOT:1",
     "C3": "GIANT_FRAGMENT_BIGFOOT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

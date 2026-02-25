@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mason",
     "https://wiki.hypixel.net/Mason"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

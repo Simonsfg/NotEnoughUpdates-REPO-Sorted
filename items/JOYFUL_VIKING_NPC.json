@@ -48,5 +48,7 @@
       "result": "EXPERIENCE;4"
     }
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

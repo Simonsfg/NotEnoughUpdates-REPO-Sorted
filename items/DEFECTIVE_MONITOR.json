@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Defective_Monitor",
     "https://wiki.hypixel.net/Defective_Monitor"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

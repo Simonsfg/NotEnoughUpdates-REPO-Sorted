@@ -34,5 +34,7 @@
     "C1": "MUTATED_BLAZE_ASHES:5",
     "C2": "COMPACT_OOZE:5",
     "C3": "MUTATED_BLAZE_ASHES:5"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

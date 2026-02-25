@@ -33,5 +33,7 @@
     "C1": "CACTUS:1",
     "C2": "CACTUS:1",
     "C3": "CACTUS:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

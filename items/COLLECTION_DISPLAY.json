@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Collection_Display",
     "https://wiki.hypixel.net/Collection_Display"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

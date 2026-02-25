@@ -217,5 +217,7 @@
       ],
       "result": "STARLIGHT_WAND"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

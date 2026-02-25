@@ -28,5 +28,7 @@
     "C1": "NETHER_STALK:16",
     "C2": "NETHER_STALK:16",
     "C3": "NETHER_STALK:16"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

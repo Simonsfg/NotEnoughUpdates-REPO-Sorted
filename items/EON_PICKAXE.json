@@ -33,5 +33,7 @@
     "C1": "",
     "C2": "YOUNGITE:8",
     "C3": ""
-  }
+  },
+  "category": "tools",
+  "priority": 7
 }

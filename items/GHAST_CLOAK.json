@@ -34,5 +34,7 @@
     "C1": "ENCHANTED_GHAST_TEAR:32",
     "C2": "",
     "C3": "ENCHANTED_GHAST_TEAR:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

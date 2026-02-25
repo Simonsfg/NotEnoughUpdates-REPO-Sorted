@@ -50,5 +50,7 @@
       "duration": 604800,
       "overrideOutputId": "MAMMOTH;4"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

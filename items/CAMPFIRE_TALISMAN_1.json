@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Campfire_Initiate_Badge",
     "https://wiki.hypixel.net/Campfire_Initiate_Badge"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

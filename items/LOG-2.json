@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Birch_Log",
     "https://wiki.hypixel.net/Birch_Log"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

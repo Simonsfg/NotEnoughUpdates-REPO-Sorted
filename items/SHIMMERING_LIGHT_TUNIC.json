@@ -37,5 +37,7 @@
     "C1": "ENCHANTED_MYCELIUM_CUBE:1",
     "C2": "ENCHANTED_MYCELIUM_CUBE:1",
     "C3": "ENCHANTED_MYCELIUM_CUBE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Celeste_Wand",
     "https://wiki.hypixel.net/Celeste_Wand"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fireplace",
     "https://wiki.hypixel.net/Fireplace"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

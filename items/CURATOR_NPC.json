@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Curator",
     "https://wiki.hypixel.net/Curator"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

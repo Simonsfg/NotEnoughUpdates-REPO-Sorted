@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Melody",
     "https://wiki.hypixel.net/Melody"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

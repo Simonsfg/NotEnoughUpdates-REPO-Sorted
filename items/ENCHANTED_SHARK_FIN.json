@@ -32,5 +32,7 @@
     "C1": "",
     "C2": "SHARK_FIN:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

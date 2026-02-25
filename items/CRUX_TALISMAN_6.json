@@ -37,5 +37,7 @@
     "C1": "SPLATTER_CRUX:4",
     "C2": "SPLATTER_CRUX:4",
     "C3": "SPLATTER_CRUX:4"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

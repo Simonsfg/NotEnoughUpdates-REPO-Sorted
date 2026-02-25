@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Livid_Dagger",
     "https://wiki.hypixel.net/Livid_Dagger"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

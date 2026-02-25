@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dark_Oak_Chair",
     "https://wiki.hypixel.net/Dark_Oak_Chair"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

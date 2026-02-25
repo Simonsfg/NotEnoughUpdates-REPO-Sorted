@@ -23,5 +23,7 @@
       "cost": "ENCHANTED_EMERALD:5",
       "result": "TRUE_ESSENCE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

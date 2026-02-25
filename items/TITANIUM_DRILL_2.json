@@ -54,5 +54,7 @@
       "overrideOutputId": "TITANIUM_DRILL_2",
       "duration": 30
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

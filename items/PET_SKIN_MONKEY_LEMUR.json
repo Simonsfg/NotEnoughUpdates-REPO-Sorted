@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lemur_Monkey_Skin",
     "https://wiki.hypixel.net/Lemur_Monkey_Skin"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

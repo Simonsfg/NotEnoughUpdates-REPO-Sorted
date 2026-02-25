@@ -38,5 +38,7 @@
       "overrideOutputId": "AMBER_NECKLACE",
       "duration": 86400
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

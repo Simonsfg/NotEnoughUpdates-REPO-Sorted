@@ -43,5 +43,7 @@
       "overrideOutputId": "GLEAMING_CRYSTAL",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Titanium_Minecart",
     "https://wiki.hypixel.net/Titanium_Minecart"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

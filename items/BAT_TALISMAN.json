@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bat_Talisman",
     "https://wiki.hypixel.net/Bat_Talisman"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

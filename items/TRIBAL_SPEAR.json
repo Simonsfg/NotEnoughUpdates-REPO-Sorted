@@ -21,5 +21,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tribal_Spear",
     "https://wiki.hypixel.net/Tribal_Spear"
-  ]
+  ],
+  "category": "vanilla",
+  "priority": 10
 }

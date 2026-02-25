@@ -41,5 +41,7 @@
     "C1": "MAGMA_CHUNK:30",
     "C2": "CORRUPTED_FRAGMENT:20",
     "C3": "MAGMA_CHUNK:30"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

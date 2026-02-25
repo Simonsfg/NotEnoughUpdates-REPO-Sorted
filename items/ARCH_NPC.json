@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Arch",
     "https://wiki.hypixel.net/Arch"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

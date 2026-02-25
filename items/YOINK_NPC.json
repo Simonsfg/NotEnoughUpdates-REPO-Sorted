@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Yoink",
     "https://wiki.hypixel.net/Yoink"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

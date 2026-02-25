@@ -48,5 +48,7 @@
       "C2": "LEECH_SWORD",
       "C3": ""
     }
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

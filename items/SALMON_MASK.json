@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Salmon_Mask",
     "https://wiki.hypixel.net/Salmon_Mask"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fafnir",
     "https://wiki.hypixel.net/Fafnir"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

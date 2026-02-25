@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mushroom_&_Warts_Stew",
     "https://wiki.hypixel.net/Mushroom_&_Warts_Stew"
-  ]
+  ],
+  "category": "consumables",
+  "priority": 9
 }

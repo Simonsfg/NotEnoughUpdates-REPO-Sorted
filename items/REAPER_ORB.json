@@ -30,5 +30,7 @@
     "C1": "SCYTHE_BLADE:1",
     "C2": "SCYTHE_BLADE:1",
     "C3": "SCYTHE_BLADE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

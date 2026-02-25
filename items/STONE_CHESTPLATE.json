@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Stone_Chestplate",
     "https://wiki.hypixel.net/Stone_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mole",
     "https://wiki.hypixel.net/Mole"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

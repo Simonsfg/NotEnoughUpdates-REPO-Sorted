@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fairy_Wings",
     "https://wiki.hypixel.net/Fairy_Wings"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

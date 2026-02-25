@@ -33,5 +33,7 @@
     "C1": "POTATO_ITEM:64",
     "C2": "POTATO_ITEM:64",
     "C3": "POTATO_ITEM:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

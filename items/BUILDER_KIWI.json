@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kiwi",
     "https://wiki.hypixel.net/Kiwi"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

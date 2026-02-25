@@ -37,5 +37,7 @@
       "cost": "EMERALD:6",
       "result": "SILENT_PEARL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

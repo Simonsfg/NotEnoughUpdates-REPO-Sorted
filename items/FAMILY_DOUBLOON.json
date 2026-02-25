@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Doubloon_of_the_Family",
     "https://wiki.hypixel.net/Doubloon_Of_The_Family"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

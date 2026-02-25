@@ -34,5 +34,7 @@
     "C1": "NULL_SPHERE:64",
     "C2": "OBSIDIAN_GENERATOR_3:1",
     "C3": "NULL_SPHERE:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

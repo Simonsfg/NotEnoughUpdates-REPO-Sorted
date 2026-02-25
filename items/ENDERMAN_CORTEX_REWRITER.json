@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Enderman_Cortex_Rewriter",
     "https://wiki.hypixel.net/Enderman_Cortex_Rewriter"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

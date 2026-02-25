@@ -32,5 +32,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Prismarine_Blade",
     "https://wiki.hypixel.net/Prismarine_Blade"
   ],
-  "crafttext": "Requires: Prismarine Shard II"
+  "crafttext": "Requires: Prismarine Shard II",
+  "category": "misc",
+  "priority": 11
 }

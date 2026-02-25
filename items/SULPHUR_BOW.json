@@ -36,5 +36,7 @@
     "C1": "ENCHANTED_STRING:50",
     "C2": "ENCHANTED_SULPHUR:50",
     "C3": ""
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

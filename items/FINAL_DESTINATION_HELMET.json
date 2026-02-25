@@ -48,5 +48,7 @@
     "C2": "",
     "C3": ""
   },
-  "slayer_req": "EMAN_4"
+  "slayer_req": "EMAN_4",
+  "category": "armor",
+  "priority": 6
 }

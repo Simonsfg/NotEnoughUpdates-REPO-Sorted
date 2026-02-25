@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Emissary_Wilson",
     "https://wiki.hypixel.net/Emissary_Wilson"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

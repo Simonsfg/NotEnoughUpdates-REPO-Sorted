@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fermento",
     "https://wiki.hypixel.net/Fermento"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

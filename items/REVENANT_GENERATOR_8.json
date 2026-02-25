@@ -35,5 +35,7 @@
     "C2": "ZOMBIE_GENERATOR_7:1",
     "C3": "REVENANT_VISCERA:8"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

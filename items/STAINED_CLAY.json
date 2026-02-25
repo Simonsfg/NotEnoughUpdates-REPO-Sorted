@@ -24,5 +24,7 @@
     "C2": "HARD_CLAY:1",
     "C3": "HARD_CLAY:1",
     "count": 8
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

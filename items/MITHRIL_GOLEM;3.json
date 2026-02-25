@@ -43,5 +43,7 @@
         "ENCHANTED_MITHRIL:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

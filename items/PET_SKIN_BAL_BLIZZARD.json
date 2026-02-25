@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Blizzard_Bal_Skin",
     "https://wiki.hypixel.net/Blizzard_Bal_Skin"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

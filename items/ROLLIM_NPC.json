@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rollim",
     "https://wiki.hypixel.net/Rollim"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

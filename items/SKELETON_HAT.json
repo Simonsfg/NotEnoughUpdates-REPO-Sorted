@@ -34,5 +34,7 @@
     "C1": "BONE:1",
     "C2": "BONE:1",
     "C3": "BONE:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

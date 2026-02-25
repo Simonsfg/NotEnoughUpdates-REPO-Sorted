@@ -31,5 +31,7 @@
     "C1": "SUPER_EGG:1",
     "C2": "SUPER_EGG:1",
     "C3": "SUPER_EGG:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

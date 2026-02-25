@@ -46,5 +46,7 @@
     "C2": "",
     "C3": "REAPER_SWORD:1"
   },
-  "slayer_req": "ZOMBIE_7"
+  "slayer_req": "ZOMBIE_7",
+  "category": "misc",
+  "priority": 11
 }

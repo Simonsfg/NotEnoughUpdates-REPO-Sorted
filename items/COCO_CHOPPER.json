@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Chopper",
     "https://wiki.hypixel.net/Cocoa_Chopper"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

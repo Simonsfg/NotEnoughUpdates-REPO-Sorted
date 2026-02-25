@@ -30,5 +30,7 @@
       "result": "BOTTLE_OF_JYRRE"
     }
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Game_Breaker",
     "https://wiki.hypixel.net/Game_Breaker"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

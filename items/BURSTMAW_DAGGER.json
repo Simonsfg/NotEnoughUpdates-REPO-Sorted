@@ -50,5 +50,7 @@
     "C2": "MAWDUST_DAGGER:1",
     "C3": ""
   },
-  "slayer_req": "BLAZE_4"
+  "slayer_req": "BLAZE_4",
+  "category": "misc",
+  "priority": 11
 }

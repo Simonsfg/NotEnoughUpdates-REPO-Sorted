@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Meaty_Kuudra_Chunk",
     "https://wiki.hypixel.net/Meaty_Kuudra_Chunk"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

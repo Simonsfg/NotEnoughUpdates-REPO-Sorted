@@ -34,5 +34,7 @@
     "C1": "ENCHANTED_SPONGE:3",
     "C2": "ANGLER_BELT:1",
     "C3": "ENCHANTED_SPONGE:3"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

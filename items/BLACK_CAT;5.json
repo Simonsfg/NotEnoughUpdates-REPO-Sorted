@@ -50,5 +50,7 @@
         "BLACK_WOOLEN_YARN:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

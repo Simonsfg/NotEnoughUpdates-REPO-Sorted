@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Phoenix_Pet",
     "https://wiki.hypixel.net/Phoenix_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

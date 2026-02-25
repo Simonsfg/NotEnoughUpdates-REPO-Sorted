@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lapis_Minion",
     "https://wiki.hypixel.net/Lapis_Minion_XII"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

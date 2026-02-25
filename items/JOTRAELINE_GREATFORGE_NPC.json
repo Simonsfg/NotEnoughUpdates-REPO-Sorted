@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jotraeline_Greatforge",
     "https://wiki.hypixel.net/Jotraeline_Greatforge"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

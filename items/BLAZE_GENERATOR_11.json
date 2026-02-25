@@ -35,5 +35,7 @@
     "C2": "ENCHANTED_BLAZE_ROD:1",
     "C3": "ENCHANTED_BLAZE_ROD:1"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

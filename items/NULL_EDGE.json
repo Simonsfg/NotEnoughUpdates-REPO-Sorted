@@ -27,5 +27,7 @@
     "C1": "ENCHANTED_MITHRIL:32",
     "C2": "NULL_ATOM:1",
     "C3": "ENCHANTED_MITHRIL:32"
-  }
+  },
+  "category": "vanilla",
+  "priority": 10
 }

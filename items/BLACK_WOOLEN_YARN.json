@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Black_Woolen_Yarn",
     "https://wiki.hypixel.net/Black_Woolen_Yarn"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

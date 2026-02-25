@@ -47,5 +47,7 @@
       "count": 1,
       "overrideOutputId": "SCORPION_FOIL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

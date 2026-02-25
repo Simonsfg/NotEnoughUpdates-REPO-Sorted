@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bobbin%27_Scriptures",
     "https://wiki.hypixel.net/Bobbin%27_Scriptures"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

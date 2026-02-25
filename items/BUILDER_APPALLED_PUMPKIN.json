@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Appalled_Pumpkin",
     "https://wiki.hypixel.net/Appalled_Pumpkin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

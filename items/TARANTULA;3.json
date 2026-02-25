@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tarantula_Pet",
     "https://wiki.hypixel.net/Tarantula_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

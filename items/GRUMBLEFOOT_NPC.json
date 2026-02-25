@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Grumblefoot",
     "https://wiki.hypixel.net/Grumblefoot"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

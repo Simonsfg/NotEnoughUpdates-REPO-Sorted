@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lumino_Fiber",
     "https://wiki.hypixel.net/Lumino_Fiber"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

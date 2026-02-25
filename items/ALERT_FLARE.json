@@ -42,5 +42,7 @@
     "C2": "WARNING_FLARE:1",
     "C3": ""
   },
-  "slayer_req": "BLAZE_6"
+  "slayer_req": "BLAZE_6",
+  "category": "misc",
+  "priority": 11
 }

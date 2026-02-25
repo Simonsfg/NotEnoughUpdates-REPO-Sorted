@@ -28,5 +28,7 @@
     "C1": "SUGAR_CANE:12",
     "C2": "SUGAR_CANE:12",
     "C3": "SUGAR_CANE:12"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

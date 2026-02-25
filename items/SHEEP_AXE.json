@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sheep_Axe",
     "https://wiki.hypixel.net/Sheep_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

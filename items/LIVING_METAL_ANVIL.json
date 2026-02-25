@@ -32,5 +32,7 @@
     "C1": "LIVING_METAL:32",
     "C2": "LIVING_METAL:32",
     "C3": "LIVING_METAL:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

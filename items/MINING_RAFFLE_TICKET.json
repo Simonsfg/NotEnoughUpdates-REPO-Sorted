@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Raffle_Ticket",
     "https://wiki.hypixel.net/Raffle_Ticket"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Festive_Sinker",
     "https://wiki.hypixel.net/Festive_Sinker"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

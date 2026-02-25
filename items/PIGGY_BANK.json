@@ -65,5 +65,7 @@
       "count": 1,
       "overrideOutputId": "PIGGY_BANK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

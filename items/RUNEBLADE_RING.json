@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "RUNEBLADE_RING"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

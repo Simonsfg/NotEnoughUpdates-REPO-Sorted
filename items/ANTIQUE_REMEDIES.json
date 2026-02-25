@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Antique_Remedies",
     "https://wiki.hypixel.net/Antique_Remedies"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

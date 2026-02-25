@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mazakala",
     "https://wiki.hypixel.net/Mazakala"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

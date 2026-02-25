@@ -40,5 +40,7 @@
     "C1": "ENCHANTED_WATER_LILY:16",
     "C2": "ENCHANTED_WATER_LILY:16",
     "C3": "ENCHANTED_WATER_LILY:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

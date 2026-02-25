@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wet_Pumpkin",
     "https://wiki.hypixel.net/Wet_Pumpkin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

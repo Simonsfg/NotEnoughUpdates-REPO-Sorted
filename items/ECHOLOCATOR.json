@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Echolocator",
     "https://wiki.hypixel.net/Echolocator"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

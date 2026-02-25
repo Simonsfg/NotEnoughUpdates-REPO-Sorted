@@ -38,5 +38,7 @@
     "C2": "LESSER_SOULFLOW_ENGINE:1",
     "C3": "REFINED_TITANIUM:6"
   },
-  "slayer_req": "EMAN_5"
+  "slayer_req": "EMAN_5",
+  "category": "misc",
+  "priority": 11
 }

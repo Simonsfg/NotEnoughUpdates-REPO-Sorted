@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ascension_Rope",
     "https://wiki.hypixel.net/Ascension_Rope"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

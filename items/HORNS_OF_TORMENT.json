@@ -39,5 +39,7 @@
     "C1": "ENCHANTED_MUTTON:24",
     "C2": "ENCHANTED_MUTTON:24",
     "C3": "ENCHANTED_MUTTON:24"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

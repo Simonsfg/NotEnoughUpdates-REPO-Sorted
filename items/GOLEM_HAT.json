@@ -29,5 +29,7 @@
     "C1": "IRON_BLOCK:1",
     "C2": "IRON_BLOCK:1",
     "C3": "IRON_BLOCK:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -29,5 +29,7 @@
     "C1": "LIVING_METAL:1",
     "C2": "",
     "C3": "LIVING_METAL:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

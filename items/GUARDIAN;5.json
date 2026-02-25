@@ -49,5 +49,7 @@
         "GUARDIAN_LUCKY_BLOCK:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Water_Hydra_Head",
     "https://wiki.hypixel.net/Water_Hydra_Head"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

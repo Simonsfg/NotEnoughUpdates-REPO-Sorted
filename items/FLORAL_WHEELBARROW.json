@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Floral_Wheelbarrow",
     "https://wiki.hypixel.net/Floral_Wheelbarrow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

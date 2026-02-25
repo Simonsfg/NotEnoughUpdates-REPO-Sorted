@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Phaser",
     "https://wiki.hypixel.net/Phaser"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

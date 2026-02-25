@@ -42,5 +42,7 @@
       "count": 1,
       "overrideOutputId": "TURBO_FISHING_NET"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

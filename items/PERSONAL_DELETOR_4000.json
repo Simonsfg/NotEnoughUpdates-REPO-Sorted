@@ -31,5 +31,7 @@
     "C1": "ENCHANTED_IRON:16",
     "C2": "ENCHANTED_REDSTONE_BLOCK:1",
     "C3": "ENCHANTED_IRON:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

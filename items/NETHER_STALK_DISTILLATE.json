@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart_Distillate",
     "https://wiki.hypixel.net/Nether_Wart_Distillate"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sadan%27s_Brooch",
     "https://wiki.hypixel.net/Sadan%27s_Brooch"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

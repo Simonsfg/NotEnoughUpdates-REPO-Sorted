@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hungry_Hiker",
     "https://wiki.hypixel.net/Hungry_Hiker"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

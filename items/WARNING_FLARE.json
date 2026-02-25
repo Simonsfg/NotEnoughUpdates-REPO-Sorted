@@ -39,5 +39,7 @@
     "C1": "",
     "C2": "MOLTEN_POWDER:8",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

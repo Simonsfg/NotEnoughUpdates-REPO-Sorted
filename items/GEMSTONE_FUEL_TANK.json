@@ -36,5 +36,7 @@
       "overrideOutputId": "GEMSTONE_FUEL_TANK",
       "duration": 30
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

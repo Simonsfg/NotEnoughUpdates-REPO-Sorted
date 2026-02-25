@@ -25,5 +25,7 @@
     "C1": "",
     "C2": "BLAZE_POWDER:16",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

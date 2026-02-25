@@ -36,5 +36,7 @@
     "C2": "SNOW_BLOCK:16",
     "C3": "SNOW_BLOCK:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

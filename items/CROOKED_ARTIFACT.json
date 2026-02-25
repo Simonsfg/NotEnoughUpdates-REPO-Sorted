@@ -25,5 +25,7 @@
       "cost": "ENCHANTED_EMERALD:38",
       "result": "CROOKED_ARTIFACT"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

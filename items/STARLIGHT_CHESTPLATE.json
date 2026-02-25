@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Starlight_Chestplate",
     "https://wiki.hypixel.net/Starlight_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

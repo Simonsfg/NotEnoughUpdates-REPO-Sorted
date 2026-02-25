@@ -21,7 +21,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Chicken_Leggs",
     "https://wiki.hypixel.net/Chicken_Leggs"
   ],
-    "recipe": {
+  "recipe": {
     "A1": "VOLT_CRUX:8",
     "A2": "WYLD_LEGGINGS:1",
     "A3": "VOLT_CRUX:8",
@@ -31,5 +31,7 @@
     "C1": "METAPHORIC_EGG:8",
     "C2": "",
     "C3": "METAPHORIC_EGG:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

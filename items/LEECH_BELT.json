@@ -32,5 +32,7 @@
     "C1": "LEECH_SUPREME_FRAGMENT:1",
     "C2": "LEECH_SUPREME_FRAGMENT:1",
     "C3": "LEECH_SUPREME_FRAGMENT:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

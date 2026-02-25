@@ -35,5 +35,7 @@
       "overrideOutputId": "FORGE_TRAVEL_SCROLL",
       "duration": 18000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

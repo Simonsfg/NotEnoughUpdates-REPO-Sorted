@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bouncy_Chestplate",
     "https://wiki.hypixel.net/Bouncy_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

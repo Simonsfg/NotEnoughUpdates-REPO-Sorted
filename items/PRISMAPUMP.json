@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Prismapump",
     "https://wiki.hypixel.net/Prismapump"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

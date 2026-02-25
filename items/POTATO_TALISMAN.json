@@ -32,5 +32,7 @@
       "cost": "EMERALD:200",
       "result": "POTATO_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

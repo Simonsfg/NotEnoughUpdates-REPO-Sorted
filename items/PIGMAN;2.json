@@ -44,5 +44,7 @@
         "ENCHANTED_PORK:32"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

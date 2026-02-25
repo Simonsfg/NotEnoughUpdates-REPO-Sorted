@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Muted_Bark",
     "https://wiki.hypixel.net/Muted_Bark"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

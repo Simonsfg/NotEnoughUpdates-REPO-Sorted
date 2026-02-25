@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chill_the_Fish",
     "https://wiki.hypixel.net/Chill_The_Fish"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

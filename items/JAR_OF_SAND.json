@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jar_of_Sand",
     "https://wiki.hypixel.net/Jar_Of_Sand"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

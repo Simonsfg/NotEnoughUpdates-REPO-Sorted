@@ -14,5 +14,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Charcoal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

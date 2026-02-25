@@ -40,5 +40,7 @@
     "C1": "TARANTULA_SILK:1",
     "C2": "TARANTULA_SILK:1",
     "C3": "TARANTULA_SILK:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

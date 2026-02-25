@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Machine_Gun_Shortbow",
     "https://wiki.hypixel.net/Machine_Gun_Shortbow"
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

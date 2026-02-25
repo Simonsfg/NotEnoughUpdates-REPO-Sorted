@@ -36,5 +36,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Mandible",
     "https://wiki.hypixel.net/Kuudra_Mandible"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

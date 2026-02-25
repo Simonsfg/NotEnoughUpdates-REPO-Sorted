@@ -28,5 +28,7 @@
       "overrideOutputId": "MITHRIL_PLATE",
       "duration": 64800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -39,5 +39,7 @@
     "C1": "",
     "C2": "ENCHANTED_IRON_BLOCK:2",
     "C3": ""
-  }
+  },
+  "category": "pets",
+  "priority": 2
 }

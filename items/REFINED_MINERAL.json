@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Refined_Mineral",
     "https://wiki.hypixel.net/Refined_Mineral"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

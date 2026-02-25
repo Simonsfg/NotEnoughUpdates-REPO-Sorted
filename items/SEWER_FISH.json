@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sewer_Fish",
     "https://wiki.hypixel.net/Sewer_Fish"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

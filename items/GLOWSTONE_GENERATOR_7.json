@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_GLOWSTONE_DUST:16",
     "C3": "ENCHANTED_GLOWSTONE_DUST:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

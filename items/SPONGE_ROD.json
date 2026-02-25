@@ -26,5 +26,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Sponge_Rod",
     "https://wiki.hypixel.net/Sponge_Rod"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

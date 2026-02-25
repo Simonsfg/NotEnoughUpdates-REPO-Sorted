@@ -27,5 +27,7 @@
     "C1": "WHEAT:1",
     "C2": "WHEAT:1",
     "C3": "WHEAT:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

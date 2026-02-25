@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fetchur",
     "https://wiki.hypixel.net/Fetchur"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

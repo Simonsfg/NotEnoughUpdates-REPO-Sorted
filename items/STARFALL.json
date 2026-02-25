@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Starfall",
     "https://wiki.hypixel.net/Starfall"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

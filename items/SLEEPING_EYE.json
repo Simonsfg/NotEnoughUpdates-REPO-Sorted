@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sleeping_Eye",
     "https://wiki.hypixel.net/Sleeping_Eye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

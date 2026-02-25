@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Clown_Disc",
     "https://wiki.hypixel.net/Clown_Disc"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

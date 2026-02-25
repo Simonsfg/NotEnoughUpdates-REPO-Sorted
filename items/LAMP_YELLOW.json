@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Yellow_Lamp",
     "https://wiki.hypixel.net/Yellow_Lamp"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

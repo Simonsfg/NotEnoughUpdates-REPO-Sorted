@@ -37,5 +37,7 @@
     "C1": "CRYSTAL_FRAGMENT:1",
     "C2": "",
     "C3": "CRYSTAL_FRAGMENT:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

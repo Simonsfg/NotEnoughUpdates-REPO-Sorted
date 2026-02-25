@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jungle_Amulet",
     "https://wiki.hypixel.net/Jungle_Amulet"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

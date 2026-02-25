@@ -36,5 +36,7 @@
     "C2": "PUMPKIN:20",
     "C3": "PUMPKIN:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

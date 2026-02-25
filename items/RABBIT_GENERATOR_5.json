@@ -35,5 +35,7 @@
     "C1": "ENCHANTED_RABBIT:1",
     "C2": "ENCHANTED_RABBIT:1",
     "C3": "ENCHANTED_RABBIT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

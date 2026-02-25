@@ -67,5 +67,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kat",
     "https://wiki.hypixel.net/Kat_(Rift)"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

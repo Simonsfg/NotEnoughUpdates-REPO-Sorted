@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bat_Artifact",
     "https://wiki.hypixel.net/Bat_Artifact"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

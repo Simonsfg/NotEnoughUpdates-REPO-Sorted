@@ -52,5 +52,7 @@
         "ENCHANTED_COAL_BLOCK:9"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

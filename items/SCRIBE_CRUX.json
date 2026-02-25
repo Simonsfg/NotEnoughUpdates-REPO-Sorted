@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Scribe_Crux",
     "https://wiki.hypixel.net/Scribe_Crux"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Precursor_Eye",
     "https://wiki.hypixel.net/Precursor_Eye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

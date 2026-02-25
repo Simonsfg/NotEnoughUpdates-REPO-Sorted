@@ -29,5 +29,7 @@
       "cost": "ENCHANTED_EMERALD:35",
       "result": "DANTE_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

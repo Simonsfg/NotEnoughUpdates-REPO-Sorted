@@ -30,5 +30,7 @@
     "C2": "",
     "C3": ""
   },
-  "slayer_req": "WOLF_1"
+  "slayer_req": "WOLF_1",
+  "category": "accessories",
+  "priority": 4
 }

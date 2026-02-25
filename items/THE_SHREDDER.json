@@ -27,5 +27,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Shredder",
     "https://wiki.hypixel.net/Shredder"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

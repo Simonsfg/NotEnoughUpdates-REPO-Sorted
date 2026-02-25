@@ -43,5 +43,7 @@
       "overrideOutputId": "DIVAN_PENDANT",
       "duration": 604800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

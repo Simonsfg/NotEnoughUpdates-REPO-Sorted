@@ -42,5 +42,7 @@
         "ENCHANTED_COAL:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

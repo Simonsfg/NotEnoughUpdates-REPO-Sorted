@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Scavenged_Iron_Hammer",
     "https://wiki.hypixel.net/Scavenged_Iron_Hammer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

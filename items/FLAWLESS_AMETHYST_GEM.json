@@ -33,5 +33,7 @@
     "C1": "",
     "C2": "FINE_AMETHYST_GEM:16",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

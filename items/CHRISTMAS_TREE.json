@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Christmas_Tree",
     "https://wiki.hypixel.net/Christmas_Tree"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

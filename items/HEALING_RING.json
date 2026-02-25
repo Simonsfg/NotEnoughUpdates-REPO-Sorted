@@ -31,5 +31,7 @@
     "C1": "",
     "C2": "ENCHANTED_WATER_LILY:1",
     "C3": ""
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

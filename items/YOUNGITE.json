@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Youngite",
     "https://wiki.hypixel.net/Youngite"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

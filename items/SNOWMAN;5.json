@@ -56,5 +56,7 @@
         "MAGIC_TOP_HAT:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

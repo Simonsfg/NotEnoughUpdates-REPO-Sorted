@@ -28,5 +28,7 @@
     "C1": "",
     "C2": "SPIDER_EYE:32",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

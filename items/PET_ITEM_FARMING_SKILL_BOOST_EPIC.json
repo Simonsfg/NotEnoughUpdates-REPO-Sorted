@@ -34,5 +34,7 @@
       "cost": "ENCHANTED_EMERALD:75",
       "result": "PET_ITEM_FARMING_SKILL_BOOST_EPIC"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

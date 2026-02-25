@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "FUNGI_CUTTER_3"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

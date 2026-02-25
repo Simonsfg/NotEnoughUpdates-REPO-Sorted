@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hot_Dog",
     "https://wiki.hypixel.net/Hot_Dog"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

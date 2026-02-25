@@ -46,5 +46,7 @@
     "C1": "MUTANT_NETHER_STALK:15",
     "C2": "ENCHANTED_CACTUS:25",
     "C3": "MUTANT_NETHER_STALK:15"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

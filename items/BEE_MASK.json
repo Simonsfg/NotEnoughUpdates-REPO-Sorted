@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bee_Mask",
     "https://wiki.hypixel.net/Bee_Mask"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

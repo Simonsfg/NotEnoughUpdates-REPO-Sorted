@@ -28,5 +28,7 @@
     "C1": "ENCHANTED_REDSTONE:1",
     "C2": "ENCHANTED_REDSTONE:1",
     "C3": "ENCHANTED_REDSTONE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

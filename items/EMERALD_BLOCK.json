@@ -25,5 +25,7 @@
     "C1": "EMERALD:1",
     "C2": "EMERALD:1",
     "C3": "EMERALD:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

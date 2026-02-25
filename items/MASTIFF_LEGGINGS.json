@@ -38,5 +38,7 @@
     "C2": "ENCHANTED_DIAMOND:16",
     "C3": "GOLDEN_TOOTH:1"
   },
-  "slayer_req": "WOLF_4"
+  "slayer_req": "WOLF_4",
+  "category": "armor",
+  "priority": 6
 }

@@ -42,5 +42,7 @@
     "C1": "ENCHANTED_GOLDEN_CARROT:15",
     "C2": "",
     "C3": "ENCHANTED_GOLDEN_CARROT:15"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chocolate_Dye",
     "https://wiki.hypixel.net/Chocolate_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

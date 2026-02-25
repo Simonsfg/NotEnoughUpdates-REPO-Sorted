@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/BBQ_Grill",
     "https://wiki.hypixel.net/BBQ_Grill"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

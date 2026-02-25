@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Empty_Chum_Bucket",
     "https://wiki.hypixel.net/Empty_Chum_Bucket"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

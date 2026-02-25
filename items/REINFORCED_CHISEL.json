@@ -38,5 +38,7 @@
       "duration": 30,
       "overrideOutputId": "REINFORCED_CHISEL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

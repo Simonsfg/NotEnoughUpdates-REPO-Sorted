@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Giant_Cleaver",
     "https://wiki.hypixel.net/Giant_Cleaver"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

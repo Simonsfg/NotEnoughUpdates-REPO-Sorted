@@ -43,5 +43,7 @@
         "ENCHANTED_RABBIT_FOOT:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

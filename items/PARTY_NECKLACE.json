@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Party_Necklace",
     "https://wiki.hypixel.net/Party_Necklace"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

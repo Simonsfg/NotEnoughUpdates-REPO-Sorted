@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Burnt_Texts",
     "https://wiki.hypixel.net/Burnt_Texts"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

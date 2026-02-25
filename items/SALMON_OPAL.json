@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kaleidoscopic_Mineral",
     "https://wiki.hypixel.net/Kaleidoscopic_Mineral"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

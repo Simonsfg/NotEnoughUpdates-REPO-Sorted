@@ -32,5 +32,7 @@
     "C1": "COVEN_SEAL:4",
     "C2": "FROZEN_WATER:20",
     "C3": "COVEN_SEAL:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

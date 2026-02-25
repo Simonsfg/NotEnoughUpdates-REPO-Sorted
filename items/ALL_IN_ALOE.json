@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "ALL_IN_ALOE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

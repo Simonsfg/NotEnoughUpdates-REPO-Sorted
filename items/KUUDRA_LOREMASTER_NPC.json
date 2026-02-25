@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Loremaster",
     "https://wiki.hypixel.net/Kuudra_Loremaster"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

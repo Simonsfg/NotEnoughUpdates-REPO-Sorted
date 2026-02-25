@@ -33,5 +33,7 @@
     "C2": "ENCHANTED_PACKED_ICE:64",
     "C3": "MOLTEN_POWDER:64"
   },
-  "slayer_req": "BLAZE_7"
+  "slayer_req": "BLAZE_7",
+  "category": "misc",
+  "priority": 11
 }

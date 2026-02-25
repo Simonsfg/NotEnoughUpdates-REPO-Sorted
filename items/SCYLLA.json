@@ -43,5 +43,7 @@
     "C2": "GIANT_FRAGMENT_BIGFOOT:1",
     "C3": "GIANT_FRAGMENT_BIGFOOT:1"
   },
-  "parent": "NECRON_BLADE"
+  "parent": "NECRON_BLADE",
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/The_Soup",
     "https://wiki.hypixel.net/The_Soup"
-  ]
+  ],
+  "category": "consumables",
+  "priority": 9
 }

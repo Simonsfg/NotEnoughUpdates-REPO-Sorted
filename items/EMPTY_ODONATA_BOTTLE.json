@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Empty_Odonata_Bottle",
     "https://wiki.hypixel.net/Empty_Odonata_Bottle"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

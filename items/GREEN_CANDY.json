@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Green_Candy",
     "https://wiki.hypixel.net/Green_Candy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Portalizer",
     "https://wiki.hypixel.net/Portalizer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

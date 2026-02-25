@@ -23,5 +23,7 @@
     "C1": "WOOD_STEP:1",
     "C2": "WOOD_STEP:1",
     "C3": "WOOD_STEP:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

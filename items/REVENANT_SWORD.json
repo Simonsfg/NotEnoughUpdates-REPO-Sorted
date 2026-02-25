@@ -35,5 +35,7 @@
     "C2": "UNDEAD_SWORD:1",
     "C3": ""
   },
-  "slayer_req": "ZOMBIE_3"
+  "slayer_req": "ZOMBIE_3",
+  "category": "weapons",
+  "priority": 5
 }

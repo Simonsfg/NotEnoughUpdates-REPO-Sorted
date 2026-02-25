@@ -27,5 +27,7 @@
       ],
       "result": "ARACHNE_SANCTUARY_TRAVEL_SCROLL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

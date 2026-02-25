@@ -28,5 +28,7 @@
     "C1": "",
     "C2": "ENCHANTED_GHAST_TEAR:5",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

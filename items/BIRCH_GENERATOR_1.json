@@ -36,5 +36,7 @@
     "C2": "LOG-2:10",
     "C3": "LOG-2:10"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

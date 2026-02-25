@@ -17,5 +17,7 @@
   "info": [
     "https://wiki.hypixel.net/Flint"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

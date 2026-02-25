@@ -31,5 +31,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_MOONFLOWER"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

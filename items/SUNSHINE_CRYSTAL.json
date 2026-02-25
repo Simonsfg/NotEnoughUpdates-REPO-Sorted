@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "SUNSHINE_CRYSTAL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

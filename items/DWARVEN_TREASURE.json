@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dwarven_Treasure",
     "https://wiki.hypixel.net/Dwarven_Treasure"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -27,5 +27,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Golden_Shovel"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

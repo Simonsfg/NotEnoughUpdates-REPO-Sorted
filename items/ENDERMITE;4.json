@@ -50,5 +50,7 @@
         "MITE_GEL:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

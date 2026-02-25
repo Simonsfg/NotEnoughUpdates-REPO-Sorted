@@ -42,5 +42,7 @@
     "C1": "",
     "C2": "PAPER:8",
     "C3": "ENCHANTED_SPIDER_EYE:8"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

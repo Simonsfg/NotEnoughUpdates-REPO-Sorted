@@ -14,5 +14,7 @@
   "info": [
     "https://wiki.hypixel.net/Nether_Quartz_Ore"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

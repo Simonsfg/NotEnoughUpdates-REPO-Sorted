@@ -37,5 +37,7 @@
     "C1": "UNSTABLE_FRAGMENT:10",
     "C2": "",
     "C3": "UNSTABLE_FRAGMENT:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

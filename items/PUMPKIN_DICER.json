@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Dicer",
     "https://wiki.hypixel.net/Pumpkin_Dicer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

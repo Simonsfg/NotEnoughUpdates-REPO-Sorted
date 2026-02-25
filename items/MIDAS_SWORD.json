@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Midas%27_Sword",
     "https://wiki.hypixel.net/Midas%27_Sword"
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

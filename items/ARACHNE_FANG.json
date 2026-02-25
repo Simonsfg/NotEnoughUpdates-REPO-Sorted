@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Arachne%27s_Fang",
     "https://wiki.hypixel.net/Arachne%27s_Fang"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

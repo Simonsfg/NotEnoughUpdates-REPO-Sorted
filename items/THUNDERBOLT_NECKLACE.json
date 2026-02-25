@@ -44,5 +44,7 @@
     "C1": "",
     "C2": "THUNDER_SHARDS:1",
     "C3": ""
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

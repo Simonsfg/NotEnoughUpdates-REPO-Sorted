@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chesto_Berry",
     "https://wiki.hypixel.net/Chesto_Berry"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

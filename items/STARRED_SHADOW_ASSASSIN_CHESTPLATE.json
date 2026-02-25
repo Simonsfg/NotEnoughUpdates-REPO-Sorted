@@ -47,5 +47,7 @@
     "C2": "LIVID_FRAGMENT:1",
     "C3": "LIVID_FRAGMENT:1"
   },
-  "parent": "SHADOW_ASSASSIN_CHESTPLATE"
+  "parent": "SHADOW_ASSASSIN_CHESTPLATE",
+  "category": "armor",
+  "priority": 6
 }

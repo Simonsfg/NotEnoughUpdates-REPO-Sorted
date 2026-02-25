@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spruce_Log",
     "https://wiki.hypixel.net/Spruce_Log"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -33,5 +33,7 @@
       "duration": 14400,
       "overrideOutputId": "GLACITE_AMALGAMATION"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -58,5 +58,7 @@
       ],
       "result": "SYPHON;5:1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -36,5 +36,7 @@
       "count": 1,
       "overrideOutputId": "HEPHAESTUS_ANVIL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

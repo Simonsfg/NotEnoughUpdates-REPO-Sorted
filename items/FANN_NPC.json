@@ -27,5 +27,7 @@
       ],
       "result": "OWL;4:1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

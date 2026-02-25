@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rusty_Ship_Engine",
     "https://wiki.hypixel.net/Rusty_Ship_Engine"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

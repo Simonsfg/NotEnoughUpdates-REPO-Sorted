@@ -27,5 +27,7 @@
       "overrideOutputId": "REFINED_UMBER",
       "duration": 3600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

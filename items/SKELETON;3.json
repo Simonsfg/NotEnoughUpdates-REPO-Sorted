@@ -45,5 +45,7 @@
         "ENCHANTED_BONE:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

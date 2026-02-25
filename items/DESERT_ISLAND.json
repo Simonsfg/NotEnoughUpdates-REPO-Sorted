@@ -35,5 +35,7 @@
       "cost": "EMERALD:25",
       "result": "DESERT_ISLAND"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

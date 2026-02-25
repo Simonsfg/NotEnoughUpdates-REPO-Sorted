@@ -42,5 +42,7 @@
     "C1": "",
     "C2": "KUUDRA_TEETH:1",
     "C3": ""
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

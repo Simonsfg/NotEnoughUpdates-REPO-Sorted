@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Zombie_Soldier_Cutlass",
     "https://wiki.hypixel.net/Zombie_Soldier_Cutlass"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

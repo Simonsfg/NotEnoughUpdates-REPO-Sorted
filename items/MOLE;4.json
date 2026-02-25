@@ -47,5 +47,7 @@
       "overrideOutputId": "MOLE;4",
       "duration": 259200
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -46,5 +46,7 @@
       "count": 1,
       "overrideOutputId": "STARRED_DAEDALUS_AXE"
     }
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

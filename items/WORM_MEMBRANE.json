@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Worm_Membrane",
     "https://wiki.hypixel.net/Worm_Membrane"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

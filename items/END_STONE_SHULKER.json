@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Shulker",
     "https://wiki.hypixel.net/End_Stone_Shulker"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

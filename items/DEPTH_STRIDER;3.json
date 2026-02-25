@@ -28,5 +28,7 @@
   "clickcommand": "",
   "parent": "DEPTH_STRIDER;2",
   "modver": "2.0.0-REL",
-  "infoType": ""
+  "infoType": "",
+  "category": "enchants",
+  "priority": 1
 }

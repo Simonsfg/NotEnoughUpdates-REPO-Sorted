@@ -31,5 +31,7 @@
     "C1": "CUP_OF_BLOOD:32",
     "C2": "HORN_OF_TAURUS:16",
     "C3": "FLAMING_HEART:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

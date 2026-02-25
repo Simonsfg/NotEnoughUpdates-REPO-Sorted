@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chicken_Axe",
     "https://wiki.hypixel.net/Chicken_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

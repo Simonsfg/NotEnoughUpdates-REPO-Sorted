@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Aspect_of_the_Dragons",
     "https://wiki.hypixel.net/Aspect_Of_The_Dragons"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -40,5 +40,7 @@
       "duration": 1800,
       "overrideOutputId": "PORTABLE_CAMPFIRE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

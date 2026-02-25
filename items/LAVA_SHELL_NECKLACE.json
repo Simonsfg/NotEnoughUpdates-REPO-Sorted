@@ -34,5 +34,7 @@
     "C1": "LAVA_SHELL:1",
     "C2": "LAVA_SHELL:1",
     "C3": "LAVA_SHELL:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

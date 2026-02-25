@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/End_Portal_Fumes",
     "https://wiki.hypixel.net/End_Portal_Fumes"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

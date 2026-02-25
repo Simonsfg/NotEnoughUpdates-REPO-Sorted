@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Warped_Stone",
     "https://wiki.hypixel.net/Warped_Stone"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

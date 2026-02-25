@@ -33,5 +33,7 @@
     "C1": "LIVID_FRAGMENT:1",
     "C2": "LIVID_FRAGMENT:1",
     "C3": "LIVID_FRAGMENT:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

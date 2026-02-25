@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Frozen_Spider",
     "https://wiki.hypixel.net/Frozen_Spider"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

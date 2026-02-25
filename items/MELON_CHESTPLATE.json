@@ -41,5 +41,7 @@
     "C1": "ENCHANTED_MELON_BLOCK:5",
     "C2": "ENCHANTED_MELON_BLOCK:5",
     "C3": "ENCHANTED_MELON_BLOCK:5"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

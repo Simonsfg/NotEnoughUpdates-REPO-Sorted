@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chester",
     "https://wiki.hypixel.net/Chester"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

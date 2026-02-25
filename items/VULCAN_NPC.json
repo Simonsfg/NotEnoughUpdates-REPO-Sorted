@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Vulcan",
     "https://wiki.hypixel.net/Vulcan"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

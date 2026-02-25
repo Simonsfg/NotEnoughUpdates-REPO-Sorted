@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Snow_Belt",
     "https://wiki.hypixel.net/Snow_Belt"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

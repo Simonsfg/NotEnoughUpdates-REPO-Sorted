@@ -22,5 +22,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Fancy_Tuxedo_Jacket",
     "https://wiki.hypixel.net/Fancy_Tuxedo_Jacket"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

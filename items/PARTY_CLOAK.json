@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Party_Cloak",
     "https://wiki.hypixel.net/Party_Cloak"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Glowing_Mush_Mixin",
     "https://wiki.hypixel.net/Glowing_Mush_Mixin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

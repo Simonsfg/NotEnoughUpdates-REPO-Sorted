@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rune_Sack",
     "https://wiki.hypixel.net/Rune_Sack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

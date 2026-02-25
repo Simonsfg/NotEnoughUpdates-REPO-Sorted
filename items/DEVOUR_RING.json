@@ -31,5 +31,7 @@
     "C2": "",
     "C3": ""
   },
-  "slayer_req": "ZOMBIE_5"
+  "slayer_req": "ZOMBIE_5",
+  "category": "accessories",
+  "priority": 4
 }

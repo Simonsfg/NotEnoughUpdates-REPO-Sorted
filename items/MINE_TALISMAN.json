@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mine_Affinity_Talisman",
     "https://wiki.hypixel.net/Mine_Affinity_Talisman"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -62,5 +62,7 @@
       ],
       "result": "BLESSED_FRUIT"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

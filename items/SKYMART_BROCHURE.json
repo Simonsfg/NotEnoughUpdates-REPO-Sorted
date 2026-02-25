@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/SkyMart_Brochure",
     "https://wiki.hypixel.net/SkyMart_Brochure"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

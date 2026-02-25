@@ -28,5 +28,7 @@
     "C1": "ENCHANTED_EMERALD:4",
     "C2": "ENCHANTED_EMERALD:4",
     "C3": "ENCHANTED_EMERALD:4"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

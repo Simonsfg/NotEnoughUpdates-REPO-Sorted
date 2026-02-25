@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Arrow",
     "https://wiki.hypixel.net/Magma_Arrow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

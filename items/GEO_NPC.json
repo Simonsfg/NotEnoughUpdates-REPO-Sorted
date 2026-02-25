@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Geo",
     "https://wiki.hypixel.net/Geo"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Iron_Claws",
     "https://wiki.hypixel.net/Iron_Claws"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

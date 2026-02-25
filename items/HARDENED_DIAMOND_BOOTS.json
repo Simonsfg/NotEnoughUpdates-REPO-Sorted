@@ -28,5 +28,7 @@
     "C1": "ENCHANTED_DIAMOND:1",
     "C2": "",
     "C3": "ENCHANTED_DIAMOND:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

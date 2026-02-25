@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/KnockOff™_Cola",
     "https://wiki.hypixel.net/KnockOff™_Cola"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

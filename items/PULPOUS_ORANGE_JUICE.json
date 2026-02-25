@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pulpous_Orange_Juice",
     "https://wiki.hypixel.net/Pulpous_Orange_Juice"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

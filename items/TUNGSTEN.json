@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tungsten",
     "https://wiki.hypixel.net/Tungsten"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

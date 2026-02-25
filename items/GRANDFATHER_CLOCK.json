@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Grandfather_Clock",
     "https://wiki.hypixel.net/Grandfather_Clock"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -36,5 +36,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Stereo_Pants",
     "https://wiki.hypixel.net/Stereo_Pants"
   ],
-  "crafttext": "Requires: Sponge VII"
+  "crafttext": "Requires: Sponge VII",
+  "category": "misc",
+  "priority": 11
 }

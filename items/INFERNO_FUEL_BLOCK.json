@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Inferno_Fuel_Block",
     "https://wiki.hypixel.net/Inferno_Fuel_Block"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

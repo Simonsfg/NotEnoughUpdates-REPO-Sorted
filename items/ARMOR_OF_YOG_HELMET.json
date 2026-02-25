@@ -41,5 +41,7 @@
     "C1": "YOGGIE:5",
     "C2": "YOGGIE:5",
     "C3": "YOGGIE:5"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

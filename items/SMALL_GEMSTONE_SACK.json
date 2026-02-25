@@ -33,5 +33,7 @@
     "C1": "ROUGH_RUBY_GEM:10",
     "C2": "ROUGH_RUBY_GEM:10",
     "C3": "ROUGH_RUBY_GEM:10"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

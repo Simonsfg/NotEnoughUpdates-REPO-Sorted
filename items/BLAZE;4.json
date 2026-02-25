@@ -46,5 +46,7 @@
         "ENCHANTED_BLAZE_ROD:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

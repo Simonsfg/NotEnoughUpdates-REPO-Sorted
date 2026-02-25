@@ -104,5 +104,7 @@
       ],
       "result": "ONYX"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

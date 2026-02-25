@@ -30,5 +30,7 @@
     "C1": "LOG:1",
     "C2": "LOG:1",
     "C3": "LOG:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -31,5 +31,7 @@
     "C1": "",
     "C2": "COVEN_SEAL:2",
     "C3": "COVEN_SEAL:2"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

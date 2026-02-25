@@ -10,5 +10,7 @@
   "crafttext": "",
   "clickcommand": "",
   "modver": "2.2.1",
-  "infoType": ""
+  "infoType": "",
+  "category": "misc",
+  "priority": 11
 }

@@ -15,5 +15,7 @@
   "crafttext": "",
   "clickcommand": "",
   "modver": "2.3.0",
-  "infoType": ""
+  "infoType": "",
+  "category": "pets",
+  "priority": 2
 }

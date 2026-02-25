@@ -33,5 +33,7 @@
     "C2": "ENCHANTED_PACKED_ICE:6",
     "C3": "INFERNO_VERTEX:2"
   },
-  "slayer_req": "BLAZE_5"
+  "slayer_req": "BLAZE_5",
+  "category": "misc",
+  "priority": 11
 }

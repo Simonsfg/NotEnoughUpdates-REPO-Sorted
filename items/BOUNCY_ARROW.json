@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bouncy_Arrow",
     "https://wiki.hypixel.net/Bouncy_Arrow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

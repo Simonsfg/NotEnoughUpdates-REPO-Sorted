@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Derelict_Ashe",
     "https://wiki.hypixel.net/Derelict_Ashe"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

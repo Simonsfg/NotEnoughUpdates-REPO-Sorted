@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Trevor",
     "https://wiki.hypixel.net/Trevor"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

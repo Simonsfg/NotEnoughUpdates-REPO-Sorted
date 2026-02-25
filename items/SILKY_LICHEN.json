@@ -20,9 +20,11 @@
   ],
   "recipes": [
     {
-    "type": "trade",
-    "cost": "EMERALD:50",
-    "result": "SILKY_LICHEN"
+      "type": "trade",
+      "cost": "EMERALD:50",
+      "result": "SILKY_LICHEN"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Squash",
     "https://wiki.hypixel.net/Squash"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

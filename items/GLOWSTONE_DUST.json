@@ -17,5 +17,7 @@
   "info": [
     "https://wiki.hypixel.net/Glowstone_Dust"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

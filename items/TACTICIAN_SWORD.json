@@ -31,5 +31,7 @@
       "cost": "ENCHANTED_EMERALD:9",
       "result": "TACTICIAN_SWORD"
     }
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

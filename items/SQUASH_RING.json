@@ -33,5 +33,7 @@
     "C1": "SQUASH:16",
     "C2": "SQUASH:16",
     "C3": "SQUASH:16"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

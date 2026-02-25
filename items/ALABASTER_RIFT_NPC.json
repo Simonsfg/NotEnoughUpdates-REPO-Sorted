@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Alabaster",
     "https://wiki.hypixel.net/Alabaster"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

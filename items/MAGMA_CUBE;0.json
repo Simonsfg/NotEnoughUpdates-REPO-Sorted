@@ -27,5 +27,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Pet",
     "https://wiki.hypixel.net/Magma_Cube_Pet"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "pets",
+  "priority": 2
 }

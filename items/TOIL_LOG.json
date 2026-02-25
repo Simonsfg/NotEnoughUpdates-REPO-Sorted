@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Toil_Log",
     "https://wiki.hypixel.net/Toil_Log"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

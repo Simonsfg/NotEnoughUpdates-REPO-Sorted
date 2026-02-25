@@ -29,5 +29,7 @@
     "C2": "",
     "C3": ""
   },
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -47,5 +47,7 @@
       "count": 1,
       "overrideOutputId": "TARANTULA_FANG"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

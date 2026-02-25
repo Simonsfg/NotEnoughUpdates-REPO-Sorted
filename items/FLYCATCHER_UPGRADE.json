@@ -33,5 +33,7 @@
     "C2": "TARANTULA_SILK:17",
     "C3": "TARANTULA_SILK:17"
   },
-  "slayer_req": "SPIDER_6"
+  "slayer_req": "SPIDER_6",
+  "category": "misc",
+  "priority": 11
 }

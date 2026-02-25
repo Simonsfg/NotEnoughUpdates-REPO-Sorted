@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Expensive_Toy",
     "https://wiki.hypixel.net/Expensive_Toy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

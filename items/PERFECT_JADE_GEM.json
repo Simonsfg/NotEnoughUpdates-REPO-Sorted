@@ -34,5 +34,7 @@
       "overrideOutputId": "PERFECT_JADE_GEM",
       "duration": 72000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

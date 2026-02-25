@@ -34,5 +34,7 @@
     "C2": "RAW_BEEF:8",
     "C3": "RAW_BEEF:8"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

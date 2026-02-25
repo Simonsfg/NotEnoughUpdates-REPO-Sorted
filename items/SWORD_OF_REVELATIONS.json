@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "SWORD_OF_REVELATIONS"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -47,5 +47,7 @@
       "count": 1,
       "overrideOutputId": "ABYSSAL_BOOTS"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

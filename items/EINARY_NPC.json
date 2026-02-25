@@ -160,5 +160,7 @@
       ],
       "result": "SCAVENGER;4"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

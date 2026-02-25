@@ -46,5 +46,7 @@
     "C2": "GIANT_FRAGMENT_BIGFOOT:1",
     "C3": "GIANT_FRAGMENT_BIGFOOT:1"
   },
-  "parent": "WITHER_CHESTPLATE"
+  "parent": "WITHER_CHESTPLATE",
+  "category": "armor",
+  "priority": 6
 }

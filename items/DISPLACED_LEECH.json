@@ -46,5 +46,7 @@
       "count": 1,
       "overrideOutputId": "DISPLACED_LEECH"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

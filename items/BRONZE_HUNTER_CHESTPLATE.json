@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bronze_Hunter_Chestplate",
     "https://wiki.hypixel.net/Bronze_Hunter_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

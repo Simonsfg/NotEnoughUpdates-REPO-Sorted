@@ -43,5 +43,7 @@
       "count": 1,
       "overrideOutputId": "GLACITE_GOLEM;0"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -34,5 +34,7 @@
     "C2": "MOLTEN_POWDER:32",
     "C3": "WHIPPED_MAGMA_CREAM:1"
   },
-  "slayer_req": "BLAZE_3"
+  "slayer_req": "BLAZE_3",
+  "category": "accessories",
+  "priority": 4
 }

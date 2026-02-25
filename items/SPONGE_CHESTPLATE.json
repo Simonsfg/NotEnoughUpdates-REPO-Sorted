@@ -35,5 +35,7 @@
     "C1": "ENCHANTED_WET_SPONGE:1",
     "C2": "ENCHANTED_WET_SPONGE:1",
     "C3": "ENCHANTED_WET_SPONGE:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

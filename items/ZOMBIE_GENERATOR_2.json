@@ -35,5 +35,7 @@
     "C2": "ROTTEN_FLESH:20",
     "C3": "ROTTEN_FLESH:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

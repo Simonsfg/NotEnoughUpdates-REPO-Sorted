@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ancestral_Spade",
     "https://wiki.hypixel.net/Ancestral_Spade"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

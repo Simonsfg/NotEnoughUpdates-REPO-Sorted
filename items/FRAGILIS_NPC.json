@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fragilis",
     "https://wiki.hypixel.net/Fragilis"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

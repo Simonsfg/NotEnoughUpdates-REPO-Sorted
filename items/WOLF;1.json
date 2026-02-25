@@ -39,5 +39,7 @@
         "LOG-1:512"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

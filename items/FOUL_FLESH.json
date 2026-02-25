@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Foul_Flesh",
     "https://wiki.hypixel.net/Foul_Flesh"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

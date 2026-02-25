@@ -39,5 +39,7 @@
     "C1": "DERELICT_ASHE:40",
     "C2": "DERELICT_ASHE:40",
     "C3": "DERELICT_ASHE:40"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

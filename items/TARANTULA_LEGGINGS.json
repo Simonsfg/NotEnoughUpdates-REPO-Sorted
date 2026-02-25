@@ -49,5 +49,7 @@
     "C2": "",
     "C3": "ENCHANTED_IRON:64"
   },
-  "slayer_req": "SPIDER_4"
+  "slayer_req": "SPIDER_4",
+  "category": "armor",
+  "priority": 6
 }

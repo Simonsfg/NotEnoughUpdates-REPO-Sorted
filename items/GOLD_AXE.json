@@ -28,5 +28,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Golden_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

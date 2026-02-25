@@ -44,5 +44,7 @@
     "C1": "COMPACTED_MOONFLOWER:2",
     "C2": "COMPACTED_MOONFLOWER:2",
     "C3": "COMPACTED_MOONFLOWER:2"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

@@ -45,5 +45,7 @@
     "C1": "WHEAT:8",
     "C2": "WHEAT:8",
     "C3": "WHEAT:8"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

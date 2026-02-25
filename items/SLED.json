@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sled",
     "https://wiki.hypixel.net/Sled"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

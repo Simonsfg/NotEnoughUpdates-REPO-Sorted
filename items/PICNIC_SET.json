@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Picnic_Set",
     "https://wiki.hypixel.net/Picnic_Set"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

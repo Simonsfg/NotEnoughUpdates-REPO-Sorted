@@ -43,5 +43,7 @@
         "COAL_BLOCK:128"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

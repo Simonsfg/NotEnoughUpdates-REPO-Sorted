@@ -38,5 +38,7 @@
       "count": 1,
       "overrideOutputId": "FIG_LEGGINGS"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Emissary_Eliza",
     "https://wiki.hypixel.net/Emissary_Eliza"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -38,5 +38,7 @@
     "C3": "MYCEL:32"
   },
   "reputation_req": "MAGE:1000",
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

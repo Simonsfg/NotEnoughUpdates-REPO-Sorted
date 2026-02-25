@@ -20,5 +20,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Time_Shuriken"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -34,5 +34,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Desert_Biome_Stick",
     "https://wiki.hypixel.net/Desert_Biome_Stick"
   ],
-  "crafttext": "Requires: Sand IV"
+  "crafttext": "Requires: Sand IV",
+  "category": "vanilla",
+  "priority": 10
 }

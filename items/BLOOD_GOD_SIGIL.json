@@ -38,5 +38,7 @@
       "count": 1,
       "overrideOutputId": "BLOOD_GOD_SIGIL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Runes",
     "https://wiki.hypixel.net/Runes"
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

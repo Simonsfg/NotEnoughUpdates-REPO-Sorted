@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spine_Fossil",
     "https://wiki.hypixel.net/Spine_Fossil"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

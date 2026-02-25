@@ -36,5 +36,7 @@
       "overrideOutputId": "BEACON_2",
       "duration": 72000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

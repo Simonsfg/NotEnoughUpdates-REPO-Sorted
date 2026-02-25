@@ -35,5 +35,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Red_Scarf",
     "https://wiki.hypixel.net/Red_Scarf"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

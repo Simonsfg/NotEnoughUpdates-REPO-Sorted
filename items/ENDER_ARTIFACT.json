@@ -25,5 +25,7 @@
       "cost": "ENCHANTED_EMERALD:312",
       "result": "ENDER_ARTIFACT"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Reindeer_Plush",
     "https://wiki.hypixel.net/Reindeer_Plush"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

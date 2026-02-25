@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fuming_Potato_Book",
     "https://wiki.hypixel.net/Fuming_Potato_Book"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

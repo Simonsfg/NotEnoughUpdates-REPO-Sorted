@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dark_Oak_Leaves",
     "https://wiki.hypixel.net/Dark_Oak_Leaves"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

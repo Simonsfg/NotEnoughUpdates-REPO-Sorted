@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ender_Dragon_Pet",
     "https://wiki.hypixel.net/Ender_Dragon_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

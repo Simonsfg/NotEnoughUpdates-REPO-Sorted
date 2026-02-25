@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bag_of_Cash",
     "https://wiki.hypixel.net/Bag_Of_Cash"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

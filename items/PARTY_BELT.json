@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Party_Belt",
     "https://wiki.hypixel.net/Party_Belt"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

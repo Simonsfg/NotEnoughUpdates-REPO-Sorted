@@ -33,5 +33,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/InfiniVacuum™",
     "https://wiki.hypixel.net/InfiniVacuum™"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -49,5 +49,7 @@
         "PET_ITEM_TOY_JERRY:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

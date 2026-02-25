@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Frosty",
     "https://wiki.hypixel.net/Frosty"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

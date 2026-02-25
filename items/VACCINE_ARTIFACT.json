@@ -28,5 +28,7 @@
     "C1": "POISON_SAMPLE:1",
     "C2": "POISON_SAMPLE:1",
     "C3": "POISON_SAMPLE:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flaming_Sword",
     "https://wiki.hypixel.net/Flaming_Sword"
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

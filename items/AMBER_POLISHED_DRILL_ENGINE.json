@@ -38,5 +38,7 @@
       "overrideOutputId": "AMBER_POLISHED_DRILL_ENGINE",
       "duration": 30
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

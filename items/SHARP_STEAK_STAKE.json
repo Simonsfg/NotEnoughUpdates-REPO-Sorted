@@ -38,5 +38,7 @@
     "C1": "CRUXMOTION:1",
     "C2": "CRUXMOTION:1",
     "C3": "CRUXMOTION:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -50,5 +50,7 @@
     "C2": "SCARF_FRAGMENT:1",
     "C3": "SCARF_FRAGMENT:1"
   },
-  "parent": "STONE_BLADE"
+  "parent": "STONE_BLADE",
+  "category": "misc",
+  "priority": 11
 }

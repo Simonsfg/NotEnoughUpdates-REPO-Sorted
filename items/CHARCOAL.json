@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Charcoal",
     "https://wiki.hypixel.net/Charcoal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

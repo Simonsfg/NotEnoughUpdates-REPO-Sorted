@@ -44,5 +44,7 @@
     "C1": "",
     "C2": "STICK:1",
     "C3": ""
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

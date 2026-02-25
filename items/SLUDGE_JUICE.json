@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sludge_Juice",
     "https://wiki.hypixel.net/Sludge_Juice"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Guardian_Pet",
     "https://wiki.hypixel.net/Guardian_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

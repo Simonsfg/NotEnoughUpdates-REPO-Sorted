@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Redback_Skin",
     "https://wiki.hypixel.net/Redback_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

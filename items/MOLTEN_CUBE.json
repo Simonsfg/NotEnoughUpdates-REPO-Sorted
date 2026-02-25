@@ -35,5 +35,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Molten_Cube",
     "https://wiki.hypixel.net/Molten_Cube"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

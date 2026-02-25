@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hot_Chocolate",
     "https://wiki.hypixel.net/Hot_Chocolate"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Robotron_Reflector",
     "https://wiki.hypixel.net/Robotron_Reflector"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

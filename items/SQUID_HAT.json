@@ -30,5 +30,7 @@
     "C1": "INK_SACK:1",
     "C2": "INK_SACK:1",
     "C3": "INK_SACK:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

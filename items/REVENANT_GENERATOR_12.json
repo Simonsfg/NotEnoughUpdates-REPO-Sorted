@@ -35,5 +35,7 @@
     "C2": "REVENANT_GENERATOR_11:1",
     "C3": ""
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

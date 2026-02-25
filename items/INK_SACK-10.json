@@ -30,5 +30,7 @@
       "count": 2,
       "overrideOutputId": "INK_SACK-10"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

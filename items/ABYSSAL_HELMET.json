@@ -47,5 +47,7 @@
       "count": 1,
       "overrideOutputId": "ABYSSAL_HELMET"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

@@ -17,5 +17,7 @@
     "https://wiki.hypixel.net/Sugar_Cane",
     "https://hypixel-skyblock.fandom.com/wiki/Sugar_Cane"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

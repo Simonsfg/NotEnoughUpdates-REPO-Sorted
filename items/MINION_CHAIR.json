@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Minion_Chair",
     "https://wiki.hypixel.net/Minion_Chair"
-  ]
+  ],
+  "category": "minions",
+  "priority": 0
 }

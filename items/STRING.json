@@ -17,5 +17,7 @@
     "https://wiki.hypixel.net/String",
     "https://hypixel-skyblock.fandom.com/wiki/String"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

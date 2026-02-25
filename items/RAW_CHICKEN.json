@@ -16,5 +16,7 @@
   "info": [
     "https://wiki.hypixel.net/Raw_Chicken"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bag_of_Gold",
     "https://wiki.hypixel.net/Bag_Of_Gold"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

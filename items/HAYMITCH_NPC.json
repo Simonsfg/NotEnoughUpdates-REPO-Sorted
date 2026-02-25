@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Haymitch",
     "https://wiki.hypixel.net/Haymitch"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

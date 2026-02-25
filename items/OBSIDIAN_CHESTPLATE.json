@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Obsidian_Chestplate",
     "https://wiki.hypixel.net/Obsidian_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

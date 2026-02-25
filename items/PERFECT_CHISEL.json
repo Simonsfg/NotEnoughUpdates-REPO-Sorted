@@ -37,5 +37,7 @@
       "duration": 30,
       "overrideOutputId": "PERFECT_CHISEL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

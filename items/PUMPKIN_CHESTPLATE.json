@@ -33,5 +33,7 @@
     "C1": "PUMPKIN:1",
     "C2": "PUMPKIN:1",
     "C3": "PUMPKIN:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

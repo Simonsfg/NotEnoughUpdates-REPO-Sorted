@@ -25,5 +25,7 @@
     "C2": "GLASS:1",
     "C3": "GLASS:1",
     "count": 8
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

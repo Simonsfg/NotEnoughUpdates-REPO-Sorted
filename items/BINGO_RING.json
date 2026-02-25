@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingo_Ring",
     "https://wiki.hypixel.net/Bingo_Ring"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

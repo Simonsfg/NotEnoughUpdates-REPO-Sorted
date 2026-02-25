@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sinful_Dice",
     "https://wiki.hypixel.net/Sinful_Dice"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

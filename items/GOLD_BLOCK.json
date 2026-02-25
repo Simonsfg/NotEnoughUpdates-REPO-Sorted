@@ -25,5 +25,7 @@
     "C1": "GOLD_INGOT:1",
     "C2": "GOLD_INGOT:1",
     "C3": "GOLD_INGOT:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

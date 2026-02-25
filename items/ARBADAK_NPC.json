@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Arbadak",
     "https://wiki.hypixel.net/Arbadak"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

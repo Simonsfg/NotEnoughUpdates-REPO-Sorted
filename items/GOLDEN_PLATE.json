@@ -27,5 +27,7 @@
       "overrideOutputId": "GOLDEN_PLATE",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

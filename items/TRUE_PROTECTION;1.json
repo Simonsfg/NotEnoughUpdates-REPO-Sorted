@@ -31,5 +31,7 @@
       "cost": "ENCHANTED_EMERALD:19",
       "result": "TRUE_PROTECTION;1"
     }
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

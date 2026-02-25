@@ -33,5 +33,7 @@
     "C1": "RAW_FISH-2:32",
     "C2": "",
     "C3": "RAW_FISH-2:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

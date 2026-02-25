@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Leaf_Skin",
     "https://wiki.hypixel.net/Leaf_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

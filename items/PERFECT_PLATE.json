@@ -31,5 +31,7 @@
       "duration": 1800,
       "overrideOutputId": "PERFECT_PLATE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

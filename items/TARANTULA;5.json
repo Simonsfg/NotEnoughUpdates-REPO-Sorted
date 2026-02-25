@@ -55,5 +55,7 @@
         "FAKE_NEUROSCIENCE_DEGREE:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

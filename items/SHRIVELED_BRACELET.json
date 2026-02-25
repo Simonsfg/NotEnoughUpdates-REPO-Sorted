@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "SHRIVELED_BRACELET"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

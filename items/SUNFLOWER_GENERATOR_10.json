@@ -33,5 +33,7 @@
     "C2": "COMPACTED_SUNFLOWER:1",
     "C3": "COMPACTED_SUNFLOWER:1"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

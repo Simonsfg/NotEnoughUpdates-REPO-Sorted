@@ -36,5 +36,7 @@
     "C1": "",
     "C2": "TORCH:1",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

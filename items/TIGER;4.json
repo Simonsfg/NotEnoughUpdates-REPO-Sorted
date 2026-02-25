@@ -46,5 +46,7 @@
         "ENCHANTED_RAW_CHICKEN:1024"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

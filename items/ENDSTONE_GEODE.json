@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Geode",
     "https://wiki.hypixel.net/End_Stone_Geode"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Oak_Log",
     "https://wiki.hypixel.net/Oak_Log"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -44,5 +44,7 @@
       "overrideOutputId": "ROCK_GEMSTONE",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

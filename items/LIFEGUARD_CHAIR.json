@@ -20,5 +20,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Lifeguard_Chair"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

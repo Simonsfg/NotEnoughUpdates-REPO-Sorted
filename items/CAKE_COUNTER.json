@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cake_Counter",
     "https://wiki.hypixel.net/Cake_Counter"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

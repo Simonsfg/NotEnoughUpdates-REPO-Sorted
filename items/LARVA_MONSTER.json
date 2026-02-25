@@ -33,5 +33,7 @@
         }
       ]
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

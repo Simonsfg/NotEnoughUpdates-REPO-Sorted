@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hornum",
     "https://wiki.hypixel.net/Hornum"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

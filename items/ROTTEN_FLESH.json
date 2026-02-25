@@ -16,5 +16,7 @@
   "info": [
     "https://wiki.hypixel.net/Rotten_Flesh"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

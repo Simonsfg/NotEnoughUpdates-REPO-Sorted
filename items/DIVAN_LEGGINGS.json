@@ -36,5 +36,7 @@
       "overrideOutputId": "DIVAN_LEGGINGS",
       "duration": 86400
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

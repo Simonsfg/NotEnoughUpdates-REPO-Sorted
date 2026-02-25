@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Snake-in-a-Boot",
     "https://wiki.hypixel.net/Snake-in-a-Boot"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

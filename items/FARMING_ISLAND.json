@@ -28,5 +28,7 @@
     "C1": "DIRT:5",
     "C2": "DIRT:5",
     "C3": "DIRT:5"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

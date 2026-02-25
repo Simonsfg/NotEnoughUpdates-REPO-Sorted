@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "PUMPKIN_DICER_2"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

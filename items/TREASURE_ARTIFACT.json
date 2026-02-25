@@ -29,5 +29,7 @@
     "C1": "TREASURE_RING:1",
     "C2": "TREASURE_RING:1",
     "C3": "TREASURE_RING:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

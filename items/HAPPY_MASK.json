@@ -21,9 +21,11 @@
   ],
   "recipes": [
     {
-    "type": "trade",
-    "cost": "ENCHANTED_EMERALD:4",
-    "result": "HAPPY_MASK"
+      "type": "trade",
+      "cost": "ENCHANTED_EMERALD:4",
+      "result": "HAPPY_MASK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

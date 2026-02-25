@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Royal_Compass",
     "https://wiki.hypixel.net/Royal_Compass"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -39,5 +39,7 @@
     "C1": "LEATHER_CLOTH:6",
     "C2": "LEATHER_CLOTH:6",
     "C3": "LEATHER_CLOTH:6"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

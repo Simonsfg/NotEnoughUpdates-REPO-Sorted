@@ -39,5 +39,7 @@
     "C1": "CRUDE_GABAGOOL_DISTILLATE:1",
     "C2": "INFERNO_FUEL_BLOCK:1",
     "C3": "CRUDE_GABAGOOL_DISTILLATE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dante",
     "https://wiki.hypixel.net/Dante"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

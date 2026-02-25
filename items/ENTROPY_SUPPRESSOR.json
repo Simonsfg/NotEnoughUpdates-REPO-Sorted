@@ -48,5 +48,7 @@
     "C1": "CHILI_PEPPER:8",
     "C2": "HEAVY_GABAGOOL:4",
     "C3": "CHILI_PEPPER:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -29,5 +29,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Rainbow_Enchantment"
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

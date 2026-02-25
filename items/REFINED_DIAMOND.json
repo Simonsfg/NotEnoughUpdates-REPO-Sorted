@@ -28,5 +28,7 @@
       "overrideOutputId": "REFINED_DIAMOND",
       "duration": 28800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

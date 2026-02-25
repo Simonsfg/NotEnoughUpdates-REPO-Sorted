@@ -43,5 +43,7 @@
     "C2": "",
     "C3": ""
   },
-  "slayer_req": "ZOMBIE_4"
+  "slayer_req": "ZOMBIE_4",
+  "category": "armor",
+  "priority": 6
 }

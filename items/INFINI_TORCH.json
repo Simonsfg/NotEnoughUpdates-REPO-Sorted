@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/InfiniTorch™",
     "https://wiki.hypixel.net/InfiniTorch™"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

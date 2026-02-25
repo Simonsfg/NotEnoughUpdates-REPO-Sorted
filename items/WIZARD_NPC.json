@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wizard",
     "https://wiki.hypixel.net/Wizard"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

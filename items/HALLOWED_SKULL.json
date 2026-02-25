@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hallowed_Skull",
     "https://wiki.hypixel.net/Hallowed_Skull"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Infinileap",
     "https://wiki.hypixel.net/Infinileap"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

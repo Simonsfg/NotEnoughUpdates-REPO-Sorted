@@ -36,5 +36,7 @@
     "C1": "MIMIC_FRAGMENT:1",
     "C2": "MIMIC_FRAGMENT:1",
     "C3": "MIMIC_FRAGMENT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

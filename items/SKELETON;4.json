@@ -50,5 +50,7 @@
         "ENCHANTED_BONE:32"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -51,5 +51,7 @@
       "count": 1,
       "overrideOutputId": "SHRIVELED_CORNEA"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

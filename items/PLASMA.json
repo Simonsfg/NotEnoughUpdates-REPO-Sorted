@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Plasma",
     "https://wiki.hypixel.net/Plasma"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

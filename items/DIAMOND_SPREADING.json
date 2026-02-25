@@ -29,5 +29,7 @@
     "C1": "VINE:1",
     "C2": "VINE:1",
     "C3": "VINE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

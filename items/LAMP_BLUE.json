@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Blue_Lamp",
     "https://wiki.hypixel.net/Blue_Lamp"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

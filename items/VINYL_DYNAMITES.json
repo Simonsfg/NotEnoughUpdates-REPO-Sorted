@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/DynaMITES_Vinyl",
     "https://wiki.hypixel.net/DynaMITES_Vinyl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

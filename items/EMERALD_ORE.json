@@ -14,5 +14,7 @@
   "info": [
     "https://wiki.hypixel.net/Emerald_Ore"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

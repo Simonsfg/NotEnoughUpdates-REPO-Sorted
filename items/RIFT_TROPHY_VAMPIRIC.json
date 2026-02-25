@@ -29,5 +29,7 @@
     "C1": "BLOODBADGE:1",
     "C2": "WILTED_BERBERIS_BUNCH:1",
     "C3": "BLOODBADGE:1"
-  }
+  },
+  "category": "rift",
+  "priority": 3
 }

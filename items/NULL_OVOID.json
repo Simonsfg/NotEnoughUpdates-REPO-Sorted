@@ -28,5 +28,7 @@
     "C2": "NULL_SPHERE:32",
     "C3": ""
   },
-  "slayer_req": "EMAN_2"
+  "slayer_req": "EMAN_2",
+  "category": "misc",
+  "priority": 11
 }

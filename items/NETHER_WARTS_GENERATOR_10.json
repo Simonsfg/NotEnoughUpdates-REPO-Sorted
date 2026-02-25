@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_NETHER_STALK:32",
     "C3": "ENCHANTED_NETHER_STALK:32"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

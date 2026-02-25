@@ -25,5 +25,7 @@
       "cost": "EMERALD:100",
       "result": "SCAVENGER_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

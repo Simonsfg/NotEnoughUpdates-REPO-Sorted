@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bonzo%27s_Mask",
     "https://wiki.hypixel.net/Bonzo%27s_Mask"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

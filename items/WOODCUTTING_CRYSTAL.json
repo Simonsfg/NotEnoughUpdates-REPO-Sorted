@@ -36,5 +36,7 @@
       "count": 1,
       "overrideOutputId": "WOODCUTTING_CRYSTAL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

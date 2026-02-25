@@ -17,5 +17,7 @@
   "info": [
     "https://wiki.hypixel.net/Ghast_Tear"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

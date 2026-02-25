@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Starlight_Wand",
     "https://wiki.hypixel.net/Starlight_Wand"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

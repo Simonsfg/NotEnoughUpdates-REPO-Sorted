@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "MEDIUM_SCAFFOLDING"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

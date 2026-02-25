@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bunny",
     "https://wiki.hypixel.net/Bunny"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

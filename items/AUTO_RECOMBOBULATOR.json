@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Auto_Recombobulator",
     "https://wiki.hypixel.net/Auto_Recombobulator"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

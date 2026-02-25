@@ -36,5 +36,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Necromancer_Sword",
     "https://wiki.hypixel.net/Necromancer_Sword"
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

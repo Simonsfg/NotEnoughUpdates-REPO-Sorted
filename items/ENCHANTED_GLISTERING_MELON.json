@@ -27,5 +27,7 @@
     "C1": "SPECKLED_MELON:32",
     "C2": "SPECKLED_MELON:32",
     "C3": "SPECKLED_MELON:32"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

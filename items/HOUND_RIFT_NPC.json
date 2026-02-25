@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hound",
     "https://wiki.hypixel.net/Hound"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

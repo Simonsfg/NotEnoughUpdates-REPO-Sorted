@@ -49,5 +49,7 @@
         "ENCHANTED_SLIME_BALL:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

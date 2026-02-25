@@ -36,5 +36,7 @@
     "C1": "WEREWOLF_SKIN:4",
     "C2": "",
     "C3": "WEREWOLF_SKIN:4"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

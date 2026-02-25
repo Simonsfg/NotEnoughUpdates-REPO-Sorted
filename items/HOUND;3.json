@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hound_Pet",
     "https://wiki.hypixel.net/Hound_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

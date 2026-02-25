@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pelt_Dye",
     "https://wiki.hypixel.net/Pelt_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

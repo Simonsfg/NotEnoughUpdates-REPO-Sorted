@@ -38,5 +38,7 @@
     "C3": "ENCHANTED_RED_SAND:4"
   },
   "reputation_req": "BARBARIAN:3000",
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

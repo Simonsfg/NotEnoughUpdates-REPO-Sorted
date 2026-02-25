@@ -23,5 +23,7 @@
       "cost": "ENCHANTED_EMERALD:6",
       "result": "SHRIMP_THE_FISH"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

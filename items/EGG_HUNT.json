@@ -21,5 +21,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Egg_Hunt",
     "https://wiki.hypixel.net/Egg_Hunt"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

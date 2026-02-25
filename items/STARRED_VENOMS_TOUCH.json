@@ -40,5 +40,7 @@
       "count": 1,
       "overrideOutputId": "STARRED_VENOMS_TOUCH"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -32,5 +32,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/SkyMart_Vacuum",
     "https://wiki.hypixel.net/SkyMart_Vacuum"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -40,5 +40,7 @@
     "C1": "ENCHANTED_GLOWSTONE_DUST:10",
     "C2": "ENCHANTED_GLOWSTONE_DUST:10",
     "C3": "ENCHANTED_GLOWSTONE_DUST:10"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

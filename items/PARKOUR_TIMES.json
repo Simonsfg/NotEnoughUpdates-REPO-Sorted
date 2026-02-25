@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Parkour_Times",
     "https://wiki.hypixel.net/Parkour_Times"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

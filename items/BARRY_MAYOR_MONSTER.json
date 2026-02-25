@@ -37,5 +37,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Barry_the_Wizard",
     "https://wiki.hypixel.net/Barry"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

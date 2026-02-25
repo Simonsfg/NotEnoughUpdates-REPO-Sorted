@@ -27,5 +27,7 @@
     "C1": "",
     "C2": "ENCHANTED_GUNPOWDER:16",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

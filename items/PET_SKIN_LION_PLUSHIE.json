@@ -23,5 +23,7 @@
   "crafttext": "",
   "modver": "Firmament 42.0.0+mc1.21.7",
   "infoType": "",
-  "info": []
+  "info": [],
+  "category": "pets",
+  "priority": 2
 }

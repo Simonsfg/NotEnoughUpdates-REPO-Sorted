@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Furnace+",
     "https://wiki.hypixel.net/Furnace+"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

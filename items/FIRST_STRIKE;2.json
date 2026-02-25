@@ -33,5 +33,7 @@
   "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
   "infoType": "",
   "info": [],
-  "parent": "FIRST_STRIKE;3"
+  "parent": "FIRST_STRIKE;3",
+  "category": "enchants",
+  "priority": 1
 }

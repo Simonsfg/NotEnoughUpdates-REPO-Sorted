@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Larva_Hook",
     "https://wiki.hypixel.net/Larva_Hook"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

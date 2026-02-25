@@ -29,5 +29,7 @@
     "C1": "LEATHER:10",
     "C2": "LEATHER:10",
     "C3": "LEATHER:10"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

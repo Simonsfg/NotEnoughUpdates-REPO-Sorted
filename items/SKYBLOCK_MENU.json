@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/SkyBlock_Menu",
     "https://wiki.hypixel.net/Skyblock_Menu"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

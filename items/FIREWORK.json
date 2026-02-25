@@ -21,5 +21,7 @@
   "modver": "2.0.0-REL",
   "vanilla": true,
   "clickcommand": "viewrecipe",
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

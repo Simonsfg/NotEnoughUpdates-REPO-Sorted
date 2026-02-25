@@ -28,5 +28,7 @@
     "C1": "ENCHANTED_LUSH_BERBERIS:8",
     "C2": "ENCHANTED_LUSH_BERBERIS:8",
     "C3": "ENCHANTED_LUSH_BERBERIS:8"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

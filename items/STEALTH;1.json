@@ -38,5 +38,7 @@
       "count": 1,
       "overrideOutputId": "STEALTH;1"
     }
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

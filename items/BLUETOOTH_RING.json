@@ -38,5 +38,7 @@
     "C1": "METAL_HEART:4",
     "C2": "METAL_HEART:4",
     "C3": "METAL_HEART:4"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

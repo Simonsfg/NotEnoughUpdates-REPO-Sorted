@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hot_Chocolate_Mixin",
     "https://wiki.hypixel.net/Hot_Chocolate_Mixin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

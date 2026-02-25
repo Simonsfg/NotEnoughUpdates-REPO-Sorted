@@ -56,5 +56,7 @@
       ],
       "result": "BEE;4"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

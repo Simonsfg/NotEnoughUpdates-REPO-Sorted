@@ -21,5 +21,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Reaper_Pepper",
     "https://wiki.hypixel.net/Reaper_Pepper"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

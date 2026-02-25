@@ -36,5 +36,7 @@
     "C1": "ENCHANTED_GLOWSTONE:1",
     "C2": "",
     "C3": "ENCHANTED_GLOWSTONE:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

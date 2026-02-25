@@ -53,5 +53,7 @@
         "PET_ITEM_VAMPIRE_FANG:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

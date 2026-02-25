@@ -48,5 +48,7 @@
         "DIGESTED_MUSHROOMS:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

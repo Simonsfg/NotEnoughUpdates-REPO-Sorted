@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Scorched_Power_Crystal",
     "https://wiki.hypixel.net/Scorched_Power_Crystal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "GRIFFIN_UPGRADE_STONE_EPIC"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Superboom_Tnt"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -31,5 +31,7 @@
     "C1": "ENCHANTED_OAK_LOG:1",
     "C2": "ENCHANTED_OAK_LOG:1",
     "C3": "ENCHANTED_OAK_LOG:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

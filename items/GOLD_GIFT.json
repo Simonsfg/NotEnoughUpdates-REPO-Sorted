@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Golden_Gift",
     "https://wiki.hypixel.net/Golden_Gift"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

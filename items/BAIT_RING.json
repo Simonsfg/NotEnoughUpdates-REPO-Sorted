@@ -30,5 +30,7 @@
     "C1": "ENCHANTED_INK_SACK:32",
     "C2": "ENCHANTED_INK_SACK:32",
     "C3": "ENCHANTED_INK_SACK:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

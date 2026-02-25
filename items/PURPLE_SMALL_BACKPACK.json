@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Small_Backpack",
     "https://wiki.hypixel.net/Small_Backpack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

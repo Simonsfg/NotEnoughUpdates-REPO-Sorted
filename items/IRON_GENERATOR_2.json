@@ -36,5 +36,7 @@
     "C2": "IRON_INGOT:20",
     "C3": "IRON_INGOT:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

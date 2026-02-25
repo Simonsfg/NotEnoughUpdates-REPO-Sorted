@@ -25,5 +25,7 @@
       "cost": "ENCHANTED_EMERALD:6",
       "result": "LYNX_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

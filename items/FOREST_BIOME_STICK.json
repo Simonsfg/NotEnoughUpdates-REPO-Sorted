@@ -34,5 +34,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Forest_Biome_Stick",
     "https://wiki.hypixel.net/Forest_Biome_Stick"
   ],
-  "crafttext": "Requires: Oak Log V"
+  "crafttext": "Requires: Oak Log V",
+  "category": "vanilla",
+  "priority": 10
 }

@@ -19,5 +19,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Ring_Of_Eternal_Love"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

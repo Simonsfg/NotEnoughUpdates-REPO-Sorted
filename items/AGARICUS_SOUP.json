@@ -32,5 +32,7 @@
     "C1": "",
     "C2": "RIFT_BUCKET:1",
     "C3": ""
-  }
+  },
+  "category": "consumables",
+  "priority": 9
 }

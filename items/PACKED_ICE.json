@@ -31,5 +31,7 @@
       "overrideOutputId": "PACKED_ICE",
       "supercraftable": true
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

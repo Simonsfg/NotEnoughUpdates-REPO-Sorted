@@ -30,5 +30,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

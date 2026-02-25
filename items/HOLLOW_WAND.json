@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hollow_Wand",
     "https://wiki.hypixel.net/Hollow_Wand"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

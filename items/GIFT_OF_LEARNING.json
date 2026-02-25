@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gift_of_Learning",
     "https://wiki.hypixel.net/Gift_Of_Learning"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

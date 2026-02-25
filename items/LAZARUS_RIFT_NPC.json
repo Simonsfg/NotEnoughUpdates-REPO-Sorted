@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lazarus",
     "https://wiki.hypixel.net/Lazarus"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

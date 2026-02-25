@@ -21,5 +21,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Travel_Scroll_To_The_Bayou"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -46,5 +46,7 @@
         "ENCHANTED_MAGMA_CREAM:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

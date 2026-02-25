@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Large_Bed",
     "https://wiki.hypixel.net/Large_Bed"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

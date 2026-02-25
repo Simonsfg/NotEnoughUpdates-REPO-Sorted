@@ -58,5 +58,7 @@
       "count": 1,
       "overrideOutputId": "PRIMORDIAL_BOOTS"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

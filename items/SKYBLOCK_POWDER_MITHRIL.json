@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Mithril_Powder",
     "https://wiki.hypixel.net/Mithril_Powder"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -29,5 +29,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dungeon_Sack",
     "https://wiki.hypixel.net/Dungeon_Sack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

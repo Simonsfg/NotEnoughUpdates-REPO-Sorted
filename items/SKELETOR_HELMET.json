@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Skeletor_Helmet",
     "https://wiki.hypixel.net/Skeletor_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

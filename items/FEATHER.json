@@ -17,5 +17,7 @@
   "info": [
     "https://wiki.hypixel.net/Feather"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -42,5 +42,7 @@
       "overrideOutputId": "POCKET_ICEBERG",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

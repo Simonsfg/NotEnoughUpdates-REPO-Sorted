@@ -21,5 +21,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Phantom_Hook",
     "https://wiki.hypixel.net/Phantom_Hook"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

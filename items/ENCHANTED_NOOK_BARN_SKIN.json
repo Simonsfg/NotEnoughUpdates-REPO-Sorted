@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Nook_Barn_Skin",
     "https://wiki.hypixel.net/Enchanted_Nook_Barn_Skin"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

@@ -28,5 +28,7 @@
     "C2": "CHILI_PEPPER:32",
     "C3": ""
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

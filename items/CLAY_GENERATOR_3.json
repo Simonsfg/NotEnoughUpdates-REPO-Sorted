@@ -35,5 +35,7 @@
     "C2": "CLAY_BALL:40",
     "C3": "CLAY_BALL:40"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

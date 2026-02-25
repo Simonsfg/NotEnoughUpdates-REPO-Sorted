@@ -25,5 +25,7 @@
       "cost": "EMERALD:10",
       "result": "ZOMBIE_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

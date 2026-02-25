@@ -38,5 +38,7 @@
       "overrideOutputId": "GOBLIN_OMELETTE_PESTO",
       "duration": 64800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

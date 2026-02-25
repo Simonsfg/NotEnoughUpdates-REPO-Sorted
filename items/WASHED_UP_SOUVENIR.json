@@ -26,5 +26,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Washed-Up_Souvenir"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

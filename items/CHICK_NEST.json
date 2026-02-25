@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chick_Nest",
     "https://wiki.hypixel.net/Chick_Nest"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

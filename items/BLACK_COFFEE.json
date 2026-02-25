@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Black_Coffee",
     "https://wiki.hypixel.net/Black_Coffee"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

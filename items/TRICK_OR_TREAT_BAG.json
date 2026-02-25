@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Trick_or_Treat_Bag",
     "https://wiki.hypixel.net/Trick_Or_Treat_Bag"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

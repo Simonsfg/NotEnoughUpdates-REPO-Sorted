@@ -15,5 +15,7 @@
     "https://wiki.hypixel.net/Dragon_Essence"
   ],
   "crafttext": "",
-  "clickcommand": ""
+  "clickcommand": "",
+  "category": "misc",
+  "priority": 11
 }

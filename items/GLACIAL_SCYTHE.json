@@ -37,5 +37,7 @@
     "C1": "ENCHANTED_PACKED_ICE:32",
     "C2": "BLUE_ICE_HUNK:64",
     "C3": "ENCHANTED_PACKED_ICE:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

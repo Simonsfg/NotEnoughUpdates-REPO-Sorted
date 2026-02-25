@@ -37,5 +37,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Booster_Cookie",
     "https://wiki.hypixel.net/Booster_Cookie"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

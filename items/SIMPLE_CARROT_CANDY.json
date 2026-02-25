@@ -35,5 +35,7 @@
     "C1": "CARROT_ITEM:64",
     "C2": "CARROT_ITEM:64",
     "C3": "CARROT_ITEM:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -40,5 +40,7 @@
       "cost": "ENCHANTED_EMERALD:312",
       "result": "JELLYFISH;3"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

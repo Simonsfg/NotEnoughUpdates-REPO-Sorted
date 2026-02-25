@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tier_Boost_Core",
     "https://wiki.hypixel.net/Tier_Boost_Core"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -35,5 +35,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dragon_Shortbow",
     "https://wiki.hypixel.net/Dragon_Shortbow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

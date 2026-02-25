@@ -15,5 +15,7 @@
   "island": "combat_1",
   "x": -272,
   "y": 113,
-  "z": -197
+  "z": -197,
+  "category": "misc",
+  "priority": 11
 }

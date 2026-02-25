@@ -35,5 +35,7 @@
     "C2": "STICK:1",
     "C3": ""
   },
-  "slayer_req": "EMAN_1"
+  "slayer_req": "EMAN_1",
+  "category": "misc",
+  "priority": 11
 }

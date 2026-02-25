@@ -36,5 +36,7 @@
     "C1": "PROTECTOR_FRAGMENT:10",
     "C2": "PROTECTOR_FRAGMENT:10",
     "C3": "PROTECTOR_FRAGMENT:10"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

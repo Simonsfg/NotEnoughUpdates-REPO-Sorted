@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jacobus_Register",
     "https://wiki.hypixel.net/Jacobus_Register"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

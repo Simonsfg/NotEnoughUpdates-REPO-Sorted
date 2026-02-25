@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Floral_Lamppost",
     "https://wiki.hypixel.net/Floral_Lamppost"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

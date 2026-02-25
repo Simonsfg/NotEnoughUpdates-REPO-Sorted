@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wither_Leggings",
     "https://wiki.hypixel.net/Wither_Leggings"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

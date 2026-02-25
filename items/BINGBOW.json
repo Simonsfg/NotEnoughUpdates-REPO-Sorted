@@ -25,5 +25,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingbow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -30,5 +30,7 @@
     "C2": "GREEN_CANDY:1",
     "C3": "GREEN_CANDY:1",
     "count": 32
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

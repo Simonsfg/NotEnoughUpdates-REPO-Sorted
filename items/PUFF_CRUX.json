@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Puff_Crux",
     "https://wiki.hypixel.net/Puff_Crux"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

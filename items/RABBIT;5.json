@@ -53,5 +53,7 @@
         "PET_ITEM_CHOCOLATE_SYRINGE:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -28,5 +28,7 @@
       "count": 3,
       "overrideOutputId": "GLASS_BOTTLE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fried_Feather",
     "https://wiki.hypixel.net/Fried_Feather"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Frosty_Snowball",
     "https://wiki.hypixel.net/Frosty_Snowball"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

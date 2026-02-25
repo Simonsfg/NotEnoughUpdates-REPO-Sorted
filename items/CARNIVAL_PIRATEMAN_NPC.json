@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Carnival_Pirateman",
     "https://wiki.hypixel.net/Carnival_Pirateman"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

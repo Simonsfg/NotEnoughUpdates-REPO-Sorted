@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Desert_Crystal",
     "https://wiki.hypixel.net/Desert_Crystal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

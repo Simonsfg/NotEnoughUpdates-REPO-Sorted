@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lazy_Miner",
     "https://wiki.hypixel.net/Lazy_Miner"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

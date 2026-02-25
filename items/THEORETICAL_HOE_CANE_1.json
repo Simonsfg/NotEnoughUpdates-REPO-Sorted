@@ -33,5 +33,7 @@
     "C1": "SUGAR_CANE:64",
     "C2": "SUGAR_CANE:64",
     "C3": "SUGAR_CANE:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

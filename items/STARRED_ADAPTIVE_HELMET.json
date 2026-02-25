@@ -51,5 +51,7 @@
     "C2": "SCARF_FRAGMENT:1",
     "C3": "SCARF_FRAGMENT:1"
   },
-  "parent": "ADAPTIVE_HELMET"
+  "parent": "ADAPTIVE_HELMET",
+  "category": "armor",
+  "priority": 6
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Grelius",
     "https://wiki.hypixel.net/Grelius"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -25,5 +25,7 @@
     "C1": "IRON_INGOT:1",
     "C2": "IRON_INGOT:1",
     "C3": "IRON_INGOT:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

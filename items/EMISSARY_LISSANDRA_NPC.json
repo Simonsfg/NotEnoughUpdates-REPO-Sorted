@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Emissary_Lissandra",
     "https://wiki.hypixel.net/Emissary_Lissandra"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -111,5 +111,7 @@
       ],
       "result": "HOPPER"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

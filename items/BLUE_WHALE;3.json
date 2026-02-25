@@ -41,5 +41,7 @@
         "ENCHANTED_COOKED_FISH:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Easter_Basket",
     "https://wiki.hypixel.net/Easter_Basket"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

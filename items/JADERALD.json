@@ -29,5 +29,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jaderald",
     "https://wiki.hypixel.net/Jaderald"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

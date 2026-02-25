@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Melon_Dicer",
     "https://wiki.hypixel.net/Melon_Dicer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Atominizer",
     "https://wiki.hypixel.net/Atominizer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

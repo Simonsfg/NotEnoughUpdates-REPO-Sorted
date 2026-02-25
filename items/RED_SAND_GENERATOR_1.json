@@ -38,5 +38,7 @@
     "C3": "SAND-1:10"
   },
   "reputation_req": "BARBARIAN:500",
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

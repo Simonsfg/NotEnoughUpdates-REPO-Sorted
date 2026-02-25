@@ -36,5 +36,7 @@
     "C2": "PUMPKIN:64",
     "C3": "PUMPKIN:64"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

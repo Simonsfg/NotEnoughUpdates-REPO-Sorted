@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ablaze_Skin",
     "https://wiki.hypixel.net/Ablaze_Skin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

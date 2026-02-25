@@ -32,5 +32,7 @@
     "C1": "GEMSTONE_MIXTURE:4",
     "C2": "GEMSTONE_MIXTURE:4",
     "C3": "GEMSTONE_MIXTURE:4"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

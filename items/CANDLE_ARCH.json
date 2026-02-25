@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Candle_Arch",
     "https://wiki.hypixel.net/Candle_Arch"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sentinel_Zombie_Skin",
     "https://wiki.hypixel.net/Sentinel_Zombie_Skin"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

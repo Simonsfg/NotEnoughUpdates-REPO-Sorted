@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dung",
     "https://wiki.hypixel.net/Dung"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

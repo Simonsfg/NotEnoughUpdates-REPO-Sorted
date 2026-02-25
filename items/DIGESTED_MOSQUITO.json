@@ -16,5 +16,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Digested_Mosquito",
     "https://wiki.hypixel.net/Digested_Mosquito"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

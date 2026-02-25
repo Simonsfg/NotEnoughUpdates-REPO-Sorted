@@ -35,5 +35,7 @@
     "C2": "SAND:40",
     "C3": "SAND:40"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

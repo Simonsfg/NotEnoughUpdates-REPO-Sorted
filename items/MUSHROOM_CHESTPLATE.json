@@ -34,5 +34,7 @@
     "C1": "RED_MUSHROOM:1",
     "C2": "RED_MUSHROOM:1",
     "C3": "RED_MUSHROOM:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

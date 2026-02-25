@@ -34,5 +34,7 @@
     "C1": "REFINED_MINERAL:1",
     "C2": "",
     "C3": "REFINED_MINERAL:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

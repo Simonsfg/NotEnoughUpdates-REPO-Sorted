@@ -39,5 +39,7 @@
     "C1": "CRYSTAL_FRAGMENT:4",
     "C2": "SUMMONING_EYE:1",
     "C3": "CRYSTAL_FRAGMENT:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

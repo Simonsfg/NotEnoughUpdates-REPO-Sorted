@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Crystal_Hollows_Sack",
     "https://wiki.hypixel.net/Crystal_Hollows_Sack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Frog_Pet",
     "https://wiki.hypixel.net/Frog_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

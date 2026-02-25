@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Blessed_Fruit",
     "https://wiki.hypixel.net/Blessed_Fruit"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

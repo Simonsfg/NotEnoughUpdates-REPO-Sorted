@@ -46,5 +46,7 @@
       "overrideOutputId": "AMBER_MATERIAL",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

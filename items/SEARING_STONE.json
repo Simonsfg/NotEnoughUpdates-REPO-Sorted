@@ -40,5 +40,7 @@
     "C1": "ENCHANTED_NETHERRACK:10",
     "C2": "ENCHANTED_NETHERRACK:10",
     "C3": "ENCHANTED_NETHERRACK:10"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

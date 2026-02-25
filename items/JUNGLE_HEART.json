@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jungle_Heart",
     "https://wiki.hypixel.net/Jungle_Heart"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

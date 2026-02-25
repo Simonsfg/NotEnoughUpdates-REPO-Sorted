@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rekindled_Ember_Fragment",
     "https://wiki.hypixel.net/Rekindled_Ember_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

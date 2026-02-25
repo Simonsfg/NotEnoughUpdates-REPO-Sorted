@@ -28,5 +28,7 @@
     "C1": "",
     "C2": "ENCHANTED_IRON:1",
     "C3": ""
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

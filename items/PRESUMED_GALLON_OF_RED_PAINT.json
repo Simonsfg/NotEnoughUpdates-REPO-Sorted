@@ -44,5 +44,7 @@
     "C1": "ENCHANTED_DARK_OAK_LOG:16",
     "C2": "ENCHANTED_DARK_OAK_LOG:16",
     "C3": "ENCHANTED_DARK_OAK_LOG:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

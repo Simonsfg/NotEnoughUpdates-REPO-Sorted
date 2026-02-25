@@ -31,5 +31,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Iron_Pickaxe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

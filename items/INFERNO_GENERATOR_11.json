@@ -43,5 +43,7 @@
     "C1": "MOLTEN_POWDER:64",
     "C2": "INFERNO_GENERATOR_8:1",
     "C3": "MOLTEN_POWDER:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

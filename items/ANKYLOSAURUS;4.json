@@ -49,5 +49,7 @@
       "duration": 604800,
       "overrideOutputId": "ANKYLOSAURUS;4"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

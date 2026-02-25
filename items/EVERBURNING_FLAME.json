@@ -31,5 +31,7 @@
     "C1": "FLAMES:4",
     "C2": "ENCHANTED_RED_SAND_CUBE:1",
     "C3": "FLAMES:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

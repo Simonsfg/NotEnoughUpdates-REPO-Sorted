@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Webbed_Fossil",
     "https://wiki.hypixel.net/Webbed_Fossil"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -104,5 +104,7 @@
         "SKYBLOCK_COIN:10"
       ]
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

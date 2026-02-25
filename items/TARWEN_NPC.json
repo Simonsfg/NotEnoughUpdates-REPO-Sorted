@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tarwen",
     "https://wiki.hypixel.net/Tarwen"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

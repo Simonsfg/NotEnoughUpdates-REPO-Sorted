@@ -36,5 +36,7 @@
       "output": "ENDERMAN;1",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

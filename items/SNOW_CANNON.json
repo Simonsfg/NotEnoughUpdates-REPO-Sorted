@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Frosty_the_Snow_Cannon",
     "https://wiki.hypixel.net/Frosty_The_Snow_Cannon"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Holiday_Train",
     "https://wiki.hypixel.net/Holiday_Train"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

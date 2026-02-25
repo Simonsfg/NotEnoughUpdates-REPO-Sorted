@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Exp_Share_Core",
     "https://wiki.hypixel.net/Exp_Share_Core"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

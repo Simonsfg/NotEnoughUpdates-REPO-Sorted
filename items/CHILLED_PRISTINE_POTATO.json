@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chilled_Pristine_Potato",
     "https://wiki.hypixel.net/Chilled_Pristine_Potato"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

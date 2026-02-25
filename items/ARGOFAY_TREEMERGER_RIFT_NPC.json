@@ -18,5 +18,7 @@
     "https://wiki.hypixel.net/Argofay_Treemerger"
   ],
   "crafttext": "",
-  "infoType": "WIKI_URL"
+  "infoType": "WIKI_URL",
+  "category": "rift",
+  "priority": 3
 }

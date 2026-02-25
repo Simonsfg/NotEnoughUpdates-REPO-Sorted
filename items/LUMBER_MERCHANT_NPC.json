@@ -132,5 +132,7 @@
       ],
       "result": "WOOD_AXE"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -32,5 +32,7 @@
     "C1": "MATCH_STICKS:32",
     "C2": "ENCHANTED_SULPHUR_CUBE:1",
     "C3": "MATCH_STICKS:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

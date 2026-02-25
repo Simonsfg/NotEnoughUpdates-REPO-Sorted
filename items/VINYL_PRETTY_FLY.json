@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pretty_Fly_Vinyl",
     "https://wiki.hypixel.net/Pretty_Fly_Vinyl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

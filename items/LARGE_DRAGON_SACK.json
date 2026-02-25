@@ -39,5 +39,7 @@
     "C1": "CRYSTAL_FRAGMENT:8",
     "C2": "DRAGON_HORN:1",
     "C3": "CRYSTAL_FRAGMENT:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

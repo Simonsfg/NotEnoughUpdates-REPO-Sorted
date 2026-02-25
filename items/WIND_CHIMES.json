@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wind_Chimes",
     "https://wiki.hypixel.net/Wind_Chimes"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

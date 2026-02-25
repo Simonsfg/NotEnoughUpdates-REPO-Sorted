@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lattice_Bench",
     "https://wiki.hypixel.net/Lattice_Bench"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

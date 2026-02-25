@@ -23,5 +23,7 @@
     "C1": "",
     "C2": "IRON_INGOT:1",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

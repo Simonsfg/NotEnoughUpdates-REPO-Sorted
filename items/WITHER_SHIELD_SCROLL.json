@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wither_Shield",
     "https://wiki.hypixel.net/Wither_Shield"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Goblin_Helmet",
     "https://wiki.hypixel.net/Goblin_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

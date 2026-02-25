@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Implosion",
     "https://wiki.hypixel.net/Implosion"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

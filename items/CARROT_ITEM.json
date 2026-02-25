@@ -17,5 +17,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Carrot",
     "https://wiki.hypixel.net/Carrot"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

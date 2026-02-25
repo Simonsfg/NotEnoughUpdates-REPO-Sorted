@@ -45,5 +45,7 @@
       "count": 1,
       "overrideOutputId": "LARGE_ENCHANTED_FISHING_SACK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

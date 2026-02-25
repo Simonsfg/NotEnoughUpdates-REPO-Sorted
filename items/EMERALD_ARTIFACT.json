@@ -28,5 +28,7 @@
     "C1": "ENCHANTED_EMERALD_BLOCK:6",
     "C2": "AVARICIOUS_CHALICE:1",
     "C3": "ENCHANTED_EMERALD_BLOCK:6"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

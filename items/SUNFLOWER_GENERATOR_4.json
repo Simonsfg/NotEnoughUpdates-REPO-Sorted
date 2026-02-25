@@ -33,5 +33,7 @@
     "C2": "DOUBLE_PLANT:64",
     "C3": "DOUBLE_PLANT:64"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Golden_Bait",
     "https://wiki.hypixel.net/Golden_Bait"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

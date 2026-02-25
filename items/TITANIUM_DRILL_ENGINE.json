@@ -36,5 +36,7 @@
       "overrideOutputId": "TITANIUM_DRILL_ENGINE",
       "duration": 30
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

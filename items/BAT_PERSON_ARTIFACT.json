@@ -33,5 +33,7 @@
     "C1": "SPOOKY_SHARD:4",
     "C2": "ECTOPLASM:32",
     "C3": "SPOOKY_SHARD:4"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

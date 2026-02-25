@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fel_Rose",
     "https://wiki.hypixel.net/Fel_Rose"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

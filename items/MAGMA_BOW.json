@@ -22,5 +22,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Magma_Bow",
     "https://wiki.hypixel.net/Magma_Bow"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "weapons",
+  "priority": 5
 }

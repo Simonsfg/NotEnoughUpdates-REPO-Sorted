@@ -36,5 +36,7 @@
     "C1": "",
     "C2": "PRISMARINE_SHARD:16",
     "C3": "STRING:1"
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

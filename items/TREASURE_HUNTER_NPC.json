@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Treasure_Hunter",
     "https://wiki.hypixel.net/Treasure_Hunter"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

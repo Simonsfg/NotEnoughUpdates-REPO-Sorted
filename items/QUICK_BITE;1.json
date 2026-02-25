@@ -35,5 +35,7 @@
     "C1": "",
     "C2": "ENCHANTED_PAPER:1",
     "C3": "ALLIGATOR_SKIN:8"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

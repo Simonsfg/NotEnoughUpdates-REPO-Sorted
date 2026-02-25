@@ -39,5 +39,7 @@
       "overrideOutputId": "TITANIUM_LANTERN",
       "duration": 14400
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

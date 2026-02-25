@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tactician%27s_Murder_Weapon",
     "https://wiki.hypixel.net/Tactician%27s_Murder_Weapon"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

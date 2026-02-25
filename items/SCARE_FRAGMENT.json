@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Scare_Fragment",
     "https://wiki.hypixel.net/Scare_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

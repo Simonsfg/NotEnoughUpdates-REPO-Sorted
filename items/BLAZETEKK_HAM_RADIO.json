@@ -42,5 +42,7 @@
     "C2": "INFERNO_VERTEX:12",
     "C3": "MOLTEN_POWDER:16"
   },
-  "slayer_req": "BLAZE_6"
+  "slayer_req": "BLAZE_6",
+  "category": "misc",
+  "priority": 11
 }

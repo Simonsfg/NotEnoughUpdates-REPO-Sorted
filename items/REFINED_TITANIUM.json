@@ -25,5 +25,7 @@
       "overrideOutputId": "REFINED_TITANIUM",
       "duration": 43200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

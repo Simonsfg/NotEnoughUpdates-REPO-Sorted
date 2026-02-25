@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Motes",
     "https://wiki.hypixel.net/Motes"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

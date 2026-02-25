@@ -26,5 +26,7 @@
   },
   "info": [
     "https://wiki.hypixel.net/Diamond_Hoe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

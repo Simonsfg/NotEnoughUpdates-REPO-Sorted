@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lucky_Hoof",
     "https://wiki.hypixel.net/Lucky_Hoof"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

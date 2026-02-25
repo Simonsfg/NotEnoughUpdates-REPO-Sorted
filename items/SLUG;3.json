@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Slug_Pet",
     "https://wiki.hypixel.net/Slug_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

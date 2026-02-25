@@ -44,5 +44,7 @@
       "overrideOutputId": "POLISHED_TOPAZ_ROD",
       "duration": 43200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

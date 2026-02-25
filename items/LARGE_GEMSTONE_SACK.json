@@ -33,5 +33,7 @@
     "C1": "FINE_RUBY_GEM:1",
     "C2": "FINE_RUBY_GEM:1",
     "C3": "FINE_RUBY_GEM:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

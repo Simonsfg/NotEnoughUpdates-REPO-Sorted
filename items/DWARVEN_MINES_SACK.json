@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dwarven_Sack",
     "https://wiki.hypixel.net/Dwarven_Sack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

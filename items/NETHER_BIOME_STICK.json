@@ -34,5 +34,7 @@
     "C1": "STICK:1",
     "C2": "",
     "C3": ""
-  }
+  },
+  "category": "vanilla",
+  "priority": 10
 }

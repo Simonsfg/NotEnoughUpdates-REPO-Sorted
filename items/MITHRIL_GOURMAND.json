@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tasty_Mithril",
     "https://wiki.hypixel.net/Tasty_Mithril"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Arachne_Fragment",
     "https://wiki.hypixel.net/Arachne_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

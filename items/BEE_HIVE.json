@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bee_Hive",
     "https://wiki.hypixel.net/Bee_Hive"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

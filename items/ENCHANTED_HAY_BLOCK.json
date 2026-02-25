@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Hay_Bale",
     "https://wiki.hypixel.net/Enchanted_Hay_Bale"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "blocks",
+  "priority": 8
 }

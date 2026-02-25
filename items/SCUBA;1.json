@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "SCUBA;1"
     }
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

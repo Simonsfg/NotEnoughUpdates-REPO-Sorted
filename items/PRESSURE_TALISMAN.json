@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "PRESSURE_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

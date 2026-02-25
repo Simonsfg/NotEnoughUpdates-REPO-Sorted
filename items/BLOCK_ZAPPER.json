@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Block_Zapper",
     "https://wiki.hypixel.net/Block_Zapper"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

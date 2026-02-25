@@ -29,5 +29,7 @@
       "cost": "EMERALD:50",
       "result": "PIG_MASK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

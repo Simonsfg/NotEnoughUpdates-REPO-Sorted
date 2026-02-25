@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Sword_of_Bad_Health",
     "https://wiki.hypixel.net/Sword_Of_Bad_Health"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

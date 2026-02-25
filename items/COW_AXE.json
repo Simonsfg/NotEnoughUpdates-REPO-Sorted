@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cow_Axe",
     "https://wiki.hypixel.net/Cow_Axe"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

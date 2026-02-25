@@ -16,5 +16,7 @@
   "info": [
     "https://wiki.hypixel.net/Prismarine_Crystals"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

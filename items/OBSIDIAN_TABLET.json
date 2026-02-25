@@ -45,5 +45,7 @@
     "C1": "ENCHANTED_OBSIDIAN:24",
     "C2": "ENCHANTED_OBSIDIAN:24",
     "C3": "ENCHANTED_OBSIDIAN:24"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

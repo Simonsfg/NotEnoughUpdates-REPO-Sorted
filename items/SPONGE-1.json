@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wet_Sponge",
     "https://wiki.hypixel.net/Wet_Sponge"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

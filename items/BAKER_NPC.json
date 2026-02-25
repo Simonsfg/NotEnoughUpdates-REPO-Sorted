@@ -29,5 +29,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Baker",
     "https://wiki.hypixel.net/Baker"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

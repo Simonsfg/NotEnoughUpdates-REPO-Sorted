@@ -36,5 +36,7 @@
       "duration": 64800,
       "overrideOutputId": "TUNGSTEN_KEYCHAIN"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

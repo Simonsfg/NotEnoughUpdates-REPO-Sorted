@@ -43,5 +43,7 @@
         "ENCHANTED_HARD_STONE:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

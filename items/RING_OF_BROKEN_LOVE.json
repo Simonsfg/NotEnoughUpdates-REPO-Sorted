@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ring_of_Broken_Love",
     "https://wiki.hypixel.net/Ring_Of_Broken_Love"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

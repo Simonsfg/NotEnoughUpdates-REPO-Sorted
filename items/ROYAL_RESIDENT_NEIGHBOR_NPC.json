@@ -14,5 +14,7 @@
   "z": 279,
   "island": "mining_3",
   "crafttext": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "misc",
+  "priority": 11
 }

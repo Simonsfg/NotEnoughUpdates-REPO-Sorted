@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Hardened_Wood",
     "https://wiki.hypixel.net/Hardened_Wood"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

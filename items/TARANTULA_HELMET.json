@@ -49,5 +49,7 @@
     "C2": "",
     "C3": ""
   },
-  "slayer_req": "SPIDER_5"
+  "slayer_req": "SPIDER_5",
+  "category": "armor",
+  "priority": 6
 }

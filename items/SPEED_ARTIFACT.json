@@ -28,5 +28,7 @@
     "C1": "ENCHANTED_SUGAR_CANE:6",
     "C2": "ENCHANTED_SUGAR_CANE:6",
     "C3": "ENCHANTED_SUGAR_CANE:6"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

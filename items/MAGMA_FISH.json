@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magmafish",
     "https://wiki.hypixel.net/Magmafish"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

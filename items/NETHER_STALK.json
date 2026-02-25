@@ -18,5 +18,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart",
     "https://wiki.hypixel.net/Nether_Wart"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

@@ -30,5 +30,7 @@
     "C1": "FEATHER:12",
     "C2": "FEATHER:12",
     "C3": "FEATHER:12"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

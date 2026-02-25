@@ -43,5 +43,7 @@
         "ENCHANTED_ENDSTONE:8"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

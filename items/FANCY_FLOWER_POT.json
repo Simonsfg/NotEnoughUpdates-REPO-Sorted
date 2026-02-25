@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Flower_Pot",
     "https://wiki.hypixel.net/Flower_Pot"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

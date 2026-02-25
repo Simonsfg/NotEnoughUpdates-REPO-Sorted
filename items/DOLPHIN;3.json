@@ -41,5 +41,7 @@
       "output": "DOLPHIN;3",
       "items": []
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Beach_Chair",
     "https://wiki.hypixel.net/Beach_Chair"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

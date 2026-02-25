@@ -35,5 +35,7 @@
       "duration": 28800,
       "overrideOutputId": "POWER_RELIC"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

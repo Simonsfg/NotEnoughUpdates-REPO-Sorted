@@ -24,5 +24,7 @@
     "C2": "SMOOTH_BRICK:1",
     "C3": "SMOOTH_BRICK:1",
     "count": 4
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

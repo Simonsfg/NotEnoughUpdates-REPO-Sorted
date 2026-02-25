@@ -34,5 +34,7 @@
     "C1": "SHAME_CRUX:1",
     "C2": "SHAME_CRUX:1",
     "C3": "SHAME_CRUX:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

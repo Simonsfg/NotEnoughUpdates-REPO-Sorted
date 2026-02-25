@@ -26,5 +26,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Angler_Boots",
     "https://wiki.hypixel.net/Angler_Boots"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

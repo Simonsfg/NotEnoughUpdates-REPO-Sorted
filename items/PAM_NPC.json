@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pam",
     "https://wiki.hypixel.net/Pam"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ragna_Rock",
     "https://wiki.hypixel.net/Ragna_Rock"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

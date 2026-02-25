@@ -45,5 +45,7 @@
       "count": 1,
       "overrideOutputId": "DIAMOND_THORN_HEAD"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

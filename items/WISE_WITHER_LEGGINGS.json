@@ -43,5 +43,7 @@
     "C2": "GIANT_FRAGMENT_LASER:1",
     "C3": "GIANT_FRAGMENT_LASER:1"
   },
-  "parent": "WITHER_LEGGINGS"
+  "parent": "WITHER_LEGGINGS",
+  "category": "armor",
+  "priority": 6
 }

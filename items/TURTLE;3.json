@@ -40,5 +40,7 @@
       "cost": "ENCHANTED_EMERALD:312",
       "result": "TURTLE;3"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -29,5 +29,7 @@
     "C1": "SCARE_FRAGMENT:1",
     "C2": "SCARE_FRAGMENT:1",
     "C3": "SCARE_FRAGMENT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

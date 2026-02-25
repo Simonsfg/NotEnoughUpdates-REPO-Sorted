@@ -30,5 +30,7 @@
       "cost": "EMERALD:120",
       "result": "ROGUE_SWORD"
     }
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

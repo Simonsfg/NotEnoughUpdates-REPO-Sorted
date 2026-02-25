@@ -34,5 +34,7 @@
       "overrideOutputId": "GEMSTONE_MIXTURE",
       "duration": 14400
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

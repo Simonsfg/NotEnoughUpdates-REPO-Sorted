@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cake_Slice_of_the_Century",
     "https://wiki.hypixel.net/Cake_Slice_Of_The_Century"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

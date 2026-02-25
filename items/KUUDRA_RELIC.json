@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Relic",
     "https://wiki.hypixel.net/Kuudra_Relic"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

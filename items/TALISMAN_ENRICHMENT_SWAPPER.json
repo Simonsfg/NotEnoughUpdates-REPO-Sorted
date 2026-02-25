@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Accessory_Enrichment_Swapper",
     "https://wiki.hypixel.net/Accessory_Enrichment_Swapper"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

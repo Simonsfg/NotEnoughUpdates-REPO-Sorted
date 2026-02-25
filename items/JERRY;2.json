@@ -42,5 +42,7 @@
         "ASSISTANT:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

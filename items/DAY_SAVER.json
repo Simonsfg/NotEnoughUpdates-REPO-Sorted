@@ -28,5 +28,7 @@
     "C1": "DOUBLE_PLANT:1",
     "C2": "DOUBLE_PLANT:1",
     "C3": "DOUBLE_PLANT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

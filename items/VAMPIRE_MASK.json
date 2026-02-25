@@ -22,5 +22,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Vampire_Mask",
     "https://wiki.hypixel.net/Vampire_Mask"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

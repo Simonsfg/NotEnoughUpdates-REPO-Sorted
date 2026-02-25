@@ -24,5 +24,7 @@
       "cost": "EMERALD:100",
       "result": "INTIMIDATION_TALISMAN"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

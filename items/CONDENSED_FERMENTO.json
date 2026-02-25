@@ -27,5 +27,7 @@
     "C1": "FERMENTO:1",
     "C2": "FERMENTO:1",
     "C3": "FERMENTO:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

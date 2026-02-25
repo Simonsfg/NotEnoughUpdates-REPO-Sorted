@@ -48,5 +48,7 @@
     "C2": "NULL_OVOID:1",
     "C3": "NULL_OVOID:1"
   },
-  "slayer_req": "EMAN_4"
+  "slayer_req": "EMAN_4",
+  "category": "armor",
+  "priority": 6
 }

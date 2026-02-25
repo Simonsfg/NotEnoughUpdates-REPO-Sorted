@@ -28,5 +28,7 @@
       "cost": "EMERALD:100",
       "result": "PIGS_FOOT"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -32,5 +32,7 @@
     "C1": "RED_ROSE:64",
     "C2": "RED_ROSE:64",
     "C3": "RED_ROSE:64"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

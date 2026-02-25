@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ephemeral_Gratitude",
     "https://wiki.hypixel.net/Ephemeral_Gratitude"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -37,5 +37,7 @@
     "C2": "ENCHANTED_RED_MUSHROOM:2",
     "C3": "ENCHANTED_RED_MUSHROOM:2"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

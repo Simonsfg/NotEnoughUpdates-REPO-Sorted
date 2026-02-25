@@ -14,5 +14,7 @@
   "crafttext": "",
   "clickcommand": "viewpotion",
   "modver": "",
-  "infoType": ""
+  "infoType": "",
+  "category": "pets",
+  "priority": 2
 }

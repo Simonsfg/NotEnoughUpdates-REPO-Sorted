@@ -54,5 +54,7 @@
       "overrideOutputId": "DIVAN_DRILL",
       "duration": 30
     }
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

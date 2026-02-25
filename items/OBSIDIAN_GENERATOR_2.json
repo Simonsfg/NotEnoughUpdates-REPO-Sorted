@@ -36,5 +36,7 @@
     "C2": "OBSIDIAN:20",
     "C3": "OBSIDIAN:20"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

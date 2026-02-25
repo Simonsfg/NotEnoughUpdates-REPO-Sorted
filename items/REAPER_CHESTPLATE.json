@@ -52,5 +52,7 @@
     "C1": "ENCHANTED_DIAMOND_BLOCK:1",
     "C2": "REVENANT_VISCERA:64",
     "C3": "ENCHANTED_DIAMOND_BLOCK:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

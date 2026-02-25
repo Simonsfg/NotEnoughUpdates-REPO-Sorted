@@ -31,5 +31,7 @@
     "C1": "WATER_LILY:16",
     "C2": "WATER_LILY:16",
     "C3": "WATER_LILY:16"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

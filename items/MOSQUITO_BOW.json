@@ -52,5 +52,7 @@
       "count": 1,
       "overrideOutputId": "MOSQUITO_BOW"
     }
-  ]
+  ],
+  "category": "weapons",
+  "priority": 5
 }

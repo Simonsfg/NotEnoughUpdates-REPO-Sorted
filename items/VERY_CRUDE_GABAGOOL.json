@@ -33,5 +33,7 @@
     "C1": "CRUDE_GABAGOOL:24",
     "C2": "CRUDE_GABAGOOL:24",
     "C3": "CRUDE_GABAGOOL:24"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

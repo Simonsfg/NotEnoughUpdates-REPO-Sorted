@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lush_Berberis",
     "https://wiki.hypixel.net/Lush_Berberis"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -43,5 +43,7 @@
     "C1": "STICK:1",
     "C2": "",
     "C3": "MAGMA_FISH_SILVER:5"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

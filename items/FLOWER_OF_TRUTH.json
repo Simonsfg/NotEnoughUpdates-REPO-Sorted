@@ -39,5 +39,7 @@
     "C1": "",
     "C2": "GOLEM_POPPY:3",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

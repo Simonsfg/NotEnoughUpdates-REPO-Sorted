@@ -36,5 +36,7 @@
     "C1": "",
     "C2": "PAPER:1",
     "C3": "ENCHANTED_BAKED_POTATO:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

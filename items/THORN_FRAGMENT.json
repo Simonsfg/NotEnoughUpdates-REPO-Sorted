@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Thorn_Fragment",
     "https://wiki.hypixel.net/Thorn_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

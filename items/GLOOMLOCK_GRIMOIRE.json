@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_GUNPOWDER:64",
     "C3": "NULL_OVOID:4"
   },
-  "slayer_req": "EMAN_5"
+  "slayer_req": "EMAN_5",
+  "category": "misc",
+  "priority": 11
 }

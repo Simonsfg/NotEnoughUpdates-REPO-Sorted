@@ -31,5 +31,7 @@
     "C1": "ROTTEN_FLESH:1",
     "C2": "ROTTEN_FLESH:1",
     "C3": "ROTTEN_FLESH:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -29,5 +29,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pet_Skins",
     "https://wiki.hypixel.net/Pet_Skins"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -36,5 +36,7 @@
     "C2": "POTATO_ITEM:16",
     "C3": "POTATO_ITEM:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

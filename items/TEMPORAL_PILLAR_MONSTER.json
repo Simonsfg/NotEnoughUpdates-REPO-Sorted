@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Temporal_Pillar",
     "https://wiki.hypixel.net/Temporal_Pillar"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

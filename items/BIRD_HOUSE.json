@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bird_House",
     "https://wiki.hypixel.net/Bird_House"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

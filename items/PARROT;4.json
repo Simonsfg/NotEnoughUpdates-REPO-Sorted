@@ -51,5 +51,7 @@
         "ENCHANTED_FEATHER:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

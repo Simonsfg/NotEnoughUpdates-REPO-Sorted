@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Ender_Boots",
     "https://wiki.hypixel.net/Ender_Boots"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

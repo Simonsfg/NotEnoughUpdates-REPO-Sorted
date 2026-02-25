@@ -37,5 +37,7 @@
       "overrideOutputId": "BEACON_4",
       "duration": 144000
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

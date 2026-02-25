@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spooky_Cupcake",
     "https://wiki.hypixel.net/Spooky_Cupcake"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

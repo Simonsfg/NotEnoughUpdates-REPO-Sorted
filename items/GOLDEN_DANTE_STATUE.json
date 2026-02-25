@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Golden_Dante_Statue",
     "https://wiki.hypixel.net/Golden_Dante_Statue"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -38,5 +38,7 @@
       "overrideOutputId": "GOBLIN_OMELETTE_BLUE_CHEESE",
       "duration": 64800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

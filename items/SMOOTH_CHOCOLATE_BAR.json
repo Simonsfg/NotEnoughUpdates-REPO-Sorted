@@ -24,5 +24,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Smooth_Chocolate_Bar",
     "https://wiki.hypixel.net/Smooth_Chocolate_Bar"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Campfire_Adept_Badge",
     "https://wiki.hypixel.net/Campfire_Adept_Badge"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

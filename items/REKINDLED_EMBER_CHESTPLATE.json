@@ -44,5 +44,7 @@
     "C1": "REKINDLED_EMBER_FRAGMENT:1",
     "C2": "REKINDLED_EMBER_FRAGMENT:1",
     "C3": "REKINDLED_EMBER_FRAGMENT:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

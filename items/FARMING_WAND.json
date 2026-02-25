@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wand_of_Farming",
     "https://wiki.hypixel.net/Wand_Of_Farming"
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

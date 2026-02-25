@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wither_Helmet",
     "https://wiki.hypixel.net/Wither_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "RED_CLAW_RING"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

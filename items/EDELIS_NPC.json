@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Edelis",
     "https://wiki.hypixel.net/Edelis"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

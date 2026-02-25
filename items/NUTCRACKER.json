@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Nutcracker",
     "https://wiki.hypixel.net/Nutcracker"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

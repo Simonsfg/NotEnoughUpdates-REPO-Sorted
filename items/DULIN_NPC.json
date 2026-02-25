@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dulin",
     "https://wiki.hypixel.net/Dulin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

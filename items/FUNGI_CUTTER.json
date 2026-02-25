@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Fungi_Cutter",
     "https://wiki.hypixel.net/Fungi_Cutter"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

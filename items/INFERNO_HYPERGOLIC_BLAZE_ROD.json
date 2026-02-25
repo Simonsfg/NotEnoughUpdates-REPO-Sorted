@@ -39,5 +39,7 @@
     "C1": "BLAZE_ROD_DISTILLATE:1",
     "C2": "INFERNO_FUEL_BLOCK:1",
     "C3": "BLAZE_ROD_DISTILLATE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

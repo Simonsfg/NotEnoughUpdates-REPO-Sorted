@@ -17,5 +17,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Bone",
     "https://wiki.hypixel.net/Bone"
   ],
-  "vanilla": true
+  "vanilla": true,
+  "category": "misc",
+  "priority": 11
 }

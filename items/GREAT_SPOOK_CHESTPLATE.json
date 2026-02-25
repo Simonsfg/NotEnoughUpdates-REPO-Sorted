@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Chestplate",
     "https://wiki.hypixel.net/Great_Spook_Chestplate"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

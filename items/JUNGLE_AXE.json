@@ -42,5 +42,7 @@
       "count": 1,
       "overrideOutputId": "JUNGLE_AXE"
     }
-  ]
+  ],
+  "category": "tools",
+  "priority": 7
 }

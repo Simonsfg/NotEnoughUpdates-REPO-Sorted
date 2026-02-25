@@ -83,5 +83,7 @@
       ],
       "result": "ARTISANAL_SHORTBOW"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

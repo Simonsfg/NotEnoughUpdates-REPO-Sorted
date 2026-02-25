@@ -16,5 +16,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Grizzly_Salmon",
     "https://wiki.hypixel.net/Grizzly_Salmon"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "misc",
+  "priority": 11
 }

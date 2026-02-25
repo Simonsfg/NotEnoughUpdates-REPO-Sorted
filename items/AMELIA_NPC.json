@@ -90,5 +90,7 @@
       ],
       "result": "SHOWCASE_BLOCK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

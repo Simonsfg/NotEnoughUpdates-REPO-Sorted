@@ -23,5 +23,7 @@
     "C1": "SLIME_BALL:1",
     "C2": "SLIME_BALL:1",
     "C3": "SLIME_BALL:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

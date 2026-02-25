@@ -45,5 +45,7 @@
       "count": 1,
       "overrideOutputId": "HELIANTHUS_CHESTPLATE"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

@@ -16,5 +16,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Voter%27s_Badge"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

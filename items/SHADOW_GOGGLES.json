@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Shadow_Goggles",
     "https://wiki.hypixel.net/Shadow_Goggles"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

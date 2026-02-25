@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "EMPEROR_RING"
     }
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

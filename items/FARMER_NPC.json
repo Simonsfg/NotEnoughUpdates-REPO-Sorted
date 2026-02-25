@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Farmer",
     "https://wiki.hypixel.net/Farmer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

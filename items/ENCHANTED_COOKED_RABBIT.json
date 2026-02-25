@@ -32,5 +32,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_COOKED_RABBIT"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

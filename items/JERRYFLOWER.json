@@ -19,5 +19,7 @@
   "crafttext": "",
   "modver": "Firmament 43.0.0+mc1.21.10",
   "infoType": "",
-  "info": []
+  "info": [],
+  "category": "misc",
+  "priority": 11
 }

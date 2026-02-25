@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "ENDERMITE;0"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

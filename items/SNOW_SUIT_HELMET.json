@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Snow_Suit_Helmet",
     "https://wiki.hypixel.net/Snow_Suit_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

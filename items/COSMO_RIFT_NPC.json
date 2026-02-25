@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cosmo",
     "https://wiki.hypixel.net/Cosmo"
-  ]
+  ],
+  "category": "rift",
+  "priority": 3
 }

@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spirit_Leap",
     "https://wiki.hypixel.net/Spirit_Leap"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

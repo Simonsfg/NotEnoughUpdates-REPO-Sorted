@@ -25,5 +25,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion",
     "https://wiki.hypixel.net/Red_Sand_Minion_XII"
   ],
-  "reputation_req": "BARBARIAN:12000"
+  "reputation_req": "BARBARIAN:12000",
+  "category": "misc",
+  "priority": 11
 }

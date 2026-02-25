@@ -30,5 +30,7 @@
     "C1": "WHEAT:8",
     "C2": "SEEDS:1",
     "C3": "WHEAT:8"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

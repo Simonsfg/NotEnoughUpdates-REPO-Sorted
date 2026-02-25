@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Biohazard_Helmet",
     "https://wiki.hypixel.net/Biohazard_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

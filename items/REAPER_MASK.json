@@ -43,5 +43,7 @@
     "C2": "",
     "C3": "REVENANT_VISCERA:32"
   },
-  "slayer_req": "ZOMBIE_7"
+  "slayer_req": "ZOMBIE_7",
+  "category": "misc",
+  "priority": 11
 }

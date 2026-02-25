@@ -29,5 +29,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Eccentric_Painting",
     "https://wiki.hypixel.net/Eccentric_Painting"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

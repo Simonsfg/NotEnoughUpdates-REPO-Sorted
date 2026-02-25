@@ -25,5 +25,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Corpse-Flavored_Century_Cake"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

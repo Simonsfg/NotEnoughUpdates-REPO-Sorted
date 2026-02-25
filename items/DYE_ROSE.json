@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rose_Dye",
     "https://wiki.hypixel.net/Rose_Dye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

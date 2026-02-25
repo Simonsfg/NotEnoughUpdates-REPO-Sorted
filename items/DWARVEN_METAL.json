@@ -31,5 +31,7 @@
       "duration": 86400,
       "overrideOutputId": "DWARVEN_METAL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

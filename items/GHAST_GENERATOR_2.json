@@ -35,5 +35,7 @@
     "C2": "GHAST_TEAR:16",
     "C3": "GHAST_TEAR:16"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

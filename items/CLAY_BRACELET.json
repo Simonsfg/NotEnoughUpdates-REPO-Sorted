@@ -34,5 +34,7 @@
     "C1": "CLAY:10",
     "C2": "ENCHANTED_CLAY_BALL:4",
     "C3": "CLAY:10"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

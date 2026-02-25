@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Green_Lamp",
     "https://wiki.hypixel.net/Green_Lamp"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

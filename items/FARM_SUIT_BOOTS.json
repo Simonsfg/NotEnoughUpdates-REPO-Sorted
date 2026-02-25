@@ -45,5 +45,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Farm_Suit_Boots",
     "https://wiki.hypixel.net/Farm_Suit_Boots"
   ],
-  "crafttext": "Requires: Wheat III"
+  "crafttext": "Requires: Wheat III",
+  "category": "armor",
+  "priority": 6
 }

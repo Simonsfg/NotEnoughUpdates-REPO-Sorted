@@ -26,5 +26,7 @@
       "overrideOutputId": "TUNGSTEN_PLATE",
       "duration": 10800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Super_Leech_Modifier",
     "https://wiki.hypixel.net/Super_Leech_Modifier"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

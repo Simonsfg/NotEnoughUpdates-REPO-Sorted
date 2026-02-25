@@ -18,5 +18,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/An_Extremely_Difficult_Item_For_You_To_Find"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

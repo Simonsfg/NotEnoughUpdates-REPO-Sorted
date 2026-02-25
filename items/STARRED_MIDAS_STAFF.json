@@ -43,5 +43,7 @@
     "C1": "GOLDEN_FRAGMENT:1",
     "C2": "GOLDEN_FRAGMENT:1",
     "C3": "GOLDEN_FRAGMENT:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

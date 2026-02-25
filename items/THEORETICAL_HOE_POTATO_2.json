@@ -38,5 +38,7 @@
       "count": 1,
       "overrideOutputId": "THEORETICAL_HOE_POTATO_2"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

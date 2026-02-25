@@ -35,5 +35,7 @@
     "C1": "RABBIT:8",
     "C2": "RABBIT:8",
     "C3": "RABBIT:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

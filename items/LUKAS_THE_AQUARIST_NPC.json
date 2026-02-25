@@ -80,5 +80,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lukas_the_Aquarist"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

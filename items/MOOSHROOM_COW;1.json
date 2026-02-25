@@ -38,5 +38,7 @@
         "ENCHANTED_MYCELIUM:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

@@ -34,5 +34,7 @@
     "C1": "RITUAL_RESIDUE:1",
     "C2": "TESSELLATED_ENDER_PEARL:1",
     "C3": "RITUAL_RESIDUE:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -405,5 +405,7 @@
       ],
       "result": "ATTRIBUTE_SHARD_COOKIE_EATER;1"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

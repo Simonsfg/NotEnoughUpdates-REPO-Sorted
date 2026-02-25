@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Turbomax_Vacuum_Cleaner",
     "https://wiki.hypixel.net/Turbomax_Vacuum_Cleaner"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

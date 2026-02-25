@@ -26,5 +26,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Angler_Leggings",
     "https://wiki.hypixel.net/Angler_Leggings"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

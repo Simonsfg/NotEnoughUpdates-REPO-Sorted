@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bouncy_Helmet",
     "https://wiki.hypixel.net/Bouncy_Helmet"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

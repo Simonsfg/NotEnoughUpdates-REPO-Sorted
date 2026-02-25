@@ -30,5 +30,7 @@
       "overrideOutputId": "TUNGSTEN_KEY",
       "duration": 30
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -29,5 +29,7 @@
     "C1": "LIVING_METAL:20",
     "C2": "LIVING_METAL:20",
     "C3": "LIVING_METAL:20"
-  }
+  },
+  "category": "rift",
+  "priority": 3
 }

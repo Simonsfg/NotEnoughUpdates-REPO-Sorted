@@ -42,5 +42,7 @@
     "C1": "ENCHANTED_PACKED_ICE:8",
     "C2": "ENCHANTED_PACKED_ICE:8",
     "C3": "ENCHANTED_PACKED_ICE:8"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

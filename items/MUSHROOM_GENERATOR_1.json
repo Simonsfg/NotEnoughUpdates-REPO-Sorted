@@ -37,5 +37,7 @@
     "C2": "RED_MUSHROOM:10",
     "C3": "RED_MUSHROOM:10"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

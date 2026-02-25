@@ -34,5 +34,7 @@
       "count": 1,
       "overrideOutputId": "LEAFLET_LEGGINGS"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

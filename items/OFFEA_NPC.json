@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Offea",
     "https://wiki.hypixel.net/Offea"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

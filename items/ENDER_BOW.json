@@ -35,5 +35,7 @@
     "C1": "",
     "C2": "ENCHANTED_ENDER_PEARL:4",
     "C3": "STRING:1"
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

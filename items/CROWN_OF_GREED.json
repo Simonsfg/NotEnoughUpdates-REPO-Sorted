@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Crown_of_Greed",
     "https://wiki.hypixel.net/Crown_Of_Greed"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

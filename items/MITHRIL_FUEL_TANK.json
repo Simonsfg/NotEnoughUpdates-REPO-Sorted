@@ -36,5 +36,7 @@
       "overrideOutputId": "MITHRIL_FUEL_TANK",
       "duration": 86400
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

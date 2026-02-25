@@ -35,5 +35,7 @@
     "C2": "ENCHANTED_EYE_OF_ENDER:12",
     "C3": "ENCHANTED_EYE_OF_ENDER:12"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

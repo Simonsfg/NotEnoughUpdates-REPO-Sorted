@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Parkour_Checkpoint",
     "https://wiki.hypixel.net/Parkour_Checkpoint"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

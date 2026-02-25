@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lapis_Crystal",
     "https://wiki.hypixel.net/Lapis_Crystal"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

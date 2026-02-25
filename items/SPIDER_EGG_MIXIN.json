@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Spider_Egg_Mixin",
     "https://wiki.hypixel.net/Spider_Egg_Mixin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

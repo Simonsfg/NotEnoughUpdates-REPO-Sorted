@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Glacite_Jewel",
     "https://wiki.hypixel.net/Glacite_Jewel"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

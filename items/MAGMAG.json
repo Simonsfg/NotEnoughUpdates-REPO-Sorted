@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Magmag",
     "https://wiki.hypixel.net/Magmag"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

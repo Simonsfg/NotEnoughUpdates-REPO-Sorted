@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Necron_Disc",
     "https://wiki.hypixel.net/Necron_Disc"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Ender_Leggings",
     "https://wiki.hypixel.net/Ender_Leggings"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

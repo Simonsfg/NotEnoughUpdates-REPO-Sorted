@@ -25,5 +25,7 @@
       "overrideOutputId": "BEJEWELED_HANDLE",
       "duration": 30
     }
-  ]
+  ],
+  "category": "vanilla",
+  "priority": 10
 }

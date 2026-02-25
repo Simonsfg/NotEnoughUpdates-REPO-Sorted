@@ -13,5 +13,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Overflux_Capacitor",
     "https://wiki.hypixel.net/Overflux_Capacitor"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -14,5 +14,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Large_Fern",
     "https://wiki.hypixel.net/Large_Fern"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

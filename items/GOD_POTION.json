@@ -22,5 +22,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/God_Potion",
     "https://wiki.hypixel.net/God_Potion"
-  ]
+  ],
+  "category": "consumables",
+  "priority": 9
 }

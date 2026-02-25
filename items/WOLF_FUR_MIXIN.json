@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Wolf_Fur_Mixin",
     "https://wiki.hypixel.net/Wolf_Fur_Mixin"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

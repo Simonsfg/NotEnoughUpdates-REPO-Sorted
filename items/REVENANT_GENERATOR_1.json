@@ -36,5 +36,7 @@
     "C3": "REVENANT_FLESH:10"
   },
   "slayer_req": "ZOMBIE_5",
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

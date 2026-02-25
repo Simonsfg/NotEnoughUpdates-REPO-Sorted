@@ -33,5 +33,7 @@
     "C1": "MAGMA_FISH:1",
     "C2": "MAGMA_FISH:1",
     "C3": "MAGMA_FISH:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

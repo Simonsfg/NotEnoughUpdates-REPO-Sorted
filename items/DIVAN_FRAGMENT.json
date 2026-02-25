@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Divan_Fragment",
     "https://wiki.hypixel.net/Divan_Fragment"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

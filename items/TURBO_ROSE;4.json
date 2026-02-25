@@ -25,5 +25,7 @@
   "modver": "Firmament 3.11.0+mc1.21.7",
   "infoType": "",
   "info": [],
-  "parent": "TURBO_ROSE;1"
+  "parent": "TURBO_ROSE;1",
+  "category": "enchants",
+  "priority": 1
 }

@@ -35,5 +35,7 @@
       "overrideOutputId": "MITHRIL_DRILL_ENGINE",
       "duration": 86400
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

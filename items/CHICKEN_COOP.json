@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Chicken_Coop",
     "https://wiki.hypixel.net/Chicken_Coop"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

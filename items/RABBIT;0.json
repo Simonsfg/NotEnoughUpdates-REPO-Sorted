@@ -42,5 +42,7 @@
       "count": 1,
       "overrideOutputId": "RABBIT;0"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

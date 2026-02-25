@@ -30,5 +30,7 @@
     "C1": "AGARIMOO_TONGUE:64",
     "C2": "AGARIMOO_TONGUE:64",
     "C3": "AGARIMOO_TONGUE:64"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

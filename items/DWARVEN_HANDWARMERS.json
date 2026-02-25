@@ -34,5 +34,7 @@
       "duration": 14400,
       "overrideOutputId": "DWARVEN_HANDWARMERS"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

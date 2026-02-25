@@ -36,5 +36,7 @@
       "overrideOutputId": "GOBLIN_OMELETTE",
       "duration": 64800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

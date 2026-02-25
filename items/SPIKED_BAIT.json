@@ -30,5 +30,7 @@
     "C1": "",
     "C2": "RAW_FISH-3:1",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -30,5 +30,7 @@
     "C1": "",
     "C2": "ORB_OF_ENERGY:1",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

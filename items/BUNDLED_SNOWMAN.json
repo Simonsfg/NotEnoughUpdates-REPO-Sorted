@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bundled_Snowman",
     "https://wiki.hypixel.net/Bundled_Snowman"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

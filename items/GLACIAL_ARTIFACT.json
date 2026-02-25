@@ -29,5 +29,7 @@
     "C1": "GLACIAL_FRAGMENT:10",
     "C2": "ENCHANTED_PACKED_ICE:2",
     "C3": "GLACIAL_FRAGMENT:10"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

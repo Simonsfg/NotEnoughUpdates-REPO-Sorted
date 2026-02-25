@@ -24,5 +24,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Empty_Map"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

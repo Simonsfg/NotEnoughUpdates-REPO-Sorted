@@ -39,5 +39,7 @@
       "count": 1,
       "overrideOutputId": "ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1"
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

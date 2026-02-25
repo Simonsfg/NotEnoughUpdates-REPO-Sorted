@@ -23,5 +23,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Kloonboat",
     "https://wiki.hypixel.net/Kloonboat"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

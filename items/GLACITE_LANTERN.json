@@ -42,5 +42,7 @@
       "overrideOutputId": "GLACITE_LANTERN",
       "duration": 43200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

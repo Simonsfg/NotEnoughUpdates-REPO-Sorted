@@ -45,5 +45,7 @@
       "overrideOutputId": "FRIGID_HUSK",
       "duration": 21600
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

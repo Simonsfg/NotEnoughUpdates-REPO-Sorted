@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Tiny_Dancer",
     "https://wiki.hypixel.net/Tiny_Dancer"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

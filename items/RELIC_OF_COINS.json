@@ -31,5 +31,7 @@
     "C1": "",
     "C2": "FRESHLY_MINTED_COINS:16",
     "C3": ""
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

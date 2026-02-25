@@ -33,5 +33,7 @@
     "C1": "GLASS:1",
     "C2": "GLASS:1",
     "C3": "GLASS:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

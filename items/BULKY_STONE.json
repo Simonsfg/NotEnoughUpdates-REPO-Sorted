@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bulky_Stone",
     "https://wiki.hypixel.net/Bulky_Stone"
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dr._Stone",
     "https://wiki.hypixel.net/Dr._Stone"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

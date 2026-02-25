@@ -139,5 +139,7 @@
       ],
       "result": "ABIPHONE_FLIP_PLUS_CLOCKWORK"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

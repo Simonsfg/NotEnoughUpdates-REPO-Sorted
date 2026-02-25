@@ -30,5 +30,7 @@
     "C1": "",
     "C2": "WILTED_BERBERIS:20",
     "C3": ""
-  }
+  },
+  "category": "vanilla",
+  "priority": 10
 }

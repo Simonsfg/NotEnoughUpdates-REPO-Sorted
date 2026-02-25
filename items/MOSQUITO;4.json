@@ -48,5 +48,7 @@
         "TARANTULA_SILK:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

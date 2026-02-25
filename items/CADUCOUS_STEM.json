@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Caducous_Stem",
     "https://wiki.hypixel.net/Caducous_Stem"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Infinityboom_TNT",
     "https://wiki.hypixel.net/Infinityboom_TNT"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

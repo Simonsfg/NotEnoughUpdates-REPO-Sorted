@@ -26,5 +26,7 @@
       "cost": "ENCHANTED_EMERALD:3",
       "result": "POTATO_SPREADING"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -36,5 +36,7 @@
     "C1": "PUMPKIN_GUTS:4",
     "C2": "PUMPKIN_GUTS:4",
     "C3": "PUMPKIN_GUTS:4"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

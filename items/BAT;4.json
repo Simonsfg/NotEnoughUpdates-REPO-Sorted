@@ -48,5 +48,7 @@
         "ENCHANTED_BROWN_MUSHROOM:16"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

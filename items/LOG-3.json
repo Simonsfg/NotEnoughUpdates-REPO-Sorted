@@ -16,5 +16,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jungle_Log",
     "https://wiki.hypixel.net/Jungle_Log"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

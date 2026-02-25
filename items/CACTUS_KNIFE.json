@@ -28,5 +28,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Cactus_Knife",
     "https://wiki.hypixel.net/Cactus_Knife"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

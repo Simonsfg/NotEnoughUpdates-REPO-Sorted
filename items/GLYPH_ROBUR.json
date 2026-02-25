@@ -21,5 +21,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Robur_Glyph"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

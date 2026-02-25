@@ -16,5 +16,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Disinfestor",
     "https://wiki.hypixel.net/Disinfestor"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "rift",
+  "priority": 3
 }

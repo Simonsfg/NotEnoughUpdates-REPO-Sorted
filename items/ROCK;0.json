@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet",
     "https://wiki.hypixel.net/Rock_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

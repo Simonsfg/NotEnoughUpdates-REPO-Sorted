@@ -36,5 +36,7 @@
     "C2": "ENCHANTED_ACACIA_LOG:4",
     "C3": "ENCHANTED_ACACIA_LOG:4"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

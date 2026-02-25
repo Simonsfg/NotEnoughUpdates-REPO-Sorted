@@ -45,5 +45,7 @@
     "C1": "ENCHANTED_SULPHUR_CUBE:1",
     "C2": "KADA_LEAD:60",
     "C3": "ENCHANTED_SULPHUR_CUBE:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

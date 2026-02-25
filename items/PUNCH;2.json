@@ -26,5 +26,7 @@
   "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
   "infoType": "",
   "info": [],
-  "parent": "PUNCH;1"
+  "parent": "PUNCH;1",
+  "category": "enchants",
+  "priority": 1
 }

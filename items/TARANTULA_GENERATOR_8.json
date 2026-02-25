@@ -35,5 +35,7 @@
     "C2": "SPIDER_GENERATOR_7:1",
     "C3": "TARANTULA_SILK:8"
   },
-  "useneucraft": true
+  "useneucraft": true,
+  "category": "misc",
+  "priority": 11
 }

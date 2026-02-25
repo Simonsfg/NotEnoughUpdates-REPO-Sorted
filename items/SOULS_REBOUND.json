@@ -38,5 +38,7 @@
     "C1": "",
     "C2": "ENCHANTED_GHAST_TEAR:64",
     "C3": "SOUL_STRING:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

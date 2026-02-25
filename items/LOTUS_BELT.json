@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Lotus_Belt",
     "https://wiki.hypixel.net/Lotus_Belt"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

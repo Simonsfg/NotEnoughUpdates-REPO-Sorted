@@ -26,5 +26,7 @@
   "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
   "infoType": "",
   "info": [],
-  "parent": "INFINITE_QUIVER;4"
+  "parent": "INFINITE_QUIVER;4",
+  "category": "enchants",
+  "priority": 1
 }

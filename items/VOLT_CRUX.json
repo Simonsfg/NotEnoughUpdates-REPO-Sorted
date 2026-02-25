@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Volt_Crux",
     "https://wiki.hypixel.net/Volt_Crux"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "ENTANGLER_LASSO"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

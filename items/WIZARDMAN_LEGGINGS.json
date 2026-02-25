@@ -35,5 +35,7 @@
     "C1": "",
     "C2": "TIGHT_PANTS_FRAGMENT:1",
     "C3": ""
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Raw_Soulflow",
     "https://wiki.hypixel.net/Raw_Soulflow"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

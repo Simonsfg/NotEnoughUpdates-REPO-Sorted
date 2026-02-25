@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Summoning_Eye",
     "https://wiki.hypixel.net/Summoning_Eye"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

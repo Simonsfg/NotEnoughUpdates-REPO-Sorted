@@ -54,5 +54,7 @@
         "ENCHANTED_ENDSTONE:64"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

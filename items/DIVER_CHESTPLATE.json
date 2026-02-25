@@ -47,5 +47,7 @@
       "count": 1,
       "overrideOutputId": "DIVER_CHESTPLATE"
     }
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

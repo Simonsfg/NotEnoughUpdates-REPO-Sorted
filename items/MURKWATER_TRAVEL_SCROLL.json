@@ -37,5 +37,7 @@
       "count": 1,
       "overrideOutputId": "MURKWATER_TRAVEL_SCROLL"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

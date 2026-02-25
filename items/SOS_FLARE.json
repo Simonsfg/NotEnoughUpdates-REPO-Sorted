@@ -43,5 +43,7 @@
     "C2": "ALERT_FLARE:1",
     "C3": "INFERNO_VERTEX:8"
   },
-  "slayer_req": "BLAZE_7"
+  "slayer_req": "BLAZE_7",
+  "category": "misc",
+  "priority": 11
 }

@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Earthworm_Ensemble_Vinyl",
     "https://wiki.hypixel.net/Earthworm_Ensemble_Vinyl"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

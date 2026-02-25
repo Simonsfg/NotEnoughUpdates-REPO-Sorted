@@ -25,5 +25,7 @@
     "C1": "REDSTONE:1",
     "C2": "REDSTONE:1",
     "C3": "REDSTONE:1"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

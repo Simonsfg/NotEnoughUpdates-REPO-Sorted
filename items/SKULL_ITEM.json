@@ -11,5 +11,7 @@
   "vanilla": true,
   "crafttext": "",
   "infoType": "",
-  "clickcommand": ""
+  "clickcommand": "",
+  "category": "misc",
+  "priority": 11
 }

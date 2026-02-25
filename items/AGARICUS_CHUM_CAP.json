@@ -29,5 +29,7 @@
     "C2": "AGARICUS_CAP:1",
     "C3": "AGARICUS_CAP:1",
     "count": 8
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

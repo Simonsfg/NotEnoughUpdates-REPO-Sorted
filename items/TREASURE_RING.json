@@ -31,5 +31,7 @@
     "C1": "TREASURE_TALISMAN:1",
     "C2": "TREASURE_TALISMAN:1",
     "C3": "TREASURE_TALISMAN:1"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

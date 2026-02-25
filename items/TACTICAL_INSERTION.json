@@ -39,5 +39,7 @@
     "C2": "",
     "C3": ""
   },
-  "slayer_req": "BLAZE_4"
+  "slayer_req": "BLAZE_4",
+  "category": "misc",
+  "priority": 11
 }

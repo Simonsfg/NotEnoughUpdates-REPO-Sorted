@@ -44,5 +44,7 @@
       "count": 1,
       "overrideOutputId": "VINERIP_LASSO"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

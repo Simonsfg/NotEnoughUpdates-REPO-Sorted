@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gulliver",
     "https://wiki.hypixel.net/Gulliver"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

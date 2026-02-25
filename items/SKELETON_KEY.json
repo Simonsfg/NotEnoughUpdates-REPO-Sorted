@@ -34,5 +34,7 @@
       "overrideOutputId": "SKELETON_KEY",
       "duration": 1800
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

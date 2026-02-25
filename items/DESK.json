@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Desk",
     "https://wiki.hypixel.net/Desk"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

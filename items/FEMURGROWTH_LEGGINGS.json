@@ -31,5 +31,7 @@
     "C1": "BACTE_FRAGMENT:2",
     "C2": "",
     "C3": "BACTE_FRAGMENT:2"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

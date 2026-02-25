@@ -33,5 +33,7 @@
       "count": 1,
       "overrideOutputId": "KUUDRAS_LUNG"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

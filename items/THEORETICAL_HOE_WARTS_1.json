@@ -33,5 +33,7 @@
     "C1": "NETHER_STALK:64",
     "C2": "NETHER_STALK:64",
     "C3": "NETHER_STALK:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

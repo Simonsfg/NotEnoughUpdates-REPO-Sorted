@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Jim_Bob",
     "https://wiki.hypixel.net/Jim_Bob"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

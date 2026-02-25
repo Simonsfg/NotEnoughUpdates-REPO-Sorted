@@ -17,5 +17,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Dirt_Guy",
     "https://wiki.hypixel.net/Dirt_Guy"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

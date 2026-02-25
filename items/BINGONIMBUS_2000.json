@@ -25,5 +25,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Bingonimbus_2000",
     "https://wiki.hypixel.net/Bingonimbus_2000"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

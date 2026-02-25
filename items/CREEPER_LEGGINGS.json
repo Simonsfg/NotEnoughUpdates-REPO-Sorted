@@ -35,5 +35,7 @@
     "C1": "ENCHANTED_GUNPOWDER:32",
     "C2": "",
     "C3": "ENCHANTED_GUNPOWDER:32"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

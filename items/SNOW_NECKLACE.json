@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Snow_Necklace",
     "https://wiki.hypixel.net/Snow_Necklace"
-  ]
+  ],
+  "category": "accessories",
+  "priority": 4
 }

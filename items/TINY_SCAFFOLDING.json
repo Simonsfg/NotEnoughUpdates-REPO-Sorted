@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "TINY_SCAFFOLDING"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

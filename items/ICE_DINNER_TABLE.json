@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Ice_Dinner_Table",
     "https://wiki.hypixel.net/Ice_Dinner_Table"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

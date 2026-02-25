@@ -19,5 +19,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Poison_Sample",
     "https://wiki.hypixel.net/Poison_Sample"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

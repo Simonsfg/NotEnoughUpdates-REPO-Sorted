@@ -18,5 +18,7 @@
   "x": -55,
   "y": 70,
   "z": -66,
-  "island": "hub"
+  "island": "hub",
+  "category": "misc",
+  "priority": 11
 }

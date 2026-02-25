@@ -37,5 +37,7 @@
     "C1": "PUFF_CRUX:16",
     "C2": "PUFF_CRUX:16",
     "C3": "PUFF_CRUX:16"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

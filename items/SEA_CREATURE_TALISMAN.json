@@ -31,5 +31,7 @@
     "C1": "SPONGE:2",
     "C2": "SPONGE:2",
     "C3": "SPONGE:2"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

@@ -28,5 +28,7 @@
     "C1": "BROWN_MUSHROOM:1",
     "C2": "BROWN_MUSHROOM:1",
     "C3": "BROWN_MUSHROOM:1"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

@@ -35,5 +35,7 @@
     "C1": "ENCHANTED_CLAY_BALL:16",
     "C2": "ENCHANTED_PUFFERFISH:16",
     "C3": "ENCHANTED_CLOWNFISH:16"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

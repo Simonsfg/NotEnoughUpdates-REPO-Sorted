@@ -26,5 +26,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Plushie_Blaze_Skin",
     "https://wiki.hypixel.net/Plushie_Blaze_Skin"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

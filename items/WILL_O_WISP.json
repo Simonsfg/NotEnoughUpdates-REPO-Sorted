@@ -45,5 +45,7 @@
       "overrideOutputId": "WILL_O_WISP",
       "duration": 43200
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -37,5 +37,7 @@
     "C2": "LIVID_FRAGMENT:1",
     "C3": "LIVID_FRAGMENT:1"
   },
-  "parent": "LAST_BREATH"
+  "parent": "LAST_BREATH",
+  "category": "misc",
+  "priority": 11
 }

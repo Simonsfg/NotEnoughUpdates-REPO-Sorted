@@ -35,5 +35,7 @@
     "C1": "HARD_STONE:32",
     "C2": "HARD_STONE:32",
     "C3": "HARD_STONE:32"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

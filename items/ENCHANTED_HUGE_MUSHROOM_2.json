@@ -46,5 +46,7 @@
       "count": 1,
       "overrideOutputId": "ENCHANTED_HUGE_MUSHROOM_2"
     }
-  ]
+  ],
+  "category": "blocks",
+  "priority": 8
 }

@@ -39,5 +39,7 @@
     "C1": "ORB_OF_ENERGY:32",
     "C2": "ORB_OF_ENERGY:32",
     "C3": "ORB_OF_ENERGY:32"
-  }
+  },
+  "category": "accessories",
+  "priority": 4
 }

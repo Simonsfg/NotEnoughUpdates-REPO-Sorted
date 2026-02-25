@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Egg_Pile",
     "https://wiki.hypixel.net/Egg_Pile"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

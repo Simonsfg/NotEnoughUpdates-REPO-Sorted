@@ -30,5 +30,7 @@
     "C1": "HARD_STONE:64",
     "C2": "HARD_STONE:64",
     "C3": "HARD_STONE:64"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

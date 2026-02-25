@@ -30,5 +30,7 @@
     "C1": "EMERALD:64",
     "C2": "EMERALD:64",
     "C3": "EMERALD:64"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

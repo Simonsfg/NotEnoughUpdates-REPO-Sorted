@@ -28,5 +28,7 @@
     "C1": "DEADGEHOG_SPINE:2",
     "C2": "WYLD_SWORD:1",
     "C3": "DEADGEHOG_SPINE:2"
-  }
+  },
+  "category": "weapons",
+  "priority": 5
 }

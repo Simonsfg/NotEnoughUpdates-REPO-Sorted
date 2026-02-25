@@ -18,5 +18,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Silverfish",
     "https://wiki.hypixel.net/Kat_(Rift)"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

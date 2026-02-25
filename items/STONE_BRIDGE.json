@@ -29,5 +29,7 @@
     "C1": "SMOOTH_BRICK:8",
     "C2": "SMOOTH_BRICK:8",
     "C3": "SMOOTH_BRICK:8"
-  }
+  },
+  "category": "misc",
+  "priority": 11
 }

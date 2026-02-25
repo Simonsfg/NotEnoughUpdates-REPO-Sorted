@@ -82,5 +82,7 @@
   "infoType": "",
   "info": [
     "§aUsed to test /neuec"
-  ]
+  ],
+  "category": "enchants",
+  "priority": 1
 }

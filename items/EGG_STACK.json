@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Egg_Stack",
     "https://wiki.hypixel.net/Egg_Stack"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

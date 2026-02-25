@@ -28,5 +28,7 @@
     "C1": "STICK:1",
     "C2": "",
     "C3": "ENCHANTED_CARROT:32"
-  }
+  },
+  "category": "blocks",
+  "priority": 8
 }

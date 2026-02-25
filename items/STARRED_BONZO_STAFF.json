@@ -38,5 +38,7 @@
     "C2": "BONZO_FRAGMENT:1",
     "C3": "BONZO_FRAGMENT:1"
   },
-  "parent": "BONZO_STAFF"
+  "parent": "BONZO_STAFF",
+  "category": "misc",
+  "priority": 11
 }

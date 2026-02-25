@@ -30,5 +30,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Drakuu",
     "https://wiki.hypixel.net/Drakuu"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

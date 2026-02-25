@@ -23,5 +23,7 @@
     "https://hypixel-skyblock.fandom.com/wiki/Ender_Chestplate",
     "https://wiki.hypixel.net/Ender_Chestplate"
   ],
-  "crafttext": ""
+  "crafttext": "",
+  "category": "armor",
+  "priority": 6
 }

@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "MANGROVE_LOCKET"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

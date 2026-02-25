@@ -42,5 +42,7 @@
     "C1": "",
     "C2": "PAPER:2",
     "C3": "GOLDEN_APPLE-1:2"
-  }
+  },
+  "category": "enchants",
+  "priority": 1
 }

@@ -36,5 +36,7 @@
       "count": 1,
       "overrideOutputId": "COCO_CHOPPER_3"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

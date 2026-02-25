@@ -27,5 +27,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Elephant_Pet",
     "https://wiki.hypixel.net/Elephant_Pet"
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

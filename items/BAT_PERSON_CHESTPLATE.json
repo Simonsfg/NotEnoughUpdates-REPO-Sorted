@@ -42,5 +42,7 @@
     "C1": "SPOOKY_SHARD:1",
     "C2": "SPOOKY_SHARD:1",
     "C3": "SPOOKY_SHARD:1"
-  }
+  },
+  "category": "armor",
+  "priority": 6
 }

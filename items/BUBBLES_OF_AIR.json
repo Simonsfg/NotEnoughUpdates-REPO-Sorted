@@ -35,5 +35,7 @@
       "count": 1,
       "overrideOutputId": "BUBBLES_OF_AIR"
     }
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -16,5 +16,7 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://wiki.hypixel.net/Skyblock_Animation"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }

@@ -50,5 +50,7 @@
         "ENDERMAN_CORTEX_REWRITER:1"
       ]
     }
-  ]
+  ],
+  "category": "pets",
+  "priority": 2
 }

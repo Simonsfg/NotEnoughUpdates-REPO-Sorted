@@ -31,5 +31,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Skeletor_Boots",
     "https://wiki.hypixel.net/Skeletor_Boots"
-  ]
+  ],
+  "category": "armor",
+  "priority": 6
 }

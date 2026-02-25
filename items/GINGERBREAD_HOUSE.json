@@ -20,5 +20,7 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Gingerbread_House",
     "https://wiki.hypixel.net/Gingerbread_House"
-  ]
+  ],
+  "category": "misc",
+  "priority": 11
 }
